@@ -51,8 +51,8 @@ last_modified_at: 2025-08-25
 <!-- **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}       -->
 
 **Studio Assistant:** Milo Gold  
-**Email:** <a href="mailto:#">#</a>  
-**Studio Hours:** Tuesdays or Thursdays from ? to ?      
+**Email:** <a href="mailto:mgold2@bates.edu">mgold2@bates.edu</a>  
+**Studio Hours:** Tuesdays 14:00—16:00 and Thursdays 14:00—15:00      
 
 **Course Website:** [https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/){:target="_blank"}  
 
