@@ -42,7 +42,7 @@ last_modified_at: 2025-08-25
 **Modality:** In-person     
 <!-- <span style="font-size: smaller;"><em><b>* hybrid and virtual available in extenuating circumstances at the discretion of the instructor</b></em></span>    -->
 
-**Instructor:** Louis Goldford  
+**Instructor:** Professor Louis Goldford  
 **Email:** <a href="mailto:lgoldford@bates.edu">lgoldford@bates.edu</a>  
 **Office Hours:** Wednedsays from 11:00—12:30 or by appointment.    
 **Office Location:** Olin 260   
