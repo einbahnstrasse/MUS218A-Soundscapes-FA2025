@@ -344,7 +344,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 
 Students and all others who work with information, ideas, texts, images, music, inventions, code, and other intellectual property owe their audience and sources accuracy and honesty in using, crediting, and citing sources. As a community of intellectual and professional workers, the university recognizes its responsibility for providing instruction in information literacy and academic integrity, offering models of good practice, and responding vigilantly and appropriately to infractions of academic integrity. Accordingly, academic dishonesty is prohibited at Bates College and is punishable by penalties, including failing grades, suspension, and expulsion. 
 
-#### 5.1.1 Bates College Statement on Academic Integrity    
+#### 5.1.1 Bates Statement on Academic Integrity    
 
 Bates College is an academic community deeply engaged in inquiry and intellectual exchange and committed to core principles of academic freedom, academic integrity, and rigorous, creative thought. We recognize that intellectual and artistic exchange depend on a mutual respect for independent inquiry, reflection, and expression. Faculty, staff, and students alike are therefore dedicated to fostering an environment that upholds the highest standards of fairness, integrity, and respect in all their academic endeavors.
 
@@ -359,7 +359,7 @@ _Read more on Bates College Academic Integrity policies and procedures at the [S
 
 #### 5.1.2 Use of Borrowed Code       
     
-Code borrowed from another source must be attributed as a comment within your own code. If you are unsure of whether or not your work may constitute plagiarism, please check with the instructor before submitting. Where applicable and where marked within our course materials, follow the provisions of the [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}_    
+Code borrowed from another source must be attributed as a comment within your own code. If you are unsure of whether or not your work may constitute plagiarism, please check with the instructor before submitting. Where applicable and where marked within our course materials, follow the provisions of the [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}    
 
 ### 5.2 Generative AI Policy      
 
@@ -372,6 +372,8 @@ For any assignment in which generative AI tools were used (always and only in ac
 Use Chicago style citations and footnotes. See the Chicago Manual of Style's [Citation, Documentation of Sources page](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html){:target="_blank"} for up-to-date formatting guidelines regarding the use of generative AI tools. 
 
 *Failure to attribute material to its original source constitutes plagiarism. Use of generative AI tools where not explicity sanctioned by the instructor constitutes plagiarism*. Students should be aware that **generative AI tools often generate incorrect statements, generate fake sources, and/or do not attribute material to proper sources**. Students must acknowledge all instances in which generative AI tools were used in an assignment (such as in ideation, research, analysis, editing, debugging, etc.). All submitted work by a student must  be original work that includes properly attributed external sources. **Students are responsible for the entirety of their final submission. Any inaccuracies or other deficiencies cannot and will not be excused on the basis of originating from an AI tool**.  
+
+_Adapted from the [Proposed Harvard AI Code of Conduct](https://aipedagogy.org/guide/tutorial/){:target="_blank"}_.    
 
 ### 5.3 Academic Integrity Pledge   
 
