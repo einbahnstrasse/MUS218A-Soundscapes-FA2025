@@ -59,7 +59,7 @@ last_modified_at: 2025-08-25
 _Our course website, and especially its [Schedule page](/MUS218A-Soundscapes-FA2025/schedule/){:target="_blank"}, will be used to distribute course materials while all grading and assignment submissions will take place through Lyceum and Etna. You will need to consult this site before each class to keep up with our daily materials, changes to our schedule, etc. If you're viewing this Syllabus on a projected screen, bookmark our site at the following link:_   
 
 <!-- ![Our site.](assets/images/MUS218A-Soundscapes-FA2025-QR.png)    -->
-<img src="assets/images/MUS218A-Soundscapes-FA2025-QR.png" alt="Our site." width="550">
+<img src="assets/images/MUS218A-Soundscapes-FA2025-QR.png" alt="Our site." width="300">
     
 ## 2. Course Description    
 
