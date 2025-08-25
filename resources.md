@@ -98,6 +98,8 @@ SPEAR is an application for audio analysis/resynthesis. We use SPEAR to “disse
 
 ## MaxMSP      
 
+***CRITICAL: Do not download and install MaxMSP until the last month of classes! ***
+
 _Download + install the current build from:_ <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://cycling74.com/downloads" target="_blank" class="btn btn--primary">MaxMSP</a></span>  
 
 Most recent releases should support our work in class, however.  
@@ -106,7 +108,7 @@ At the time of this publication, all software for the class was tested up to Max
 
 <img src="/MUS218A-Soundscapes-FA2025/assets/images/maxmsp_interface.png" alt="MaxMSP interface">  
 
-### Temporary Max License Keys   
+<!-- ### Temporary Max License Keys   
 
 If you don't have your own, <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="mailto:Louis.Goldford@mh-luebeck.de/?subject=[MHL%20Advanced%20CAO]%20Max%20License%20request" target="_blank" class="btn btn--danger">**email me to request a software license key**</a></span>     
 
@@ -114,7 +116,7 @@ We typically have a few licenses available to students enrolled in our courses.
 
 They are made available on a first-come-first-serve basis. 
 
-If a license key is free, I can make it available to you for the duration of this course and possibly longer, depending on how many other requests I get. Ideally, we would like to ensure you have access to Max for as long as you would need to finish a project.   
+If a license key is free, I can make it available to you for the duration of this course and possibly longer, depending on how many other requests I get. Ideally, we would like to ensure you have access to Max for as long as you would need to finish a project.    -->
 
 ## Max Packages + Libraries     
 
