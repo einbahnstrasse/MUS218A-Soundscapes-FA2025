@@ -34,7 +34,7 @@ last_modified_at: 2023-08-28
 <!-- # Grading -->
 _A list of assignments, deadlines, and points to help you plan for the semester will be posted in Lyceum. Coming soon!_  
    
-_For an overview of grading policies for this course, see [XI. General Grading Rubric, located in the SYLLABUS.](index.html){:target="_blank"}_  
+_For an overview of grading policies for this course, see [XI. General Grading Rubric, located in the SYLLABUS.](/MUS218A-Soundscapes-FA2025/#6-general-grading-rubric){:target="_blank"}_  
 
 <!-- <div class="instructornote">
 <p markdown="span"><em><b>Reminder:</b> {{ site.weekly-deadline-statement }}</em></p></div> -->
