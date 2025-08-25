@@ -39,7 +39,7 @@ last_modified_at: 2025-08-25
 **Time:** Mondays, Wednesdays, and Fridays from 14:40—16:00     
 **Location:** Bates Sound Studio (Olin 302)  
 **Format:** Lecture/Demonstration    
-**Modality:** In-person<b>*</b>   
+**Modality:** In-person     
 <!-- <span style="font-size: smaller;"><em><b>* hybrid and virtual available in extenuating circumstances at the discretion of the instructor</b></em></span>    -->
 
 **Instructor:** Louis Goldford  
@@ -49,11 +49,11 @@ last_modified_at: 2025-08-25
 <!-- **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}       -->
 **Course Website:** [https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/){:target="_blank"}  
 
-_If you're viewing this syllabus on a projected screen, bookmark our site at the following link:_   
+_Our course website, and especially its [Schedule page](/MUS218A-Soundscapes-FA2025/schedule.html){:target="_blank"}, will be used to distribute course materials. All grading and assignment submissions will take place through Lyceum and Etna. You will need to consult this page regularly to keep up with our materials, changes to our schedule, etc. If you're viewing this syllabus on a projected screen, bookmark our site at the following link:_   
 
-![Our site.](assets/images/MUS218A-Soundscapes-FA2025-QR.png)   
-  
-
+<!-- ![Our site.](assets/images/MUS218A-Soundscapes-FA2025-QR.png)    -->
+<img src="assets/images/MUS218A-Soundscapes-FA2025-QR.png" alt="Our site." width="200">
+    
 ## 2. Course Description    
 
 **Soundscapes: Recording and Designing Sound** is a first-semester foundational course in electronic music and sound art, introducing students to the studio environment and to the rudiments of digital creation, recording, mixing, post production, synthesis and MIDI, computer music, and spatial audio. Central topics may change from one semester to the next as a result of its flexible structure. This semester will focus on **multichannel fixed media composition**.  
