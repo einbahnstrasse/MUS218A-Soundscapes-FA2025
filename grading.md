@@ -32,7 +32,7 @@ last_modified_at: 2023-08-28
 </div> -->
 
 <!-- # Grading -->
-_A list of assignments, deadlines, and points to help you plan for the semester._  
+_A list of assignments, deadlines, and points to help you plan for the semester will be posted in Lyceum. Coming soon!_  
 _For an overview of grading policies for this course, see [XI. General Grading Rubric, located in the SYLLABUS.](index.html){:target="_blank"}_  
 
 <!-- <div class="instructornote">
@@ -40,10 +40,6 @@ _For an overview of grading policies for this course, see [XI. General Grading R
 <!-- _**Reminder:** Deadlines are always on the Saturday night at 11:59 PM following the assignment date listed below._   -->
 
 <!-- ### I. Weekly Lab Assignments -->
-
-_Coming Soon!_  
-
-
 
 <!-- <div class="schedulingtable">
 <table>
