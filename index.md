@@ -34,19 +34,19 @@ last_modified_at: 2025-08-25
 
 ## 1. Essential Contact Information  
 
-**Course Number:** 00003   
-**Semester:** Winter 2024 — 2025   
-**Time:** Tuesdays 10:00-11:30    
-**Location:** 2.43 Electronic Music Studio   
-**Format:** Seminar   
+**Course Number:** MUS218A   
+**Semester:** Fall 2025   
+**Time:** Mondays, Wednesdays, and Fridays from 14:40—16:00     
+**Location:** Bates Sound Studio (Olin 302)  
+**Format:** Lecture/Demonstration    
 **Modality:** In-person<b>*</b>   
-<span style="font-size: smaller;"><em><b>* hybrid and virtual available in extenuating circumstances at the discretion of the instructor</b></em></span>   
+<!-- <span style="font-size: smaller;"><em><b>* hybrid and virtual available in extenuating circumstances at the discretion of the instructor</b></em></span>    -->
 
 **Instructor:** Louis Goldford  
-**Email:** <a href="mailto:Louis.Goldford@mh-luebeck.de">Louis.Goldford@mh-luebeck.de</a>  
-**Office Hours:** Monday — Wednedsay <mark>by appointment</mark>   
-**Office Location:** 2.47A _"The Aquarium"_ (next to 2.43 Electronic Music Studio)  
-**MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}      
+**Email:** <a href="mailto:lgoldford@bates.edu">lgoldford@bates.edu</a>  
+**Office Hours:** Wednedsays from 11:00—12:30 or <mark>by appointment</mark>   
+**Office Location:** Olin 260   
+<!-- **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}       -->
 **Course Website:** [https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/){:target="_blank"}  
 
 _If you're viewing this syllabus on a projected screen, bookmark our site at the following link:_   
@@ -56,11 +56,9 @@ _If you're viewing this syllabus on a projected screen, bookmark our site at the
 
 ## 2. Course Description    
 
-**Electronic Studio Methods and Composition** is a first-semester foundational course in electronic music and sound art, introducing students to the studio environment and to the rudiments of digital creation, recording, mixing, post production, synthesis and MIDI, computer music, and spatial audio. Central topics may change from one semester to the next as a result of its flexible structure. This semester will focus on **multichannel fixed media composition**: students will create a fixed media piece ("tape piece") for 8 loudspeakers to be featured during the _**Werkstatt für Aktuelle Musik**_ (January 17-20, 2024). 
+**Soundscapes: Recording and Designing Sound** is a first-semester foundational course in electronic music and sound art, introducing students to the studio environment and to the rudiments of digital creation, recording, mixing, post production, synthesis and MIDI, computer music, and spatial audio. Central topics may change from one semester to the next as a result of its flexible structure. This semester will focus on **multichannel fixed media composition**.  
 
-Weekly seminars are structured with an emphasis on creating, transforming, and sculpting sounds. Classes will frequently consist of software tutorials and in-class demonstrations that can quickly integrate into personal artistic projects. Students will be required to complete a number of smaller graded assignments, culminating in a final piece. Each week focuses on a new topic that builds upon work completed in the previous week. _**Students are therefore expected to attend regularly.**_ Students should communicate about course materials on our MHL Discord Server. There is a **midterm exam**: a 3-minute stereo fixed media "sketch." This sketch can be expanded upon and made into the **final exam**: a 10-minute multichannel work for the concert.    
-
-_**Students are required to pass Electronic Studio Methods and Composition in order to continue taking our Digitale Kreation courses at MHL.**_   
+Weekly seminars are structured with an emphasis on creating, transforming, and sculpting sounds. Classes will frequently consist of software tutorials and in-class demonstrations that can quickly integrate into personal artistic projects. Students will be required to complete a number of smaller graded assignments, culminating in a final piece. Each week focuses on a new topic that builds upon work completed in the previous week. _**Students are therefore expected to attend regularly.**_ There is a **midterm exam**: a 3-minute stereo fixed media "sketch." This sketch can be expanded upon and made into the **final exam**: a 10-minute multichannel work for the concert.    
 
 ### 2.1 Course Goals      
 

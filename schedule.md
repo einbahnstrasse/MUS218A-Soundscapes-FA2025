@@ -15,8 +15,8 @@ toc_label: "Schedule" # default: Content
 toc_icon: "bell"  # corr esponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc 
 read_time: true  
-date: 2024-09-30  
-last_modified_at: 2024-10-07  
+date: 2025-08-25  
+last_modified_at: 2025-08-25  
 
 ---
 
