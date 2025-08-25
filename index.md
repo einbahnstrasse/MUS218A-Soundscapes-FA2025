@@ -342,15 +342,42 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 
 ### 5.1 General Notes on Academic Integrity   
 
-Students and all others who work with information, ideas, texts, images, music, inventions, and other intellectual property owe their audience and sources accuracy and honesty in using, crediting, and citing sources. As a community of intellectual and professional workers, the university recognizes its responsibility for providing instruction in information literacy and academic integrity, offering models of good practice, and responding vigilantly and appropriately to infractions of academic integrity. Accordingly, academic dishonesty is prohibited at Musikhochschule Lübeck (MHL) and is punishable by penalties, including failing grades, suspension, and expulsion. 
-   
-<span style="color: red;">**Instructor Note:** _Code borrowed from another source must be attributed as a comment within your own code. If you are unsure of whether or not your work may constitute plagiarism, please check with the instructor before submitting. Where applicable and where marked within our course materials, follow the provisions of the [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}_</span>
+Students and all others who work with information, ideas, texts, images, music, inventions, code, and other intellectual property owe their audience and sources accuracy and honesty in using, crediting, and citing sources. As a community of intellectual and professional workers, the university recognizes its responsibility for providing instruction in information literacy and academic integrity, offering models of good practice, and responding vigilantly and appropriately to infractions of academic integrity. Accordingly, academic dishonesty is prohibited at Bates College and is punishable by penalties, including failing grades, suspension, and expulsion. 
 
-### 5.2 Academic Integrity Pledge   
+#### 5.1.1 Bates College Statement on Academic Integrity    
+
+Bates College is an academic community deeply engaged in inquiry and intellectual exchange and committed to core principles of academic freedom, academic integrity, and rigorous, creative thought. We recognize that intellectual and artistic exchange depend on a mutual respect for independent inquiry, reflection, and expression. Faculty, staff, and students alike are therefore dedicated to fostering an environment that upholds the highest standards of fairness, integrity, and respect in all their academic endeavors.
+
+As contributors to an ongoing scholarly and creative conversation that depends upon thoughtful and fair acknowledgment and treatment of the inquiries, reflections, and expressions of others, each member of the Bates community is expected to use and represent the work of others fairly and honestly; to acknowledge the work of others fully and accurately through proper attribution and citation; and to produce their own work unless collaboration is allowed. Faculty and staff members are expected to meet these standards in all their work as described in the employee and faculty handbooks; students are subject to the policies and procedures described below.
+
+In educating students in the values, dispositions, and responsibilities of independent thinkers and scholars, the Bates faculty recognizes that certain scholarly practices reflect complex tasks that require instruction and practice. Faculty are committed to teaching these critical practices. Students in turn are responsible for learning these scholarly practices and demonstrating them in all their work; they are not only a means of showing learning but of developing genuine understanding, not only the mark of an independent scholar but the way to become one.
+
+This policy statement outlines these principles and practices, roles and responsibilities.
+
+_Read more on Bates College Academic Integrity policies and procedures at the [Student Conduct & Community Standards website](https://www.bates.edu/student-conduct-community-standards/student-conduct/academic-integrity-policy/){:target="_blank"}._ 
+
+
+#### 5.1.2 Use of Borrowed Code       
+    
+Code borrowed from another source must be attributed as a comment within your own code. If you are unsure of whether or not your work may constitute plagiarism, please check with the instructor before submitting. Where applicable and where marked within our course materials, follow the provisions of the [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}_    
+
+### 5.2 Generative AI Policy      
+
+Generative AI tools (i.e., such as large language models (LLMs) like ChatGPT and others) may be used **only when (and how) specified for specified course work, and otherwise are not permitted**. We will rarely, if at all, being using these tools in the study, creation, ideation, and audiation of sound and music within the context of this course. In other words, **unless otherwise noted, use of generative AI tools is explicitly prohibited**.   
+
+Use of generative AI tools, only where explicitly permitted by the instructor, may be included for a particular assignment or exercise, for a particular course module, or for inquiry into a particular type of AI tool. As with any other academic resource used to create student work, any contribution of generative AI tools to student work must be clearly disclosed by the student and cited like any other resource. 
+
+For any assignment in which generative AI tools were used (always and only in accordance with the policy specified for this course or a particular assignment), students must include, in addition to a traditional bibliography, a written page entitled “explanation of AI tool use” that contains a description of which tools were used (such as ChatGPT, DALL-E, etc.), how each tool was used, (such as in ideation, research, analysis, editing, debugging, etc.), the specific prompts entered into the model(s), how model outputs were evaluated, and whether and where model outputs were used in the work that was submitted.
+
+Use Chicago style citations and footnotes. See the Chicago Manual of Style's [Citation, Documentation of Sources page](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Documentation/faq0422.html){:target="_blank"} for up-to-date formatting guidelines regarding the use of generative AI tools. 
+
+*Failure to attribute material to its original source constitutes plagiarism. Use of generative AI tools where not explicity sanctioned by the instructor constitutes plagiarism*. Students should be aware that **generative AI tools often generate incorrect statements, generate fake sources, and/or do not attribute material to proper sources**. Students must acknowledge all instances in which generative AI tools were used in an assignment (such as in ideation, research, analysis, editing, debugging, etc.). All submitted work by a student must  be original work that includes properly attributed external sources. **Students are responsible for the entirety of their final submission. Any inaccuracies or other deficiencies cannot and will not be excused on the basis of originating from an AI tool**.  
+
+### 5.3 Academic Integrity Pledge   
 
 _By enrolling in this course, you pledge to uphold the policy on Academic Integrity described below:_  
 
-I understand the value of personal integrity and ethical behavior in all aspects of my professional and personal life. By committing to honesty and personal responsibility, I earn the respect and trust of others. As a student at Musikhochschule Lübeck (MHL), I recognize that the value of my education is not just being able to say I am a college graduate, but it also incorporates the skills, values, and knowledge I have acquired. I thus commit myself to upholding academic integrity as an important aspect of my personal integrity and professional growth. I understand that academic integrity includes:  
+I understand the value of personal integrity and ethical behavior in all aspects of my professional and personal life. By committing to honesty and personal responsibility, I earn the respect and trust of others. As a student at Bates College, I recognize that the value of my education is not just being able to say I am a college graduate, but it also incorporates the skills, values, and knowledge I have acquired. I thus commit myself to upholding academic integrity as an important aspect of my personal integrity and professional growth. I understand that academic integrity includes:  
 
 1. Fully observing the rules governing exams and assignments regarding resource material, electronic aids, copying, collaborating with others, or engaging in any other behavior that subverts the purpose of the exam or assignment, and the directions of the instructor.   
 2. Only turning in work that I have done myself, and not using unattributed work done by others. While working and studying with others can be an effective way to learn, submitted work will be my own.  
@@ -421,17 +448,15 @@ I understand the value of personal integrity and ethical behavior in all aspects
 </tbody>
 </table>
 </div>  
-_For a detailed list of assignments, points, and deadlines, see the [GRADING TAB.](/grading){:target="_blank"}_  
+_For a detailed list of assignments, points, and deadlines, see the [GRADING TAB.](/MUS218A-Soundscapes-FA2025/grading/){:target="_blank"}_  
 
+## 7. Course Accommodations      
 
+In order to receive academic accommodations students must contact [Accessible Education and Student Support](https://www.bates.edu/accessible-education-student-support/){:target="_blank"}.     
 
-## 7. Course Accommodations for Students with Disabilities    
+### 7.1 Counseling & Psychological Services (CAPS)   
 
-In order to receive disability-related academic accommodations students must contact [Inclusion at MHL](https://www.mh-luebeck.de/en/studium/inclusion/){:target="_blank"}.     
-
-### 7.1 Counseling Center   
-
-The Psychological Counseling Services Center supports the educational, emotional and career development of MHL students by providing opportunities for skill development, counseling and referrals that address obstacles to success. For questions and appointments, more information can be found at [Psychological Counselling](https://www.mh-luebeck.de/de/studium/beratung/psychologische-beratung/){:target="_blank"}.   
+Counseling & Psychological Services (CAPS) supports the educational, emotional and career development of Bates students by providing opportunities for skill development, counseling and referrals that address obstacles to success. For questions and appointments, more information can be found at [Counseling & Psychological Services (CAPS)](https://www.bates.edu/counseling-psychological-services/){:target="_blank"}.   
 
 ## 8. Inclusivity    
 
