@@ -51,7 +51,7 @@ last_modified_at: 2025-08-25
 
 _If you're viewing this syllabus on a projected screen, bookmark our site at the following link:_   
 
-![Our site.](assets/images/qr-site.png)   
+![Our site.](assets/images/MUS218A-Soundscapes-FA2025-QR.png)   
   
 
 ## 2. Course Description    
