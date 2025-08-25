@@ -32,6 +32,8 @@ last_modified_at: 2025-08-25
   <i class="fas fa-book-open fa-2x"></i>
 </div> -->
 
+<mark>As of August 25, 2025, this site is under construction as we approach the start of our semester. Once the Syllabus and Schedule have been fully updated, this banner will disappear.</mark>
+
 ## 1. Essential Contact Information  
 
 **Course Number:** MUS218A   
