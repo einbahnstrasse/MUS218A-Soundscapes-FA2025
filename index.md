@@ -49,10 +49,10 @@ last_modified_at: 2025-08-25
 <!-- **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}       -->
 **Course Website:** [https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/){:target="_blank"}  
 
-_Our course website, and especially its [Schedule page](/MUS218A-Soundscapes-FA2025/schedule.html){:target="_blank"}, will be used to distribute course materials. All grading and assignment submissions will take place through Lyceum and Etna. You will need to consult this page regularly to keep up with our materials, changes to our schedule, etc. If you're viewing this syllabus on a projected screen, bookmark our site at the following link:_   
+_Our course website, and especially its [Schedule page](/MUS218A-Soundscapes-FA2025/schedule/){:target="_blank"}, will be used to distribute course materials. All grading and assignment submissions will take place through Lyceum and Etna. You will need to consult this page regularly to keep up with our materials, changes to our schedule, etc. If you're viewing this syllabus on a projected screen, bookmark our site at the following link:_   
 
 <!-- ![Our site.](assets/images/MUS218A-Soundscapes-FA2025-QR.png)    -->
-<img src="assets/images/MUS218A-Soundscapes-FA2025-QR.png" alt="Our site." width="200">
+<img src="assets/images/MUS218A-Soundscapes-FA2025-QR.png" alt="Our site." width="450">
     
 ## 2. Course Description    
 
