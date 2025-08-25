@@ -44,7 +44,7 @@ last_modified_at: 2025-08-25
 
 **Instructor:** Louis Goldford  
 **Email:** <a href="mailto:lgoldford@bates.edu">lgoldford@bates.edu</a>  
-**Office Hours:** Wednedsays from 11:00—12:30 or <mark>by appointment</mark>   
+**Office Hours:** Wednedsays from 11:00—12:30 or by appointment.    
 **Office Location:** Olin 260   
 <!-- **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}       -->
 **Course Website:** [https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/){:target="_blank"}  
