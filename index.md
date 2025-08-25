@@ -373,7 +373,7 @@ Use Chicago style citations and footnotes. See the Chicago Manual of Style's [Ci
 
 *Failure to attribute material to its original source constitutes plagiarism. Use of generative AI tools where not explicity sanctioned by the instructor constitutes plagiarism*. Students should be aware that **generative AI tools often generate incorrect statements, generate fake sources, and/or do not attribute material to proper sources**. Students must acknowledge all instances in which generative AI tools were used in an assignment (such as in ideation, research, analysis, editing, debugging, etc.). All submitted work by a student must  be original work that includes properly attributed external sources. **Students are responsible for the entirety of their final submission. Any inaccuracies or other deficiencies cannot and will not be excused on the basis of originating from an AI tool**.  
 
-_Adapted from the [Proposed Harvard AI Code of Conduct](https://aipedagogy.org/guide/tutorial/){:target="_blank"}_.    
+_Adapted from the [AI Pedagogy Project](https://aipedagogy.org/){:target="_blank"}_.    
 
 ### 5.3 Academic Integrity Pledge   
 
