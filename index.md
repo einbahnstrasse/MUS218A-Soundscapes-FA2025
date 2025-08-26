@@ -41,7 +41,10 @@ last_modified_at: 2025-08-25
 **Time:** Mondays, Wednesdays, and Fridays from 14:40—16:00     
 **Location:** Bates Sound Studio (Olin 302)  
 **Format:** Lecture/Demonstration    
-**Modality:** In-person     
+**Modality:** In-person   
+**Modes of Inquiry**: \[CP\]
+**Writing Credit**: None 
+**GEC(s)**: GEC C005   
 <!-- <span style="font-size: smaller;"><em><b>* hybrid and virtual available in extenuating circumstances at the discretion of the instructor</b></em></span>    -->
 
 **Instructor:** Prof. Dr. Louis Goldford  
