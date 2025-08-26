@@ -104,6 +104,13 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 {% include video id="CtopsAYunqs?si=peoKaauShtEOtrit" provider="youtube" %}  
    
+* [John Cage, _Rozart Mix_ (1965, this realization from 1988)](https://youtu.be/AdpjnGrouKI?t=2859){:target="_blank"} _(This video should queue from 47:39 in the video.)_   
+    
+{% include video id="AdpjnGrouKI?t=2859" provider="youtube" %}  
+   <!-- https://youtu.be/AdpjnGrouKI?t=2859 -->
+    
+* [_Sisters With Transisters_ (2021, dir. Lisa Rovner)](https://video-alexanderstreet-com.lprx.bates.edu/watch/sisters-with-transistors){:target="_blank"} _(Login with your Bates password to access this documentary film.)_   
+   
 #### Assignments  
 * <span style="color: red;"><em>Install VCV Rack before Week 3! (See Software + Resource page.)</em></span>  
 
