@@ -90,7 +90,7 @@ _By the end of the course, students will be able to:_
 
 _See the [RESOURCES TAB](/MUS218A-Soundscapes-FA2025/resources){:target="_blank"} for download and documentation links._  
 
-Although no specific requirement exists for hardware, the following are strongly recommended. Students who do not have access to some or all of these are encouraged to enroll and to make ample use of the Bates Sound Studio facilities, where they can use its compputers to complete all assignments. 
+Although no specific requirement exists for hardware, the following are strongly recommended. Students who do not have access to some or all of these are encouraged to enroll and to make ample use of the Bates Sound Studio facilities, where they can use its computers to complete all assignments. 
 
 1. personal laptop  
 2. headphones  
