@@ -196,7 +196,7 @@ Success in this course depends on your consistent attendance and active engageme
 If you must be absent for any reason, regardless of whether that absence is excused or unexcused, follow this **Procedure for Absences:**   
 
   1. Check our [Schedule](/MUS218A-Soundscapes-FA2025/schedule/){:target="_blank"} for assignments, videos, slides, readings, etc.   
-  2. Contact a classmate for **notes** on what you missed _(in accordance with [3.5.2.3 Sharing Patch Screenshots (MaxMSP)](#3523-sharing-patch-screenshots-maxmsp) below)._   
+  2. Contact a classmate for **notes** on what you missed _(in accordance with [3.5.2.2 Sharing Patch Screenshots (MaxMSP)](#3522-sharing-patch-screenshots-maxmsp) below)._   
   3. After these first 2 steps, contact the instructor with any additional questions.   
 
 * **Absences/tardiness must be accompanied by documentation** and/or include advance notice with the instructor. Absences/tardiness will not impact on your grade if they are reported in advance and if they are infrequent. Absences will be excused in cases of: documentation of illness provided by a doctor's note, religious observance, official school-related activity (always with documentation and advanced notice), and on a case-by-case basis for other critical events, at the discretion of the instructor.  
