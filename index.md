@@ -63,79 +63,76 @@ _Our course website, and especially its [Schedule page](/MUS218A-Soundscapes-FA2
     
 ## 2. Course Description    
 
-**Soundscapes: Recording and Designing Sound** is a first-semester foundational course in electronic music and sound art, introducing students to the studio environment and to the rudiments of digital creation, recording, mixing, post production, synthesis and MIDI, computer music, and spatial audio. Central topics may change from one semester to the next as a result of its flexible structure. This semester will focus on **multichannel fixed media composition**.  
+This course focuses on the creative acts of recording and sound design. Technical topics covered include recording (both studio and experimental techniques), microphone placement, editing and mixing in REAPER (an open source software), effects and digital processing, and sound design for stereo and multitrack speaker arrays. Creative assignments improve listening skills, foreground aural experience, increase awareness of sonic environments, and sharpen skills related to the use of sound as a sensory and communication medium. Listening and reading assignments support creative and technical concepts covered. Students generate three to four new, original sound-based works during the course of the semester, one of which is refined for a final public listening session. Recommended background: interest in or experience with music, sound, or digital media.
 
-Weekly seminars are structured with an emphasis on creating, transforming, and sculpting sounds. Classes will frequently consist of software tutorials and in-class demonstrations that can quickly integrate into personal artistic projects. Students will be required to complete a number of smaller graded assignments, culminating in a final piece. Each week focuses on a new topic that builds upon work completed in the previous week. _**Students are therefore expected to attend regularly.**_ There is a **midterm exam**: a 3-minute stereo fixed media "sketch." This sketch can be expanded upon and made into the **final exam**: a 10-minute multichannel work for the concert.    
+**Soundscapes: Recording and Designing Sound** is a first-semester foundational course in electronic music and sound art, introducing students to the studio environment and to the rudiments of recording, mixing, post production, synthesis and MIDI, computer music, and spatial audio. This semester will focus on **multichannel fixed media composition**.  
+
+Class sessions are structured with an emphasis on creating, transforming, and sculpting sounds. Classes will frequently consist of software tutorials and in-class demonstrations that can quickly be integrated into personal artistic projects. Students will be required to complete a number of smaller graded assignments, culminating in a final piece. Each week focuses on a new topic that builds upon work completed in the previous week. _**Students are therefore expected to attend regularly.**_ There is a **midterm exam**: a 3-minute stereo fixed media "sketch." This sketch can be expanded upon and made into the **final exam**: a 6-8-minute multichannel work for a concert held on December 2nd. **Students are required to attend and present their work on December 2, 2025 from 7:30—9:30**, with sound checks earlier in the day.       
 
 ### 2.1 Course Goals      
 
-This course will equip students with the basic protocols of working in a studio enviornment, acquainting them with the fundamnetals of acoustics and sound, digital audio, an overview of the history of techniques for analog and digital audio production and synthesis, and will provide direct, hands-on experience creating multichannel electronic music in a Digital Audio Workstation (DAW), as well as an inroduction to the MaxMSP real-time audio and synthesis environment. 
+This course will equip students with the basic protocols of working in a studio enviornment, acquainting them with the fundamnetals of acoustics and sound, digital audio, an overview of the history of techniques for analog and digital audio synthesis, and will provide direct, hands-on experience creating multichannel electronic music in a Digital Audio Workstation (DAW), as well as an inroduction to the MaxMSP real-time audio and synthesis environment. 
   
 ### 2.2 Learning Outcomes  
 
-_By the end of the course, successful students will be able to do the following:_  
+_By the end of the course, students will be able to:_  
 
 1. **implement** and **demonstrate** the tools of fixed media composition within an artistic workflow  
 2. **classify** and **identify** a variety of synthesis methods      
 3. **identify**, **critique**, and **experiment** with differing approaches to sound synthesis  
 4. **compare** and **contrast** real-time and offline synthesis methodologies   
-5. **assemble** favored tools into a personal creative coding practice, including a logical debugging process  
+5. **assemble** an array of preferred tools into a personal creative coding practice, including a logical debugging process  
 
-### 2.3 Required Software + Hardware    
+### 2.3 Software + Hardware    
 
 _See the [RESOURCES TAB](/MUS218A-Soundscapes-FA2025/resources){:target="_blank"} for download and documentation links._  
+
+Although no specific requirement exists for hardware, the following are strongly recommended. Students who do not have access to some or all of these are encouraged to enroll and to make ample use of the Bates Sound Studio facilities, where they can use its compputers to complete all assignments. 
+
 1. personal laptop  
 2. headphones  
 3. external hard drive _(or cloud storage to back up your files)_  
-4. Reaper  
-5. Ableton Live Suite   
-6. SpatGRIS    
-7. MaxMSP  
+4. Reaper (open source software) 
+5. Ableton Live Suite (premium software, optional) 
+6. SpatGRIS (open source software)   
+7. MaxMSP (premium software, but only utilized during a free trial period) 
 8. Google Chrome or any web browser that will allow you to access our Course Website & materials   
-9. various other plugins and apps listed throughout the semester   
+9. various other plugins and apps listed throughout the semester (open source software)  
   
 ## 3. Expectations   
 
 ### 3.1 General Expectations   
 
 1. **Arrive on time** to all course sessions.  
-2. Spend **1-2 additional hours a week** _(outside of class)_ on the timely completion of our lab assignments and projects.  
-3. Submit assignments by the given deadlines.   
-4. **Back up and organize your work REGULARLY.** _Catastrophic loss of materials is not an excuse for missed deadlines!_  
+2. Spend **2-4 additional hours per week** _(outside of class)_ on the timely completion of our assignments and projects.  
+3. Submit assignments by the given deadlines on Lyceum.   
+4. **Back up and organize your work REGULARLY.** _Catastrophic loss of materials is not, unfortunately, an excuse for missed deadlines!_  
 
 ### 3.2 Weekly Preparation      
 
-1. **Study video tutorials, slides, and other assigned materials ahead of class.** Come prepared with questions if you don't understand them.  
-2. We will devote the majority of our class time to patching and creating, and therefore **we will be unable to present videos and slides in class.** Familiarize yourself with this background content beforehand so that you are not lost if we do not address it directly in our class session.   
-3. Additionally, you are strongly encouraged to **consult the recommended software documentation resources**. These provide context and will deepen your understanding as you build your own systems and creative tools.  
+1. **Study video tutorials, slides, readings, and other assigned materials ahead of class.** Come prepared with clarifying questions.  
+2. We will devote the majority of our class time to demonstrating and creating, and therefore **we will be unable to present videos, slides, and readings in class.** Familiarize yourself with this background content beforehand so that you are not lost. Most likely, we will not reference at least some of these materials directly during our class session.   
+3. Additionally, it is strongly encouraged that you **consult the recommended software documentation resources**. These provide context and will deepen your understanding as you build your own systems and creative tools.  
 
 ### 3.3 Communication   
 
-1. Weekly class sessions will be held in the 2.43 Electronic Music Studio. Questions can easily be addressed before and after, if not during, our class.   
-2. MHL email accounts are our official means of communication, but we will also use Discord for additional discussion.  
-3. **Requests for assistance:** Send an email, or a message on Discord. I will respond during normal working hours; requests arriving "after hours" will be answered on subsequent weekdays.  
-4. Discord should be used during regular hours. Please respond during the workday as promptly as you can to inquiries from the instructor (both for email and messages sent on Discord). _Multiple successive days without a response is unacceptable._  
-5. **Actively participate** in our online class discussions. **Thoughtfully contribute to a positive classroom environment,** while supporting and challenging your colleagues’ ideas.  
-6. **Check Discord regularly** for group and private messages.  
-7. If you have a question that may be relevant to the group (about assignments, etc.), post it on Discord.  
-8. Use Discord for easy communication with your colleagues as well — you can DM individuals or selected groups.  
-
+1. Weekly class sessions will be held in the Bates Sound Studio. Questions can easily be addressed during, as well as before and after, our class.   
+2. Bates email accounts are our official means of communication.  
+3. **Requests for assistance:** Send an email to the instructor and studio assistant. I will respond during normal working hours; requests arriving "after hours" will be answered on subsequent weekdays.  
+4. **Actively participate** in our class discussions. **Thoughtfully contribute to a positive classroom environment,** while supporting and challenging your colleagues’ ideas.  
+   
 ### 3.4 Self-Guided Work  
 
-1. All students are responsible for building each of our DAW sessions (e.g., in Reaper) and each of our pedagogical patches (e.g., in MaxMSP) **by themselves**, regardless of whether a student needs to be absent or late from any class session, for any reason. 
+1. All students are responsible for building each of our DAW sessions (e.g., in Reaper) and each of our pedagogical patches (e.g., in MaxMSP) **by themselves**, regardless of whether a student needs to be absent or late from any class session. 
 2. This policy fosters a habit of **personal practice** using our software and **promotes self-guided learning** and **understanding**.  
 3. Students are also responsbile for producing their **own work** throughout the class, including their own builds of our pedagogical patches, DAW sessions, and sample recordings, in accordance with our [Academic Integrity Policy](#academic-integrity-policy) below.  
 4. Direct copies or clones of other people's creative work are evident in the line-by-line code of the software itself, and are therefore easily traceable. 
-5. Students should rely on our **seminar discussions**, **patch comments**, **office hours**, software **documentation**, **help files**, and **user forums** to actively troublehsoot and **debug** issues that are naturally expected to arise during interactions with new software. _This is how one learns best as they engage in project work._   
-6. By adopting this policy, we avoid fostering a habit of **relying on others' code**: that is, constantly borrowing from colleagues or forums without learning to understand the software's underlying functionality.  
-7. This policy is **not to enforce copying or mimicking**, but rather to promote **reasoning through the course materials** and adopting its utilization **as template and boiler documents**, that is, as a basis for future work, aimed at **building independence and creativity**. At its core, this policy, therefore, combats the habit of **copying code** without understanding its functioning.         
-8. At first, students may **progress slowly** through this process. However, just like learning to drive a car, students will become more efficient and quicker over time as they **optimize their patching routine** and **build resourcefulness**. Through our class patches and projects, students **will learn to debug faster**, to actively seek solutions from the best resources for any given necessity, and to find resolution in an efficient, self-guided manner.   
+5. Students should rely on our **seminar discussions**, **demonstration notes and software comments**, **office hours**, software **documentation**, **help files**, and **user forums** to actively troublehsoot and **debug** issues that will naturally arise during the learning process and interactions with new software. _Many folks learn best this way: as they rapidly problem solve and troubleshoot their project work._   
+6. By adopting this policy, we avoid fostering a habit of **relying on others' code**: that is, by constantly borrowing from colleagues or forums without learning to understand the software's underlying functionality.  
+7. This policy is **not to enforce copying or mimicking**, but rather to promote **reasoning through the course materials** and adopting its utilization **as template and boiler documents**; that is, as a basis for future work, aimed at **building independence and creativity**. At its core, this policy combats the habit of **copying code** without understanding its functionality.         
+8. At first, students may **progress slowly** through this process. However, just like learning to drive a car, students will become more efficient and faster over time, especially as they **optimize their software routine** and **build resourcefulness**. Through our class work and projects, students **will learn to solve problems faster**, to actively seek solutions from the best resources for any given task, and to find resolution in an efficient, self-guided manner.   
 
 ### 3.5 Attendance + Participation Policy   
-
-> _es besteht Anwesenheitspflicht gemäß Prüfungsverfahrensordung._ 
-
-> _Attendance is required in accordance with the examination procedure regulations._  
 
 _Your participation is based on attendance and your engagement in class, and will form a substantial portion of your grade._   
 
