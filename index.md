@@ -44,7 +44,7 @@ last_modified_at: 2025-08-25
 **Modality:** In-person     
 <!-- <span style="font-size: smaller;"><em><b>* hybrid and virtual available in extenuating circumstances at the discretion of the instructor</b></em></span>    -->
 
-**Instructor:** Professor Louis Goldford  
+**Instructor:** Prof. Dr. Louis Goldford  
 **Email:** <a href="mailto:lgoldford@bates.edu">lgoldford@bates.edu</a>  
 **Office Hours:** Wednedsays from 11:00—12:30 or by appointment.    
 **Office Location:** Olin 260   
@@ -470,4 +470,48 @@ This course consists of individual work and group discussion. We must therefore 
 
 _It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as an asset, resource, strength, and benefit, rather than a checklist item or worse, a hindrance. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups. Feel free to reach out to me via email at any time about any issues concerning you or with any such ideas._  
 
+## 9. Studio Community Standards      
+
+### 9.1 Access to the Bates Sound Studio       
+
+Olin 302 (the Bates Sound Studio) is a community space made available to trained professionals and students using it regularly in pursuit of their sonic creations and a shared discourse about sound and experimentation. It is available to students (1) who are currently enrolled in a digital audio course, or (2) who have previously taken one of our courses upon project approval. Other students may not use the Bates Sound Studio except in carefully supervised situations, again where approved.   
+
+Students may be granted access to 302 for the semester in which they are enrolled in order to complete daily assignments and project work assigned in one of our classes. In some cases, their access may be extended beyond a single semester, e.g., to complete a senior thesis project, upon approval from Dr. Goldford.  
+
+### 9.2 Use of Studio Equipment     
+
+Currently enrolled students may also be granted borrowing privileges in order to check out audio and digital media equipment needed for their assignments. If a piece of expensive gear has been loaned out, the student in posession of that gear assumes full responsibilty for it. Equipment will be loaned out only for a limited amount of time necessary to complete an assignment and is *expected to be returned in the same condition in which it was issued*. Equipment will be inspected and tested upon return to ensure that our community continues to have access to well-maintained gear. In some cases, equipment may be approved for exclusive use witnin the Bates Sound Studio and should never be removed. 
+
+Exact sign-out procedures and terms will be designated by the instructor.  
+
+#### 9.2.1 Alternative Studio Gear   
+
+For non-enrolled students interested in working with digital media, and when our currently enrolled students need access to computers and recording devices beyond what is available in our studio, please note that the computers in the Pettigrew iMac Lab have several audio software programs installed on them. 
+
+The [DMS Loaner Pool](https://batesdms.getconnect2.com/){:target="_blank"} has **Home Recording Kits** that students can check out to do their own recording, including portable field recorders and recording devices, as well as several USB microphones. Ladd Library also has a Composition Room. 
+
+## 9.3 Studio Protocol    
+
+In professional studio environments, a studio protocol is a set of community guidelines respected by all members to ensure an equitable, safe, clean, and productive working space for all users. In the Bates Sound Studio please adhere to the following protocol guidelines:   
+
+1. **Reservations are required and are exclusive**. To enter the studio unsupervised for project work, you must be a Bates student currently enrolled in one of our studio courses.
+2. Studio guests must only be **musicians whose performances you record**.  
+3. **Do not remove any equipment** from the studio unless it has been explicitly checked out to you (under your name). All other equipment remains on the premises. Fines will be charged if equipment is removed, lost, or missing from the studios without prior approval.     
+4. **Only covered, sealed, and secure drinks** are permitted in the studio — such as an insulated travel vacuum flask or a sports water bottle with a secure cap. Uncovered drinks or containers with flimsy lids (e.g., paper coffee cups) are never allowed and must be left outside the studio during class.  
+5. **No food of any kind** is allowed in the studio.    
+6. **Return all equipment to its designated spot in the studio**. Whether that's a pin holding a specific cable, a shelf holding a specific speaker or microphone, or a chair for a computer station, make sure the next person can find it where they're expecting it.  
+7. **Power down the studio before you leave**. Turn off all lights. Put the computer you were using into sleep mode. Flip the main power switch at your station to OFF, ensuring the speakers, audio inteface, and MIDI controllers power down. 
+8. **Keep the studio as clean as you can**. Wipe down all surfaces, including computer keyboards and MIDI controllers, using the disinfecting wipes provided. These machines see frequent use, and we don't want you getting sick all the time! 
+9. **Ensure the door to 302 is locked** behind you when you leave. Do not leave the door propped open.   
+9. Our **sample rate** for audio work is 48 kHz with a **bit rate** of 24.  
+10. Work in a **lossless audio format** such as `.WAV` or `.AIFF`. Lossy formats, such as `.mp3`, will not be accepted. _Do not settle for bad audio quality!_  
+11. **Monitor your work on headphones and/or speakers at a moderate level**. 70–75 [dB SPL (C-weighted, slow)](https://www.noisemeters.com/help/faq/frequency-weighting/?srsltid=AfmBOoqSyyDa9QZXBCA3Y8pO5vq0VgwHIlxwfO5ijV4eXdPACXaEf-Ri&utm_source=chatgpt.com){:target="_blank"} is a good target range for the type of listening affored by the Bates Sound Studio. Step up to 80-83 dB SPL for occasional impact checks, but avoid mixing for long sessions at this louder level. It could damage your hearing in an untreated space. We also need to stay mindful of our colleagues: If you're mixing in Studio A while others are working quietly at their stations or on their computers, **do not saturate the studio with your mix**. It's unnecessary and potentially harmful to collective listening health. You can check this eaasily using a general or calibrated sound level meter app on your phone.   
+12. In general, **monitor on loudspeakers whenever possible**, ensuring that others get a chance to to listen on speakers. If you mix on headphones, be sure to at least **test your mix on loudspeakers** in our studio before submit your work.  
+
+### 9.4 Revocation of Access  
+
+Access to Bates Sound Studio faciities and its equpiment may be revoked at any time and without prior notice by the instructor. This may happen as a result of poorly maintained, damaged, or missing equipment, doors left unlocked, power left routinely on, equipment left unattended or not returned to its rightful place, the presence of visitors in the studio who are not part of our community, or in the case of other scenarios. As a reminder, students working in the studio are on an honors system and expected to maintain our space with the highest level of respect and regard for our art form and our community, especially when we are entrusting students with the care for our delicate equipment. 
+
+Studio equipment returned in worse condition that when issued, or in which is it returned in non-functional condition, or equipment that has been lost, will be subject to close scrutiny and will result in revocation of borrowing privileges and studio access, with the possibity of additional reporting to the Music Department and [Office of 
+Student Conduct and Community Standards](https://www.bates.edu/student-conduct-community-standards/){:target="_blank"}.  
 
