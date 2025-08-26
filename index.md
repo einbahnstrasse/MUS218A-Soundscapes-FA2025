@@ -100,7 +100,7 @@ Although no specific requirement exists for hardware, the following are strongly
 6. SpatGRIS (open source software)   
 7. MaxMSP (premium software, but only utilized during a free trial period) 
 8. Google Chrome or any web browser that will allow you to access our Course Website & materials   
-9. various other plugins and apps listed throughout the semester (open source software)  
+9. Various other plugins and apps listed throughout the semester (open source software)  
   
 ## 3. Expectations   
 
