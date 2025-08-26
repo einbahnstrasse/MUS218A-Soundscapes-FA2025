@@ -137,18 +137,16 @@ Although no specific requirement exists for hardware, the following are strongly
 
 ### 3.5 Attendance + Participation Policy   
 
-_Your participation is based on attendance and your engagement in class, and will form a substantial portion of your grade._   
+Success in this course depends on your consistent attendance and active engagement. Because this is a skills-building course where each week builds on the previous, missing more than 3 class sessions will negatively affect your grade. If you anticipate ongoing conflicts, please speak with me early so we can develop a plan.  
 
-* German law requires that you **attend a minimum of 80% of all class sessions** in order to pass this class. 
-* This means **you can miss up to 3 class sessions**.  
 * However, missing a class should be avoided when possible. In a skills-building music technology course such as this one, we must ensure that you are up-to-date on our materials each week — partly because the next week will often build on the materials covered last week.  
 * Missing _more than_ 3 class sessions will result in a grade reduction or possibly a failure of the course, depending on whether a student satisfies additional makeup work assigned by the instructor. In this scenario, the student completes all Max patching, assignments, projects, and any additional material assigned by the instructor to help ensure understanding or evaluation of progress. Additional materials may, in some cases, require the student to attend periodic check-in meetings with the instructor to ensure the student understands material missed in class. Failure to meet with the instructor to evaluate progress in such a circumstance will result in a grade reduction if progress is otherwise not demonstrated in the student's submitted work.  
 
 #### 3.5.1 Prompt Arrival   
 
-1. Students are expected to arrive promptly to all class sessions and remain engaged throughout.  
+1. Students are expected to arrive promptly to all class sessions and remain until the end of the class period.  
 2. On-time arrivals earn you an immediate 5 points (full participation).   
-3. Arrivals after 14:30 trigger the following weighted score system:
+3. If you arrive after the start time, your participation points will be reduced according to the following scale:   
 
 <div class="latetable">
 <table>
@@ -164,23 +162,23 @@ _Your participation is based on attendance and your engagement in class, and wil
 </thead>
 <tbody>
 <tr>
-<td markdown="span">10:00 or earlier</td>
+<td markdown="span">14:40 or earlier</td>
 <td markdown="span">5 points (full credit)</td>
 </tr>
 <tr>
-<td markdown="span">10:01—10:10</td>
+<td markdown="span">14:41 – 14:50</td>
 <td markdown="span">4 points</td>
 </tr>
 <tr>
-<td markdown="span">10:11—10:30</td>
+<td markdown="span">14:51 – 15:10</td>
 <td markdown="span">3 points</td>
 </tr>
 <tr>
-<td markdown="span">10:31—10:45</td>
+<td markdown="span">15:11 – 15:25</td>
 <td markdown="span">2 points</td>
 </tr>
 <tr>
-<td markdown="span">after 10:45</td>
+<td markdown="span">after 15:25</td>
 <td markdown="span">1 point</td>
 </tr>
 <tr>
@@ -192,41 +190,30 @@ _Your participation is based on attendance and your engagement in class, and wil
 </div>
 
 #### 3.5.2 Absences   
-
+  
 ##### 3.5.2.1 Procedure for Absences      
 
-* Students are responsible for completing the same work outside of class that was assigned or completed in class.   
-* If you must be absent for any reason, regardless of whether that absence is excused or unexcused, follow this **Procedure for Absences:**   
+If you must be absent for any reason, regardless of whether that absence is excused or unexcused, follow this **Procedure for Absences:**   
 
-  1. Check our [Schedule](/schedule){:target="_blank"} for assignments, videos, slides, readings, etc.   
-  2. Contact a classmate for **patch screenshots** and **notes** on what you missed (e.g. on Discord) _(in accordance with [3.5.2.3 Sharing Patch Screenshots (MaxMSP)](#3523-sharing-patch-screenshots-maxmsp) below)._   
+  1. Check our [Schedule](/MUS218A-Soundscapes-FA2025/schedule/){:target="_blank"} for assignments, videos, slides, readings, etc.   
+  2. Contact a classmate for **notes** on what you missed _(in accordance with [3.5.2.3 Sharing Patch Screenshots (MaxMSP)](#3523-sharing-patch-screenshots-maxmsp) below)._   
   3. After these first 2 steps, contact the instructor with any additional questions.   
 
-* **Absences/tardiness must be accompanied by documentation** and/or include advance notice with the instructor. Absences/tardiness will not impact on your grade if they are reported in advance and if they are infrequent. Absences will be excused in cases of: documentation of illness provided by a doctor's note, religious observance with advance notice, official school-related activity (always with documentation and advanced notice), and on a case-by-case basis for other critical events, at the discretion of the instructor.  
-* Planned absences should be reported to the instructor by our Week 3 class _(see our [Schedule](/schedule){:target="_blank"} page)._   
-* _A lack of communication with the instructor about planned absences will therefore be treated as **unexcused**. Be in touch early._   
-* **Absences and lateness may result in a lack of understanding of our materials, which will become evident in your project and/or exam work, and therefore will result in lower exam and project scores.** 
+* **Absences/tardiness must be accompanied by documentation** and/or include advance notice with the instructor. Absences/tardiness will not impact on your grade if they are reported in advance and if they are infrequent. Absences will be excused in cases of: documentation of illness provided by a doctor's note, religious observance, official school-related activity (always with documentation and advanced notice), and on a case-by-case basis for other critical events, at the discretion of the instructor.  
+* Planned absences should be reported to the instructor by our Week 3 class _(see our [Schedule](/MUS218A-Soundscapes-FA2025/schedule/){:target="_blank"} page)._   
+* _A lack of communication with the instructor about planned absences will therefore be treated as **unexcused**. Be in touch early._     
+   
+##### 3.5.2.2 Sharing Patch Screenshots (MaxMSP)   
 
-##### 3.5.2.2 Required Check-In Meetings   
-
-* A student absent for **a single seminar** need only follow the [Procedure for Absenses](#3521-procedure-for-absences) outlined above.  
-* A student missing **2 seminars** must additionally **schedule a half-hour office hour appointment**, designated as a **Check-In Meeting**, according to instructor availability outlined in [Essential Contact Information](#1-essential-contact-information) above.  
-* Check-In Meetings are necessary to ensure understanding of our course content and to plan alternative work for missed class time.  
-* **Every 2 absences will require a new Check-In Meeting**.  
-* <span style="color: red;">_**NOTE:** Instructor availability is limited and available on a first-come-first-serve basis. I will not always be available due to my additional teaching and other events. Availability for Check-In Meetings, therefore, **is not guaranteed!** Students must coordinate around the instructor's availability if they choose to be absent from multiple seminars. Failure to scheudle or attend the required number of Check-In Meetings is  firmly the responsibility of the student and will result in lowered participation grades for the semester._</span>  
-* Students should, therefore, strive to attend all seminars, or as many as possible, in person.  
-
-##### 3.5.2.3 Sharing Patch Screenshots (MaxMSP)   
-
-1. In accordance with [3.4 Self-Guided Work](#34-self-guided-work) above, students should **never share their patches** (.maxpat) with one another. 
-2. Rather, students should **only share screenshots** of their work. In other words, all students should build each of the pedagogical patches by themselves.   
+1. In accordance with [3.4 Self-Guided Work](#34-self-guided-work) above, students should **never share their DAW sessions or Max patches** (i.e., Reaper files or `.maxpat` files) with one another. 
+2. Rather, students should **only share screenshots** of their work. In other words, all students should build each of the pedagogical models by themselves.   
 3. See [How to take a screenshot on a Mac or PC](https://reviewed.usatoday.com/laptops/features/how-to-take-a-screenshot-on-mac-and-pc){:target="_blank"} for further details.   
 
 ## 4. General Schedule of Topics   
 
 _Please note: Our schedule of topics and their precise order may change._  
-_See the [SCHEDULE TAB](schedule/){:target="_blank"} for a precise weekly breakdown._  
-_For a detailed list of assignments, points, and deadlines, see the [GRADING TAB.](grading.html){:target="_blank"}_  
+_See the [SCHEDULE TAB](/MUS218A-Soundscapes-FA2025/schedule/){:target="_blank"} for a precise weekly breakdown._  
+_For a detailed list of assignments, points, and deadlines, see the [GRADING TAB.](/MUS218A-Soundscapes-FA2025/grading/){:target="_blank"}_  
 
 <div class="schedulingtable">
 <table>
@@ -507,6 +494,7 @@ In professional studio environments, a studio protocol is a set of community gui
 10. Work in a **lossless audio format** such as `.WAV` or `.AIFF`. Lossy formats, such as `.mp3`, will not be accepted. _Do not settle for bad audio quality!_  
 11. **Monitor your work on headphones and/or speakers at a moderate level**. 70–75 [dB SPL (C-weighted, slow)](https://www.noisemeters.com/help/faq/frequency-weighting/?srsltid=AfmBOoqSyyDa9QZXBCA3Y8pO5vq0VgwHIlxwfO5ijV4eXdPACXaEf-Ri&utm_source=chatgpt.com){:target="_blank"} is a good target range for the type of listening affored by the Bates Sound Studio. Step up to 80-83 dB SPL for occasional impact checks, but avoid mixing for long sessions at this louder level. It could damage your hearing in an untreated space. We also need to stay mindful of our colleagues: If you're mixing in Studio A while others are working quietly at their stations or on their computers, **do not saturate the studio with your mix**. It's unnecessary and potentially harmful to collective listening health. You can check this eaasily using a general or calibrated sound level meter app on your phone.   
 12. In general, **monitor on loudspeakers whenever possible**, ensuring that others get a chance to to listen on speakers. If you mix on headphones, be sure to at least **test your mix on loudspeakers** in our studio before submit your work.  
+13. When saving your work on any of the Bates Sound Studio iMac computers, be sure to use the dedicated `/PROJECTS` folder located on the Desktop, and be sure to read the `README.md` file for specific instructions and reminders. **Regularly back up your work from studio computers** onto your own external hard drive or cloud storage space (e.g., the Etna cloud partition).  
 
 ### 9.4 Revocation of Access  
 
