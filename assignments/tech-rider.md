@@ -37,7 +37,7 @@ When you first open this link, click on `open with draw.io` at the top/center if
 
 ### Make a Copy        
 
-To make a **copy** of this template and beginn editing it inside of your own Bates Google Drive, notice the File menu. Go to `File > Make a Copy...` and rename your copy:   
+To make a **copy** of this template and begin editing it inside of your own Bates Google Drive, notice the File menu. Go to `File > Make a Copy...` and rename your copy:   
 
   - `Lastname_Firstname_TechRider_v01.drawio` 
 
@@ -68,7 +68,7 @@ By adopting this workflow, you will have a clear document that you can show to a
 [Examine these technical rider plots located here.](/MUS218A-Soundscapes-FA2025/assets/docs/Audio-and-Layout-Diagram-Examples.pdf){:target="_blank"} Can you read what each piece requires? Follow the signal flow from the stage to the mixer, and finally to the speakers. Can you interpret the audio connection matrices?    
 
 ### B. Technical Summary Information    
-Fill out the boxes labeled Technical Summary, Notes, Details, Artist Equipment, and Instrumentation. Example entries have been placed throughout the template to show you how this works. Delete these example responses and replace them with your own. 
+Once you've made a copy of the template above, fill out the boxes labeled Technical Summary, Notes, Details, Artist Equipment, and Instrumentation. Example entries have been placed throughout the template to show you how this works. Delete these example responses and replace them with your own. 
 
 ### C. Stage Plot (draw.io)
 Use the template to create a top-down "plan view" diagram that labels and places:

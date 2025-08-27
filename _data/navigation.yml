@@ -5,6 +5,8 @@ main:
     url: /schedule/
   - title: "Software + Resources"
     url: /resources/
+  - title: "Studio"
+    url: /studio/
   - title: "Grading"
     url: /grading/
 

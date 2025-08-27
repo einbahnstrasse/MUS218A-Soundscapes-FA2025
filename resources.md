@@ -4,12 +4,12 @@
 
 # layout: archive
 layout: single   
-title: Software + Resources   
+title: Resources   
 lang: en   
 ref: res   
 permalink: /resources/   
 toc: true
-toc_label: "Software + Resources" 
+toc_label: "Resources" 
 toc_icon: "laptop"  
 toc_sticky: true   
 read_time: true  
