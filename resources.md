@@ -246,8 +246,6 @@ _**MIDI MTS-ESP** (MIDI Tuning Standard – Expanded Scale Protocol) is an exten
 
 <img src="/MUS218A-Soundscapes-FA2025/assets/images/mts-eps-v01.png" alt="mts-eps-v01.png">
 
-* * *   
-
 # Additional + Optional Resources   
 
 ## File Transfer Services      
