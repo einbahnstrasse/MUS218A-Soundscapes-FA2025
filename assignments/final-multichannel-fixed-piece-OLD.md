@@ -8,10 +8,10 @@ title: Final Multichannel Fixed Piece
 lang: en   
 ref: grade  
 permalink: /assignments/final-multichannel-fixed-piece/   
-# toc: true  
-# toc_label: "Grading Contents" # default: Content
+toc: true  
+toc_label: "Assignment Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
-# toc_sticky: true   # enables sticky toc  
+toc_sticky: true   # enables sticky toc  
 read_time: true  
 date: 2025-08-25  
 last_modified_at: 2025-08-25    

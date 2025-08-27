@@ -42,7 +42,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 ## Week 1: {{ site.week-01 }}  
 ### <span style="color: #fc3a52;">{{ site.week-01-topic }}</span>    
-### Wednesday   
+### Wednesday 9/3  
 
 #### Intro Survey    
 Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9){:target="_blank"}   
@@ -56,7 +56,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 #### Assignments  
 * <span style="color: red;">Install Reaper before Friday! <em>(See Resources page for instructions).</em></span>  
 
-### Friday   
+### Friday 9/5  
 
 #### Start-of-Semester Business  
 * Review [Software + Resources](/MUS218A-Soundscapes-FA2025/resources/){:target="_blank"}  

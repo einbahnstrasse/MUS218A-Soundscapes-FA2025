@@ -9,7 +9,7 @@ lang: en
 ref: auditory-vantage-point    
 permalink: /assignments/auditory-vantage-point/   
 toc: true  
-toc_label: "Grading Contents" # default: Content
+toc_label: "Assignment Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc  
 read_time: true  
@@ -59,7 +59,7 @@ That means **becoming an expert listener** is all about learning to actively tur
 * * *    -->
 
 ## Deadline  
-**Week 3: {{ site.week-03 }}}**  
+**Week 3: {{ site.week-03 }}**  
 
 ---
 

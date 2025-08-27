@@ -9,7 +9,7 @@ lang: en
 ref: grade  
 permalink: /assignments/final-multichannel-fixed-piece/   
 toc: true  
-toc_label: "Grading Contents" # default: Content
+toc_label: "Assignment Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc  
 read_time: true  
@@ -21,18 +21,18 @@ last_modified_at: 2025-08-25
 ## Deadline  
 **November 22, 2025**  
 
-_Note: You are given the maximum amount of time to finish your piece before our December 2, 2205 concert, with the careful consideration of university policies preventing major deadlines after Thanksgiving. Late submissions will result in a fail._  
+_Note: You are given the maximum amount of time to finish your piece before our December 2, 2205 concert, with the careful consideration of university policies preventing major deadlines during the week after Thanksgiving. Late submissions will result in a fail._  
 
 ---
 
 ## Introduction  
-The final project is a **complete fixed-media composition** (_recommended: 6–8 minutes in duration_) designed for **4-channel surround sound**. It will be played back on a 4-channel system during our December 2, 2025 concert at 7:30 PM, and you may introduce your piece at this concert. As a reminder: your attendance at this concert is required.   
+The final project is a **complete fixed-media composition** (_recommended: 6–8 minutes in duration_) designed for **4-channel surround sound**. It will be "performed" on a 4-channel system during our December 2, 2025 concert at 7:30 PM, and you may be asked to provide a program note describing your piece for this concert. As a reminder: your attendance at this concert is required.   
 
 You may choose to:  
 - Expand upon your **midterm sketch**, which then serves as a miniature version of your final piece, or any original musical material from your previous assignments in this class, or  
-- Compose an **entirely new piece** drawing on the skills and materials you’ve accumulated this semester.  
+- Create an **entirely new piece** drawing on the skills and materials you’ve accumulated this semester.  
     
-This project can represent the culmination of your work in field recording, mixing, micro-montage, timbral design, automation, spatialization, and compositional development.  
+This project can represent the culmination of your work in field recording, mixing, micro-montage, timbral design, synthesis, automation, spatialization, and compositional development.  
 
 ---
 
@@ -85,16 +85,16 @@ Your final project will be assessed according to the following:
 
 ## Final Project Rubric  
 
-Details in the boxes below will be filled in upon grading and provided as feedback at the end of the semester. Each of the grading components below will be weighed against the others for a complete project grade.  
+Details in the boxes below may be filled in while grading and later provided as feedback at the end of the semester. Each of the grading components below will be weighed against the others for a total project grade. _Scroll to the right to see the entire rubric_.  
 
-| Criteria | 5 (best) | 4 | 3 (average) | 2 | 1 (poor) |
+| Criteria | 5 (exceptional) | 4 | 3 (average) | 2 | 1 (poor) |
 |----------|-----------|---|-------------|---|----------|
-| **Organization of Project Folder & File Structure** | Project folder is complete, clearly organized, all files included; easy to transfer and open on another system. | Mostly complete; minor issues with file organization or missing metadata. | Usable but requires troubleshooting; some files missing or confusingly labeled. | Project difficult to open or reproduce; disorganized structure. | Incomplete submission; missing essential files or exports. |
-| **Sound Sources & Materials** | Creative and effective integration of at least 4 diverse sound sources (field recordings, synthesis, samples). Sources are clearly transformed and integral to the piece. | Meets minimum source requirement with generally effective integration. | Limited variety of sources; uneven integration. | Insufficient number of sources or sources not integrated into final work. | Fails to meet requirement; sources are missing or unoriginal. |
-| **Spatialization (SpatGRIS/ControlGRIS)** | Highly effective, expressive use of spatialization; movements feel intentional, enhance form and perception. | Spatialization is present and generally effective; occasional inconsistencies. | Adequate use of spatialization; lacks clarity or purpose. | Minimal or ineffective use of spatialization tools. | No evidence of spatialization. |
-| **Automation & Mixing** | Skillful, nuanced automation of parameters; tonal balance and clarity are strong across multichannel mix. | Automation used effectively with some variation; mix is generally clear. | Basic automation; mix is uneven but functional. | Limited automation; tonal balance and clarity issues throughout. | No meaningful use of automation; mix is muddy or unbalanced. |
-| **Quality of Sound & Processing** | Sounds are rich, detailed, and well-processed; synthesis/recordings are of high quality; processing enhances the work. | Generally strong sounds and processing; minor issues in detail or polish. | Adequate quality; some sounds underdeveloped or poorly processed. | Weak sound quality; processing choices often obscure or degrade material. | Poor quality; sounds are unrefined, distorted, or unprocessed. |
-| **Structure & Creativity** | Piece demonstrates compelling, cohesive musical structure; highly original and inventive artistic vision. | Clear structure with creative elements; some moments less coherent. | Adequate structure; creativity uneven. | Weak or unclear structure; little sense of artistic direction. | Lacks structure and creativity. |
-| **Scope of Project** | Fully realizes expectations of an 8–12 minute fixed-media multichannel piece; ambitious in scale and depth. | Meets duration and scope expectations with reasonable ambition. | Meets minimum expectations but limited in scope. | Falls short of scope or ambition; significantly underdeveloped. | Far below scope; incomplete or insubstantial work. |
+| **Organization of Project Folder & File Structure** | Project folder is complete, clearly organized, all files included; easy to transfer and open on another system. | Mostly complete; minor issues with file organization or missing data. | Usable but requires troubleshooting; some files missing or confusingly labeled. | Project difficult to open or reproduce; disorganized structure. | Incomplete submission; missing essential files or exports. |
+| **Sound Sources & Materials** | Creative and effective integration of at least 4 diverse sound sources (field recordings, synthesis, samples). Sources are transformed and integral to the piece. | Meets minimum source requirement with generally effective integration. | Limited variety of sources; not all of them feel woven into the piece. | Insufficient number of sources or no relation beteen them. | Fails to meet requirement; sources are missing or unoriginal. |
+| **Spatialization (SpatGRIS/ControlGRIS)** | Highly effective, expressive use of sound choreography; movements feel intentional, complimenting the form of their corresponding sounds. | Spatialization is present and generally effective; occasional inconsistencies. | Use of spatialization is apparent; lacks clarity or purpose. | Minimal or ineffective use of spatialization tools. | No evidence of spatialization, or movement is incomprehensible. |
+| **Automation & Mixing** | Skillful, nuanced automation of parameters; warm tonal balance and clarity are strong across multimix. | Automation used effectively with some variation; mix is generally clear. | Basic automation; mix is uneven but functional, some clipping. | Limited automation; tonal balance and clarity issues dominate. | No meaningful use of automation; mix is muddy or unbalanced. |
+| **Quality of Sound Design & Processing** | Sounds are rich and carefully processed; synthesis/recordings preserve nuanced detail; processing enhances this work. | Generally strong sounds and processing; minor issues in detail or polish. | Questionable quality;  underdeveloped sounds or poor processing. | Weak sound design; processing choices often obscure or degrade original material. | Poor quality; sounds are unrefined, distorted, improperly recorded or synthesized, or unprocessed. |
+| **Structure & Creativity** | Piece demonstrates compelling, cohesive musical structure; highly original and inventive artistic statement. | Clear structure with creative elements; some moments are less coherent. | Apparent structure; uneven, lacking balance or consistency, possibly abandoned. | Weak or unclear structure; little sense of artistic direction. | Lacks structure, no trajectory or direction. |
+| **Scope of Project** | Draws on broad palette of developed and transformed sounds. Ambitious, engages with multiple techniques from the semester. | Complete and coherent. Several sound sources are developed but not explored in much depth. | Minimum number of sources with limited variation or transformation. Structure is predictable. | Feels unfinished. Relies heavily on 1-2 underdeveloped sources. Limited or no attempt to apply spatialization or structural ideas from the course. | Incomplete, insubstantial, or fragmentary work showing little to no development, breadth, or ambition. |
  
 * * *    
