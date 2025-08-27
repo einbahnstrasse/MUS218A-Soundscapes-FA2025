@@ -97,7 +97,7 @@ Details in the boxes below may be filled in while grading and later provided as 
     border-collapse: collapse;
     font-size: 0.5em;            /* Adjust overall size here */
     line-height: 1.4;
-    table-layout: fixed;         /* Keeps columns consistent */
+    /* table-layout: fixed;         Keeps columns consistent */
   }
 
   /* Optional: tweak column widths (first column wider) */
