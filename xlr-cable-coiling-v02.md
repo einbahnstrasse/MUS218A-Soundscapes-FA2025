@@ -18,7 +18,7 @@ last_modified_at: 2025-08-26
 ---
 
 ## Introduction  
-Microphones and speakers are connected using [3-pin XLR cables](https://www.google.com/search?q=xlr+cable&tbm=isch){:target="_blank"}. When it comes to wrapping cables (_“coiling”_ or _“rolling”_), there are correct and incorrect methods. Improper coiling can damage cables, create tangles, and slow down setup and teardown in live sound environments.  
+Microphones and speakers are connected using [3-pin XLR cables](https://www.google.com/search?q=xlr+cable&tbm=isch){:target="_blank"}. When it comes to wrapping cables (_“coiling”_ or _“rolling”_), there are correct, incorrect, and preferred methods. Improper coiling can damage cables, create tangles, and slow down setup and teardown in live sound environments, or during paid studio time, where every minute counts!     
 
 This assignment will give you hands-on practice with proper cable coiling techniques used in professional audio settings.  
 
