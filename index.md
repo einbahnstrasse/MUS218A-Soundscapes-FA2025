@@ -455,8 +455,26 @@ This course consists of individual work and group discussion. We must therefore 
 
 ### 8.2 Inclusivity Statement    
 
-_It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as an asset, resource, strength, and benefit, rather than a checklist item or worse, a hindrance. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups. Feel free to reach out to me via email at any time about any issues concerning you or with any such ideas._  
+_It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as an asset and a resource. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your reflections on this topic are encouraged and appreciated. Feel free to reach out to me at any time about any issues concerning you._  
 
+### 8.3 Principles of Community       
+
+I am committed to providing an atmosphere for learning that respects diversity and supports inclusivity. We work together to build a community of learning. I ask all members of this class to:
+- be open to and interested in the views of others
+- consider the possibility that your views may change over the course of the term
+- be aware that this course asks you to reconsider some “common sense” notions you may hold
+- honor the unique life experiences of your colleagues and your own 
+- appreciate the opportunity that we have to learn from each other
+- listen to and draw from each other’s opinions, and communicate your positions in a respectful manner
+- respect confidential discussions and personal boundaries  
+- ground your comments in the music and sound we are studying. Refer frequently to our materials and make them the focus of your questions, comments, and arguments. This is the single most effective way to ensure respectful discussion and to create a space where we are all learning together.
+   
+### 8.4 Difficult Conversations    
+   
+In our class interactions, we may encounter opportunities to explore challenging, high-stakes issues and increase our understanding of different perspectives. Our conversations may not always be easy — even just about music (weird as that sounds). Inevitably, we will sometimes  make mistakes in our speaking and listening. We will need patience, courage, imagination, or any number of qualities to engage our materials, our classmates, and our own ideas and experiences. We will always need respect for others. An important goal will be for us to increase facility with difficult conversations that arise inside issues of social justice, politics, economics, morality, religion, and other issues where reasonable people often hold diverse perspectives. (This can even be music and sound!) This effort will ultimately deepen our understanding and allow us to strengthen our community with folks from many backgrounds, experiences, and positions. 
+
+_Protip: You can use any such 'difficult' encounters as opportunities to tune your awareness of others while still sharpening your own arguments, and improving comfort with occupying your own position within a wider discourse_.    
+    
 ## 9. Studio Community Standards      
 
 ### 9.1 Access to the Bates Sound Studio       
