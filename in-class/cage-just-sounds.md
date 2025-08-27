@@ -7,7 +7,7 @@ layout: single
 title: "You Mean Just Sounds?!"   
 lang: en   
 ref: cage-just-sounds    
-permalink: /cage-just-sounds/   
+permalink: /in-class/cage-just-sounds/   
 toc: true  
 toc_label: "Discussion Contents" # default: Content
 toc_icon: "comments"  
