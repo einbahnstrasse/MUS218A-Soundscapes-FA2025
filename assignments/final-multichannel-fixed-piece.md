@@ -21,7 +21,7 @@ last_modified_at: 2025-08-25
 ## Deadline  
 **November 22, 2025**  
 
-_Note: You are given the maximum amount of time to finish your piece before our December 2, 2205 concert, with the careful consideration of university policies preventing major deadlines during the week after Thanksgiving. Late submissions will result in a fail._  
+_Note: You are given the maximum amount of time to finish your piece before our December 2, 2025 concert, with the careful consideration of university policies preventing major deadlines during the week after Thanksgiving. Late submissions will result in a fail._  
 
 ---
 
@@ -95,14 +95,14 @@ Details in the boxes below may be filled in while grading and later provided as 
   .rubric-table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 0.9em;            /* Adjust overall size here */
+    font-size: 0.5em;            /* Adjust overall size here */
     line-height: 1.4;
     table-layout: fixed;         /* Keeps columns consistent */
   }
 
   /* Optional: tweak column widths (first column wider) */
-  .rubric-table colgroup col:first-child { width: 22%; }
-  .rubric-table colgroup col:not(:first-child) { width: 15.6%; }
+  /* .rubric-table colgroup col:first-child { width: 22%; } */
+  /* .rubric-table colgroup col:not(:first-child) { width: 15.6%; } */
 
   .rubric-table th,
   .rubric-table td {
