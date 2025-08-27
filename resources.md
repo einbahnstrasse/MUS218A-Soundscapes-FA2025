@@ -40,17 +40,17 @@ _Be sure to install + test these before you arrive in class._
 _For all software below, be sure sure to choose the version that matches your computer’s operating system (e.g., Windows, macOS, Linux, etc.)._  
 
 
-## Reaper   
+## REAPER   
 
-Reaper is a Digital Audio Workstation (DAW), which we will be using to _sequence_ and _edit_ our audio throughout the semester. 
+REAPER is a Digital Audio Workstation (DAW), which we will be using to _sequence_ and _edit_ our audio throughout the semester. 
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://www.reaper.fm/download.php" target="_blank" class="btn btn--primary">Install Reaper from this link.</a></span>   
 
 <img src="/MUS218A-Soundscapes-FA2025/assets/images/Reaper-DAW-software-1.png" alt="Reaper interface">  
 
-### Extra Packages for Reaper  
+### Extra Packages for REAPER  
 
-To make Reaper more useful, we may occasionally install extra software libraries for use with Reaper.  
+To make REAPER more useful, we may occasionally install extra software libraries for use with Reaper.  
 
 _At the moment, there are no libraries to install, but we may include a list of them below throughout the semester:_   
 
