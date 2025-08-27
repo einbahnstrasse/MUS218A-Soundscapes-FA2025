@@ -84,3 +84,23 @@ Ensure that you are properly **logged in to your Bates Google account**. If you 
 ## Studio B Calendar      
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&src=Y182MTUwNDMyNzg4MTE4NDg1NGUwY2UzNzEwOWFhZmVmMzE4MzAzMmViMmYyMTZlYzQxNDMwNDM4Y2U5YjU0ZTZkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
+
+# Studio Protocol   
+
+_You can also find this duplicated in our [Course Syllabus](/MUS218A-Soundscapes-FA2025/index/){:target="_blank"}._    
+
+1. **Reservations are required and are exclusive**. To enter the studio unsupervised for project work, you must be a Bates student currently enrolled in one of our studio courses.
+2. Studio guests must only be **musicians whose performances you record**.  
+3. **Do not remove any equipment** from the studio unless it has been explicitly checked out to you (under your name). All other equipment remains on the premises. Fines will be charged if equipment is removed, lost, or missing from the studios without prior approval.     
+4. **Only covered, sealed, and secure drinks** are permitted in the studio — such as an insulated travel vacuum flask or a sports water bottle with a secure cap. Uncovered drinks or containers with flimsy lids (e.g., paper coffee cups) are never allowed and must be left outside the studio during class.  
+5. **No food of any kind** is allowed in the studio.    
+6. **Return all equipment to its designated spot in the studio**. Whether that's a pin holding a specific cable, a shelf holding a specific speaker or microphone, or a chair for a computer station, make sure the next person can find it where they're expecting it.  
+7. **Power down the studio before you leave**. Turn off all lights. Put the computer you were using into sleep mode. Flip the main power switch at your station to OFF, ensuring the speakers, audio inteface, and MIDI controllers power down. 
+8. **Keep the studio as clean as you can**. Wipe down all surfaces, including computer keyboards and MIDI controllers, using the disinfecting wipes provided. These machines see frequent use, and we don't want you getting sick all the time! 
+9. **Ensure the door to 302 is locked** behind you when you leave. Do not leave the door propped open.   
+9. Our **sample rate** for audio work is 48 kHz with a **bit rate** of 24.  
+10. Work in a **lossless audio format** such as `.WAV` or `.AIFF`. Lossy formats, such as `.mp3`, will not be accepted. _Do not settle for bad audio quality!_  
+11. **Monitor your work on headphones and/or speakers at a moderate level**. 70–75 [dB SPL (C-weighted, slow)](https://www.noisemeters.com/help/faq/frequency-weighting/?srsltid=AfmBOoqSyyDa9QZXBCA3Y8pO5vq0VgwHIlxwfO5ijV4eXdPACXaEf-Ri&utm_source=chatgpt.com){:target="_blank"} is a good target range for the type of listening affored by the Bates Sound Studio. Step up to 80-83 dB SPL for occasional impact checks, but avoid mixing for long sessions at this louder level. It could damage your hearing in an untreated space. We also need to stay mindful of our colleagues: If you're mixing in Studio A while others are working quietly at their stations or on their computers, **do not saturate the studio with your mix**. It's unnecessary and potentially harmful to collective listening health. You can check this eaasily using a general or calibrated [sound level meter app](){:target="_blank"} on your phone.   
+12. In general, **monitor on loudspeakers whenever possible**, ensuring that others get a chance to to listen on speakers. If you mix on headphones, be sure to at least **test your mix on loudspeakers** in our studio before submit your work.  
+13. When saving your work on any of the Bates Sound Studio iMac computers, be sure to use the dedicated `/PROJECTS` folder located on the Desktop, and be sure to read the `README.md` file for specific instructions and reminders. **Regularly back up your work from studio computers** onto your own external hard drive or cloud storage space (e.g., the Etna cloud partition).  
+

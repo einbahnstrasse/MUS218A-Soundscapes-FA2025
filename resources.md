@@ -273,9 +273,21 @@ _For sending large files (project folders, sound, video, etc.)_
 	<a href="https://freesound.org/" target="_blank" class="btn btn--primary">FreeSound.org</a> <a href="https://archive.org/details/nasaaudiocollection" target="_blank" class="btn btn--primary">NASA Audio Collection</a> <a href="https://www.nps.gov/subjects/sound/gallery.htm" target="_blank" class="btn btn--primary">Natural Sounds Gallery</a> <a href="https://theremin.music.uiowa.edu/MIS.html" target="_blank" class="btn btn--primary">Instrumental Samples</a>
 </span>
 
+# Mobile Apps     
+
+## Sound Level Meters   
+
+_There seem to be plenty of options these days, but here's one I've used for awhile:_    
+
+### Decibel X:dB Sound Level Meter   
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
+	<a href="https://apps.apple.com/us/app/decibel-x-db-sound-level-meter/id448155923" target="_blank" class="btn btn--primary">iOS App Store</a> <a href="https://play.google.com/store/apps/details?id=com.skypaw.decibel&hl=en_US" target="_blank" class="btn btn--primary">Google Play Store</a> 
+</span>
+      
 ## Field Recording On Your Phone   
 
-_You can request a Zoom device or field recorder from the DMS, but it is sometimes even more convenient to record high-quality audio on your phone using a free app! 2 apps are listed below._    
+_You can request a Home Recording Kit from the [DMS Loaner Pool](https://batesdms.getconnect2.com/){:target="_blank"}, but it is even more convenient to record high-quality audio on your phone. 2 apps are listed below._    
 
 _The challenge with mobile recording apps that don't require a microphone is this: they use your phone's built-in microphone, which is usually a very ambient **omni-directional microphone**. It is therefore crucial that you **carefully point your phone towards the sound source you want to record** in order to minimize indirect and ambient sound when field recording._    
 
