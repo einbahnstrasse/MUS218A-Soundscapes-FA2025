@@ -74,7 +74,7 @@ Your final submission should meet the following requirements:
 
 Details in the boxes below may be filled in while grading and later provided as feedback at the end of the semester. Each of the grading components below will be weighed against the others for a total project grade. _Scroll to the right to see the entire rubric_.  
       
-<!-- | Criteria | 5 (exceptional) | 4 | 3 (average) | 2 | 1 (poor) |
+| Criteria | 5 (exceptional) | 4 | 3 (average) | 2 | 1 (poor) |
 |----------|-----------|---|-------------|---|----------|
 | **Organization of Project Folder & File Structure** | Project folder is complete, clearly organized, all files included; easy to transfer and open on another system. | Mostly complete; minor issues with file organization or missing data. | Usable but requires troubleshooting; some files missing or confusingly labeled. | Project difficult to open or reproduce; disorganized structure. | Incomplete submission; missing essential files or exports. |
 | **Sound Sources & Materials** | Creative and effective integration of at least 4 diverse sound sources (field recordings, synthesis, samples). Sources are transformed and integral to the piece. | Meets minimum source requirement with generally effective integration. | Limited variety of sources; not all of them feel woven into the piece. | Insufficient number of sources or no relation beteen them. | Fails to meet requirement; sources are missing or unoriginal. |
@@ -82,8 +82,9 @@ Details in the boxes below may be filled in while grading and later provided as 
 | **Automation & Mixing** | Skillful, nuanced automation of parameters; warm tonal balance and clarity are strong across multimix. | Automation used effectively with some variation; mix is generally clear. | Basic automation; mix is uneven but functional, some clipping. | Limited automation; tonal balance and clarity issues dominate. | No meaningful use of automation; mix is muddy or unbalanced. |
 | **Quality of Sound Design & Processing** | Sounds are rich and carefully processed; synthesis/recordings preserve nuanced detail; processing enhances this work. | Generally strong sounds and processing; minor issues in detail or polish. | Questionable quality;  underdeveloped sounds or poor processing. | Weak sound design; processing choices often obscure or degrade original material. | Poor quality; sounds are unrefined, distorted, improperly recorded or synthesized, or unprocessed. |
 | **Structure & Creativity** | Piece demonstrates compelling, cohesive musical structure; highly original and inventive artistic statement. | Clear structure with creative elements; some moments are less coherent. | Apparent structure; uneven, lacking balance or consistency, possibly abandoned. | Weak or unclear structure; little sense of artistic direction. | Lacks structure, no trajectory or direction. |
-| **Scope of Project** | Draws on broad palette of developed and transformed sounds. Ambitious, engages with multiple techniques from the semester. | Complete and coherent. Several sound sources are developed but not explored in much depth. | Minimum number of sources with limited variation or transformation. Structure is predictable. | Feels unfinished. Relies heavily on 1-2 underdeveloped sources. Limited or no attempt to apply spatialization or structural ideas from the course. | Incomplete, insubstantial, or fragmentary work showing little to no development, breadth, or ambition. | -->
+| **Scope of Project** | Draws on broad palette of developed and transformed sounds. Ambitious, engages with multiple techniques from the semester. | Complete and coherent. Several sound sources are developed but not explored in much depth. | Minimum number of sources with limited variation or transformation. Structure is predictable. | Feels unfinished. Relies heavily on 1-2 underdeveloped sources. Limited or no attempt to apply spatialization or structural ideas from the course. | Incomplete, insubstantial, or fragmentary work showing little to no development, breadth, or ambition. |
     
+<!--     
 <style>
   /* Wrap to enable horizontal scroll on small screens */
   .rubric-wrap {
@@ -97,7 +98,7 @@ Details in the boxes below may be filled in while grading and later provided as 
     border-collapse: collapse;
     font-size: 0.5em;            /* Adjust overall size here */
     line-height: 1.4;
-    /* table-layout: fixed;         Keeps columns consistent */
+    table-layout: fixed;         Keeps columns consistent
   }
 
   /* Optional: tweak column widths (first column wider) */
@@ -216,6 +217,6 @@ Details in the boxes below may be filled in while grading and later provided as 
       </tr>
     </tbody>
   </table>
-</div>
+</div> -->
 
 * * *    
