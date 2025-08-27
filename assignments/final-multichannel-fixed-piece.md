@@ -68,24 +68,13 @@ Your final submission should meet the following requirements:
 - Submit your **exported 4-channel audio file** and a **stereo binaural mixdown**.  
 - Send via Etna, or by email via WeTransfer or a preferred cloud storage link.  
 
----   
-
-## Evaluation Criteria  
-Your final project will be assessed according to the following:  
-
-- **Completeness (15%)** — Meets technical requirements (duration, format, project folder, exports).  
-- **Sound Sources & Materials (20%)** — Creative integration of at least four distinct sources.  
-- **Spatialization (20%)** — Effective and expressive use of SpatGRIS/ControlGRIS for movement and placement in the 8-channel space.  
-- **Automation & Mixing (20%)** — Skillful shaping of timbre, dynamics, tonal balance, and clarity in a multichannel context.  
-- **Structure & Creativity (25%)** — A compelling, cohesive musical form that demonstrates originality and personal artistic vision.  
-
----
+---     
 
 ## Evaluation Criteria (Rubric)     
 
-## Final Project Rubric  
-
 Details in the boxes below may be filled in while grading and later provided as feedback at the end of the semester. Each of the grading components below will be weighed against the others for a total project grade. _Scroll to the right to see the entire rubric_.  
+
+<div style="font-size: 0.85em;">
 
 | Criteria | 5 (exceptional) | 4 | 3 (average) | 2 | 1 (poor) |
 |----------|-----------|---|-------------|---|----------|
@@ -97,4 +86,6 @@ Details in the boxes below may be filled in while grading and later provided as 
 | **Structure & Creativity** | Piece demonstrates compelling, cohesive musical structure; highly original and inventive artistic statement. | Clear structure with creative elements; some moments are less coherent. | Apparent structure; uneven, lacking balance or consistency, possibly abandoned. | Weak or unclear structure; little sense of artistic direction. | Lacks structure, no trajectory or direction. |
 | **Scope of Project** | Draws on broad palette of developed and transformed sounds. Ambitious, engages with multiple techniques from the semester. | Complete and coherent. Several sound sources are developed but not explored in much depth. | Minimum number of sources with limited variation or transformation. Structure is predictable. | Feels unfinished. Relies heavily on 1-2 underdeveloped sources. Limited or no attempt to apply spatialization or structural ideas from the course. | Incomplete, insubstantial, or fragmentary work showing little to no development, breadth, or ambition. |
  
+</div> 
+
 * * *    
