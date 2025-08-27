@@ -98,7 +98,7 @@ SPEAR is an application for audio analysis/resynthesis. We use SPEAR to “disse
 
 ## MaxMSP      
 
-***CRITICAL: Do not download and install MaxMSP until the last month of classes! ***
+**CRITICAL: Do not download and install MaxMSP until the last month of classes!**
 
 _Download + install the current build from:_ <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://cycling74.com/downloads" target="_blank" class="btn btn--primary">MaxMSP</a></span>  
 
