@@ -39,14 +39,14 @@ By completing this assignment, students will be able to:
 
 2. **Practice** coiling an XLR microphone cable using the method shown. Use the hanging XLR cables inside the Bates Sound Studio.  
 
-3. **Record a short video** of yourself, using your phone, demonstrating proper cable coiling technique. If you don't have access to a phone or if it does not record video, ask a friend or ask the studio assistant during their working hours.   
+3. **Record a short video of yourself**, using your phone, demonstrating proper cable coiling technique. If you don't have access to a phone or if it does not record video, ask a friend or ask the studio assistant during their working hours.   
 
-4. **Submit** your video on Lyceum by the deadline, or by emailing it to the instructor. Alternatively, contact the instructor to demonstrate your coiling technique in-person during office hours (by the deadline). 
+4. **Submit** your video on Lyceum by the deadline, or by emailing it to the instructor. Alternatively, contact the instructor to demonstrate your coiling technique in-person during any available office hours (by the deadline). 
 
 ---
 
 ## Why This Matters  
-After concerts and rehearsals, all studio personnel are expected to assist with teardown and equipment care. Proper cable coiling ensures that our cables last longer, avoid knots, and are easy to deploy at the next event. _This is a fundamental professional skill in audio practice_.  
+After concerts and rehearsals, potentially including our upcoming concert on December 2, 2025, studio and live sound personnel are expected to assist with teardown and equipment care. Proper cable coiling ensures that our cables last longer, avoid knots, and are easily reusable at the next event. Make this a habit for the benefit of your community — it helps everybody out to have well-cared for and reliable gear. _Protip: This is a fundamental professional skill to have in the professional audio space._  
 
 ---
 
@@ -54,8 +54,8 @@ After concerts and rehearsals, all studio personnel are expected to assist with 
 - A short video file (30–60 seconds).   
 - Must be you and nobody else (duh).  
 - Clearly show yourself executing the over-under cable coiling technique.  
-- Use only an XLR cable (or TRS works). Others do not coil the same way.    
-- Email to the instructor before the deadline.  
+- Use only an XLR or TRS cable. Other cables have a different structure and do not coil the same way.    
+- Email your video to the instructor before the deadline.  
 
 ---
 
