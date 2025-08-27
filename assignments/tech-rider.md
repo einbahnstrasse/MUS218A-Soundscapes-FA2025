@@ -24,14 +24,19 @@ last_modified_at: 2025-08-25
 ---
 
 ## Introduction
-In professional practice, a **technical rider** communicates everything a venue or production team needs to bring a performance to life: the stage layout, channel list, equipment, input/output (I/O), power, networking, patching, and cues. For this assignment, you’ll imagine a wildly ambitious piece (beyond your class project in MUS218A) and produce a **clear, implementable** rider—complete with a **stage plot** and **signal flow matrix**—using the provided `draw.io` template.
+In professional practice, a **technical rider** communicates everything a venue or production team needs to bring a performance to life: the stage layout, channel list, equipment, input/output (I/O), power, networking, patching, and cues. 
 
-By adopting this workflow, you will have a clear document that you can show to a venue that will clearly communicate your artistic and technical intentions to a new production staff, ensuring your piece or installation is reproducible each time.  
+For this assignment, imagine a wildly ambitious piece or installation with lots of sonic forces and live signal processing (i.e., beyond your class project in MUS218A) and produce a **clear, implementable** rider—complete with a **stage plot** and **signal flow matrix**—using the provided `draw.io` template.   
 
-**Template (draw.io / diagrams.net):**  
+## Get the Template  
+
+**Template from (draw.io / diagrams.net):**  
 [Technical Rider Template — Stage Plot + Audio Connections](https://drive.google.com/file/d/1p35znqW90VuIRySYYmTufySZc-CWsJ_2/view?usp=sharing){:target="_blank"}  
 
-_Click on the link above to open this file, make a **copy** to your own Bates Google Drive, and edit your copy according to the instructions below._   
+_Click on the link above to open this file, make a **copy** to your own Bates Google Drive, and edit your copy according to the instructions below. You may have to authorize each time you use it. Click on open with `draw.io` at the top/center if you see the button._   
+
+## Why This Matters 
+By adopting this workflow, you will have a clear document that you can show to a venue that will clearly communicate your artistic and technical intentions to a new production staff, ensuring your piece or installation is reproducible each time.  
 
 ---
 
