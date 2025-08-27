@@ -42,16 +42,25 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 ## Week 1: {{ site.week-01 }}  
 ### <span style="color: #fc3a52;">{{ site.week-01-topic }}</span>    
+### Wednesday   
 
-<!-- ### [Week #1 Survey/Quiz — Personal Info, Syllabus Elements](https://forms.gle/HeYNxzVSuG67M3Nb8){:target="_blank"}   -->
-<!-- * _Complete the quizlet above as part of today's participation._   -->
+#### Intro Survey    
+Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9){:target="_blank"}   
 
 #### Start-of-Semester Business  
+* Review [Syllabus + Course Policies](/MUS218A-Soundscapes-FA2025/){:target="_blank"}  
+    
+#### Cage Discussion   
+[_You Mean It's Just Sounds?!_](/MUS218A-Soundscapes-FA2025/in-class/cage-just-sounds/){:target="_blank"}   
 
-* Review [Syllabus, Course Policies](/MUS218A-Soundscapes-FA2025/){:target="_blank"}  
+#### Assignments  
+* <span style="color: red;">Install Reaper before Friday! <em>(See Resources page for instructions).</em></span>  
+
+### Friday   
+
+#### Start-of-Semester Business  
 * Review [Software + Resources](/MUS218A-Soundscapes-FA2025/resources/){:target="_blank"}  
 * Review [Detailed Breakdown of Grading](/MUS218A-Soundscapes-FA2025/grading.html){:target="_blank"}  
-<!-- * Review [Keys for Success in MTEC1003](/Goldford-MTEC1003/resources/week.01/keys.for.success.html){:target="_blank"}   -->
 
 #### Tutorials  
 * [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}   
@@ -60,12 +69,11 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Listening   
 * [Hugh Le Caine, _Dripsody_ (1955)](https://youtu.be/zvHSvSBwFYM?si=5ZvFFPUpYwWrJ08L){:target="_blank"}  
 * [Joshua Banks Mailman‘s analysis of _Dripsody_](/MUS218A-Soundscapes-FA2025/assets/images/Mailman.Dripsody.Analysis.png){:target="_blank"}  
-
+   
 #### Assignments  
-* <span style="color: red;">Install Reaper before Week 2 <em>(See Resources page for instructions).</em></span>  
-* <span style="color: red;">Join our Discord Server before Week 2 <em>(See Syllabus page for details).</em></span>  
-* [Auditory Vantage Point (due by Week 3)](/MUS218A-Soundscapes-FA2025/auditory-vantage-point/){:target="_blank"}   
-
+* [Auditory Vantage Point (due by Week 3)](/MUS218A-Soundscapes-FA2025/assignments/auditory-vantage-point/){:target="_blank"}   
+* <span style="color: red;">Install Reaper before Monday! <em>(See Resources page for instructions).</em></span>  
+   
 #### Terms, Concepts, Objects, Shortcuts    
 - oscillation  
 - mass-spring system   
@@ -82,6 +90,10 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 ## Week 2: {{ site.week-02 }}  
 ### <span style="color: #fc3a52;">{{ site.week-02-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
+
 
 #### Downloads   
 * [Audio Files for Testing](https://github.com/einbahnstrasse/synth-tech-media){:target="_blank"}  
@@ -126,6 +138,9 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 ## Week 3: {{ site.week-03 }}  
 ### <span style="color: #fc3a52;">{{ site.week-03-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 #### Warmup Quiz    
 * [Quiz on Slide Content Covered Through Week 3 _(in English and German; distributed at the beginning of class)_](https://forms.gle/Qz2qKpMdZeoyjisB9){:target="_blank"}  
@@ -165,6 +180,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 ## Week 4: {{ site.week-04 }}  
 ### <span style="color: #fc3a52;">{{ site.week-04-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 #### Video Tutorials  
 * [Common types of audio cables and their uses](https://youtu.be/617z88J8060?si=LMRDTIkWgeWa6Z3o){:target="_blank"}  
@@ -188,6 +206,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 ## Week 5: {{ site.week-05 }}  
 ### <span style="color: #fc3a52;">{{ site.week-05-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 #### Tutorials  
 * [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
@@ -197,6 +218,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 ## Week 6: {{ site.week-06 }}  
 ### <span style="color: #fc3a52;">{{ site.week-06-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 #### Tutorials  
 
@@ -213,6 +237,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 ## Week 7: {{ site.week-07 }}  
 ### <span style="color: #fc3a52;">{{ site.week-07-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 #### Warmup Quiz    
 * [Quiz on Slide Content Covered Through Week 7 _(in English and German; distributed at the beginning of class)_](https://forms.gle/DyD2ySciRGJiCqZ77){:target="_blank"}  
@@ -244,6 +271,9 @@ _Choose auto-generated German translations of subtitles if it would help:_
 
 ## Week 8: {{ site.week-08 }}  
 ### <span style="color: #fc3a52;">{{ site.week-08-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
    
 #### Tutorials  
 * Fundamentals of musique concrete   
@@ -258,6 +288,9 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 
 ## Week 9: {{ site.week-09 }}  
 ### <span style="color: #fc3a52;">{{ site.week-09-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 _Class will be held in the **Spatial Audio Lab** of the Digital Learning Campus, in the old Karstadt building, located at Königstraße 54 in the_ [**Übergangshaus**](http://xn--bergangshaus-clb.de/){:target="_blank"}. _Click on the map below for directions. Take the escalator to the 2nd floor and find the Spatial Audio Lab._   
   
@@ -283,6 +316,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 10: {{ site.week-10 }}  
 ### <span style="color: #fc3a52;">{{ site.week-10-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 #### Tutorials   
 * ['Mixing Secrets' Multitrack Library](https://cambridge-mt.com/ms/mtk-newbies/#EntryLevel){:target="_blank"}  
@@ -300,6 +336,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 11: {{ site.week-11 }}  
 ### <span style="color: #fc3a52;">{{ site.week-11-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 #### Tutorials  
 * Introduction to Max (33 minutes) _(make the patches as demonstrated in the video tutorial below:)_  
@@ -311,6 +350,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 12: {{ site.week-12 }}  
 ### <span style="color: #fc3a52;">{{ site.week-12-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 #### Tutorials  
 
@@ -322,6 +364,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 13: {{ site.week-13 }}  
 ### <span style="color: #fc3a52;">{{ site.week-13-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 #### Tutorials  
 
@@ -332,6 +377,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 14: {{ site.week-14 }}  
 ### <span style="color: #fc3a52;">{{ site.week-14-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 #### Tutorials  
 
@@ -341,6 +389,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 15: {{ site.week-15 }}  
 ### <span style="color: #fc3a52;">{{ site.week-15-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 ### Tutorials  
 
@@ -351,6 +402,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 16: {{ site.week-16 }}  
 ### <span style="color: #fc3a52;">{{ site.week-16-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 ### Tutorials  
 
@@ -361,6 +415,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 17: {{ site.week-17 }}  
 ### <span style="color: #fc3a52;">{{ site.week-17-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 ### Tutorials  
 
@@ -371,6 +428,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
   
 ## Week 18: {{ site.week-18 }}  
 ### <span style="color: #fc3a52;">{{ site.week-18-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
 
 ### Tutorials  
 
