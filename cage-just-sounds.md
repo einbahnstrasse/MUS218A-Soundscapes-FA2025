@@ -4,7 +4,7 @@
 
 # layout: archive   
 layout: single   
-title: "John Cage: Just Sounds?"   
+title: "You Mean Just Sounds?!"   
 lang: en   
 ref: cage-just-sounds    
 permalink: /cage-just-sounds/   

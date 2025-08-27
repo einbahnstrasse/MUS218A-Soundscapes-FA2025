@@ -8,10 +8,10 @@ title: "XLR Cable Coiling"
 lang: en   
 ref: midterm    
 permalink: /xlr-cable-coiling/   
-# toc: true  
-# toc_label: "Grading Contents" # default: Content
+toc: true  
+toc_label: "Grading Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
-# toc_sticky: true   # enables sticky toc  
+toc_sticky: true   # enables sticky toc  
 read_time: true  
 date: 2025-08-25  
 last_modified_at: 2025-08-25  
