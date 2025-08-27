@@ -8,10 +8,10 @@ title: "John Cage: Just Sounds?"
 lang: en   
 ref: cage-just-sounds    
 permalink: /cage-just-sounds/   
-# toc: true  
-# toc_label: "Discussion Contents" # default: Content
+toc: true  
+toc_label: "Discussion Contents" # default: Content
 toc_icon: "comments"  
-# toc_sticky: true   
+toc_sticky: true   
 read_time: true  
 date: 2025-08-26  
 last_modified_at: 2025-08-26  
@@ -20,21 +20,19 @@ last_modified_at: 2025-08-26
 
 ### What To Do   
 
-Watch this short excerpt of John Cage from the 1992 documentary *Écoute*. Reflect on his ideas and prepare to respond to the questions below in breakout groups. You can also read the interview transcript at the bottom of the page. **Contribute to class discussion**.     
+Watch this short excerpt of John Cage from the 1992 documentary *Écoute*. Reflect on his ideas and prepare to respond to the questions below in breakout groups. You can also read the interview transcript at the bottom of the page. **Contribute to our class discussion**.     
 
 ### Video   
 
 {% include video id="pcHnL7aS64Y" provider="youtube" %}  
-
-### Source & Citation   
-
+    
 *Écoute*. Directed by Anna Grange and Miroslav Šebestík. France: La Sept ARTE, 1992. Film.  
 
 ---
 
 ### Possible Discussion Questions  
 
-These are all fairly open-ended. Choose a handful of them to discuss with the others in your breakout group:       
+These are all fairly open-ended. Choose a handful of them to discuss with the other members of your breakout group:       
 
 - Cage contrasts music as “someone talking” with traffic as “sound acting.” What do you think the difference is between them? What do you think _communication_ and _activity_ are in sound?  
 - Does his definition of music as “just sound” expand or undermine traditional boundaries of music?  
