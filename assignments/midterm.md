@@ -7,17 +7,17 @@ layout: single
 title: "Midterm: 3-Minute Stereo Sketch"   
 lang: en   
 ref: midterm    
-permalink: /midterm/   
-# toc: true  
-# toc_label: "Grading Contents" # default: Content
+permalink: /assignments/midterm/   
+toc: true  
+toc_label: "Grading Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
-# toc_sticky: true   # enables sticky toc  
+toc_sticky: true   # enables sticky toc  
 read_time: true  
 date: 2025-08-25  
 last_modified_at: 2025-08-25  
 
 ---
-
+<!-- 
 ## Deadline: Week 7: {{ site.week-07 }}  
 
 The midterm is a “sketch” for a fixed-media piece, which you can treat as a “preview” of your final piece as you are developing your ideas.  
@@ -41,4 +41,66 @@ By the deadline, send me a soundfile and your Reaper project folder (by email, W
 * Strive for **tonal balance in your mix**. For example, use **EQ** and **compression** to improve the interaction between the sounds in your tracks.   
 * Sound files and samples should be exported at a **sample rate of 48 kHz** and a **bit rate of 24 bits** (48 kHz / 24 bits).   
 
-_Note that we will not be having class during the day of the deadline._  
+_Note that we will not be having class during the day of the deadline._   -->
+
+# Midterm: 3-Minute Stereo Sketch  
+
+## Deadline  
+**Week 7: {{ site.week-07 }}**  
+
+---
+
+## Introduction  
+Our midterm assignment is a **sketch** for a fixed-media piece, which can serve as a “preview” of your final project. By "sketch," we simply mean _a working version:_ not final, not perfect.   
+
+You may treat this as:  
+- A **miniature version** of your final piece,  
+- An **independent study** in sound that diverges from your final project, or  
+- A **testing ground** for ideas you may or may not carry forward.  
+
+This is a chance to explore particular sound material that really interest you, experiment with your field recordings, software synthesizers and samplers, and demonstrate your developing skills in mixing and automation.  
+
+---
+
+## Learning Objectives  
+By completing this assignment, students will be able to:  
+1. **Identify** and organize diverse sound sources (field recordings, synthesis, samples) for compositional use.  
+2. **Apply** mixing techniques (EQ, tonal balance, gain staging, compression where appropriate) in a Reaper session.  
+3. **Demonstrate** creative use of automation to shape dynamics, timbre, and spatial qualities.  
+4. **Construct** a multi-track session (minimum 4 tracks) that integrates multiple sound sources into a cohesive sketch.  
+5. **Evaluate** the effectiveness of their mix for clarity, balance, and expressivity.  
+6. **Produce** a stereo audio file (48 kHz / 24-bit) and a transferable Reaper session folder that can be opened in another computer system.  
+
+---
+
+## Assignment Criteria  
+Your submission should meet the following guidelines:  
+
+- **Length:** Approximately 3 minutes in duration (slightly longer is acceptable; significantly shorter is not).  
+- **Reaper Session:** Your project folder must contain all audio and Reaper session files.  
+- **Source Materials:** Include at least **2 sound sources** (recorded or synthesized).  
+- **Tracks:** Use a minimum of **4 tracks** in Reaper.  
+- **Automation:** At least one form of automation (e.g., volume, panning, a plugin parameter, etc.) must be present and intentionally thought out. That is, don't simply move automation randomly to satisy this part of the assignment; your automation should demonstrate that it has purpose linked, ideally, to your own listening.     
+- **Plugins:** Any plugins used must be listed so the session can be recreated on another computer.  
+- **Mixing:** Strive for **tonal balance** using EQ and dynamics processing.  
+- **Export Format:** 48 kHz / 24-bit WAV file.  
+
+---
+
+## Submission Instructions  
+- Submit your **Reaper project folder** (with all audio files included in your mix, plus your Reaper session file(s)) **and** your exported stereo soundfile.  
+- Send via Etna, or by email via WeTransfer or a preferred cloud storage link.  
+- Due by **Week 7: {{ site.week-07 }}**.  
+
+---
+
+## Evaluation Criteria  
+Your midterm will be evaluated according to the following:  
+
+- **Completeness (20%)** — Meets all technical requirements (mix duration, minimum number of tracks, file formats, Reaper project folder in tact).  
+- **Sound Source Use (20%)** — Incorporates at least 2 distinct sources creatively, using transformations of the sounds that show intention and inventiveness.  
+- **Automation (15%)** — Evidence of thoughtful automation shaping dynamic, timbral, and/or spatial qualities.  
+- **Mix Quality (25%)** — Attention to tonal balance, EQ, and clarity of layers, or blend, where required.  
+- **Creativity & Originality (20%)** — Demonstrates a personal approach to your chosen material, exploratory or expressive use of sound.  
+
+* * *   

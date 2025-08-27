@@ -7,7 +7,7 @@ layout: single
 title: "Auditory Vantage Point"   
 lang: en   
 ref: auditory-vantage-point    
-permalink: /auditory-vantage-point/   
+permalink: /assignments/auditory-vantage-point/   
 # toc: true  
 # toc_label: "Grading Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix

@@ -7,7 +7,7 @@ layout: single
 title: "What Are Treatments?"   
 lang: en   
 ref: treatments    
-permalink: /treatments/   
+permalink: /in-class/treatments/   
 # toc: true  
 # toc_label: "Grading Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix

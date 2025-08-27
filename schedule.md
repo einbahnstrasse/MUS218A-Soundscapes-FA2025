@@ -60,7 +60,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 #### Start-of-Semester Business  
 * Review [Software + Resources](/MUS218A-Soundscapes-FA2025/resources/){:target="_blank"}  
-* Review [Detailed Breakdown of Grading](/MUS218A-Soundscapes-FA2025/grading.html){:target="_blank"}  
+* Review [Detailed Breakdown of Grading](/MUS218A-Soundscapes-FA2025/grading/){:target="_blank"}  
 
 #### Tutorials  
 * [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}   

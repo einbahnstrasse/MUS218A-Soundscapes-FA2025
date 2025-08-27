@@ -7,56 +7,94 @@ layout: single
 title: Final Multichannel Fixed Piece     
 lang: en   
 ref: grade  
-permalink: /final-multichannel-fixed-piece/   
-# toc: true  
-# toc_label: "Grading Contents" # default: Content
+permalink: /assignments/final-multichannel-fixed-piece/   
+toc: true  
+toc_label: "Grading Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
-# toc_sticky: true   # enables sticky toc  
+toc_sticky: true   # enables sticky toc  
 read_time: true  
 date: 2025-08-25  
 last_modified_at: 2025-08-25    
 
 ---
 
-## Deadline: Week 13: {{ site.week-13 }}  
+## Deadline  
+**November 22, 2025**  
 
-The final project is a complete piece (_recommended: 8-12 minutes in duration_) for fixed media, in 8-channel surround sound, to be played back on the 8-channel system in our Spatial Audio Lab in Karstadt.  
+_Note: You are given the maximum amount of time to finish your piece before our December 2, 2205 concert, with the careful consideration of university policies preventing major deadlines after Thanksgiving. Late submissions will result in a fail._  
 
-Send your piece to me (complete project folder + exported audio files) by Week 13. I will send you some notes for revision, which will be due before our final listening session: our final class.   
+---
 
-<!-- The final is a complete piece (_recommended: 8-12 minutes in duration_) for fixed media, in <strike>8-channel</strike> 4-channel surround sound.  -->
+## Introduction  
+The final project is a **complete fixed-media composition** (_recommended: 6–8 minutes in duration_) designed for **4-channel surround sound**. It will be played back on a 4-channel system during our December 2, 2025 concert at 7:30 PM, and you may introduce your piece at this concert. As a reminder: your attendance at this concert is required.   
 
-<!-- This piece will be featured during the _**Werkstatt für Aktuelle Musik**_ (January 17-20, 2024).   -->
+You may choose to:  
+- Expand upon your **midterm sketch**, which then serves as a miniature version of your final piece, or any original musical material from your previous assignments in this class, or  
+- Compose an **entirely new piece** drawing on the skills and materials you’ve accumulated this semester.  
+    
+This project can represent the culmination of your work in field recording, mixing, micro-montage, timbral design, automation, spatialization, and compositional development.  
 
-You are encouraged (but not required) to use your midterm “sketch” as a basis for your final piece.  
+---
 
-Of course, you can choose to treat the final as an entirely separate piece, but the option to use your midterm as a “miniature” version of your final piece is given.   
+## Learning Objectives  
+By completing this assignment, students will be able to:  
+1. **Organize** and manage a large multitrack session for fixed media composition.  
+2. **Apply** advanced automation for shaping timbre, dynamics, and spatial movement.  
+3. **Demonstrate** effective use of **SpatGRIS/ControlGRIS** for 4-channel spatialization.  
+4. **Integrate** at least 4 diverse sound sources into a cohesive musical structure.  
+5. **Evaluate** tonal balance, clarity, and spatial imaging in a multichannel mix.  
+6. **Produce** a professional fixed-media work exported at **48 kHz / 24-bit**, including a stereo binaural mixdown.  
 
-It would be an efficient use of time to expand upon the ideas you presented in your midterm, or somehow make use of the work you did there. Supplement your work with our lessons in mixing, multichannel spatialization, SPEAR, sampling, VCV Rack, and MaxMSP techniques that you will continue to learn this semester. Revise your automation, record new sounds, etc.  
+---
 
-By the deadline, send me a Reaper project folder (by email, WeTransfer.com, or any cloud link), and a stereo mixdown (binaural). Instructions on how to do this will be given in class.   
+## Assignment Criteria  
+Your final submission should meet the following requirements:  
 
-Your piece should meet the following criteria:  
+- **Length:** Approximately 6–8 minutes in duration (slightly shorter is acceptable; not much longer).  
+- **Session Format:** Prepare your project in **Reaper or Ableton Live**. Project folder must include all files (including exported audio) that your session relies on to run smoothly on any computer. _Note: We will be running the concert using your expored audio files (stems), but you will still submit the full Reaper or Ableton Live session for grading and evaluation._   
+- **Originality:** Must be your own creative work.  
+- **Sound Sources:** Include at least **4 different recorded and/or synthesized sources**.  
+- **Tracks:** Use multiple tracks of source audio (recommended: 8 or more). You can conceive of this as a counterpoint of layers, for example.  
+- **Automation:** Apply automation to track parameters and plugin devices.  
+- **Spatialization:** Make extensive use of **SpatGRIS** and **ControlGRIS** for spatial movement within the 4-channel space.  
+- **Mixing:** Achieve tonal balance using EQ and possibly compression, with attention to how spatialization affects the spectral blend.  
+- **Plugins:** Incorporate plugin devices as appropriate.  
+- **Export:** Deliver audio files at **48 kHz / 24-bit**. Include both the multichannel version and a **stereo binaural mixdown**.  
 
-### Criteria   
+---
 
-The final project should address similar criteria from the midterm, and additionally:   
+## Submission Instructions  
+- Submit your **complete project folder** (including all sound files).  
+- Submit your **exported 4-channel audio file** and a **stereo binaural mixdown**.  
+- Send via Etna, or by email via WeTransfer or a preferred cloud storage link.  
 
-* Your piece should be approximately **8-12 minutes in duration**, but of course, this **may vary** depending on your material and your compositional approach. It can be a longer excerpt, but not much shorter.  
-* Prepare your final project **in a Reaper or Ableton Live session**. Any sound files you use should also be contained inside your Reaper or Ableton project folder.  
-* It should be your own, original work, focusing on your manipulation of the source sounds that interest you.  
-* Include **at least 4 source sound files** and/or synthesis clips.  
-* Your project should include a sequence that **utilizes multiple tracks** of source audio (recommended: 8). Imagine this to be a counterpoint of sound files.    
-* Your tracks should include **automation**.  
-* Make extensive use of **SpatGRIS**: add **ControlGRIS** to your tracks and add automation to in order to move your sounds around the space.  
-* The 8-channel space is conceived of as a **ring of 8**, meaning 8 equidistantly-spaced speakers surrounding the audience. This setup is reproduced in our Karstadt space, which we will begin having classes in soon. _You should also use this space to work on your piece_. Reserve time by contacting our HiWis.         
-<!-- * _Due to new restrictions on our final concert, we will make 4-channel pieces instead of 8-channel pieces:_ The 4-channel space is conceived of as a **square**, meaning 4 speakers surrounding the audience in 4 corners of the room.    -->
-* Your tracks should include a number of **plugin** devices.  
-<!-- * When you use plugins, include a **list** of them: _Your mix must be transferrable and able to play on another computer._   -->
-* Strive for **tonal balance in your mix**. For example, use **EQ** and **compression** to improve the interaction between the sounds in your tracks, with special attention to how the sounds change when you apply multichannel spatial movement. We will discuss these concepts further in our lessons on mixing and post-production.      
-* Sound files and samples should be exported at a **sample rate of 48 kHz** and a **bit depth of 24 bits** (48 kHz / 24 bits).   
+---   
 
-_Note that you're being given the **maximum amount of time to finish your pieces** before the final listening session. Therefore, if your piece is late, unfortunately this will result in a fail._   
+## Evaluation Criteria  
+Your final project will be assessed according to the following:  
 
-<!-- _Once the piece has been soundchecked on the performance day, no further revisions or changes can be made before the performance._   -->
+- **Completeness (15%)** — Meets technical requirements (duration, format, project folder, exports).  
+- **Sound Sources & Materials (20%)** — Creative integration of at least four distinct sources.  
+- **Spatialization (20%)** — Effective and expressive use of SpatGRIS/ControlGRIS for movement and placement in the 8-channel space.  
+- **Automation & Mixing (20%)** — Skillful shaping of timbre, dynamics, tonal balance, and clarity in a multichannel context.  
+- **Structure & Creativity (25%)** — A compelling, cohesive musical form that demonstrates originality and personal artistic vision.  
 
+---
+
+## Evaluation Criteria (Rubric)     
+
+## Final Project Rubric  
+
+Details in the boxes below will be filled in upon grading and provided as feedback at the end of the semester. Each of the grading components below will be weighed against the others for a complete project grade.  
+
+| Criteria | 5 (best) | 4 | 3 (average) | 2 | 1 (poor) |
+|----------|-----------|---|-------------|---|----------|
+| **Organization of Project Folder & File Structure** | Project folder is complete, clearly organized, all files included; easy to transfer and open on another system. | Mostly complete; minor issues with file organization or missing metadata. | Usable but requires troubleshooting; some files missing or confusingly labeled. | Project difficult to open or reproduce; disorganized structure. | Incomplete submission; missing essential files or exports. |
+| **Sound Sources & Materials** | Creative and effective integration of at least 4 diverse sound sources (field recordings, synthesis, samples). Sources are clearly transformed and integral to the piece. | Meets minimum source requirement with generally effective integration. | Limited variety of sources; uneven integration. | Insufficient number of sources or sources not integrated into final work. | Fails to meet requirement; sources are missing or unoriginal. |
+| **Spatialization (SpatGRIS/ControlGRIS)** | Highly effective, expressive use of spatialization; movements feel intentional, enhance form and perception. | Spatialization is present and generally effective; occasional inconsistencies. | Adequate use of spatialization; lacks clarity or purpose. | Minimal or ineffective use of spatialization tools. | No evidence of spatialization. |
+| **Automation & Mixing** | Skillful, nuanced automation of parameters; tonal balance and clarity are strong across multichannel mix. | Automation used effectively with some variation; mix is generally clear. | Basic automation; mix is uneven but functional. | Limited automation; tonal balance and clarity issues throughout. | No meaningful use of automation; mix is muddy or unbalanced. |
+| **Quality of Sound & Processing** | Sounds are rich, detailed, and well-processed; synthesis/recordings are of high quality; processing enhances the work. | Generally strong sounds and processing; minor issues in detail or polish. | Adequate quality; some sounds underdeveloped or poorly processed. | Weak sound quality; processing choices often obscure or degrade material. | Poor quality; sounds are unrefined, distorted, or unprocessed. |
+| **Structure & Creativity** | Piece demonstrates compelling, cohesive musical structure; highly original and inventive artistic vision. | Clear structure with creative elements; some moments less coherent. | Adequate structure; creativity uneven. | Weak or unclear structure; little sense of artistic direction. | Lacks structure and creativity. |
+| **Scope of Project** | Fully realizes expectations of an 8–12 minute fixed-media multichannel piece; ambitious in scale and depth. | Meets duration and scope expectations with reasonable ambition. | Meets minimum expectations but limited in scope. | Falls short of scope or ambition; significantly underdeveloped. | Far below scope; incomplete or insubstantial work. |
+ 
+* * *    
