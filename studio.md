@@ -75,12 +75,12 @@ Ensure that you are properly **logged in to your Bates Google account**. If you 
 
 ## Mainspace Calendar 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&title&src=Y19jMDZlMmFjNzlkOGM1NmY1MmEzYmVkNWI4MmE5YjlhM2NlNDZiZGIyOGM2NjgzZThkOTAzMzRhMmYxNjBlZmFlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23f09300" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&title&src=Y19jMDZlMmFjNzlkOGM1NmY1MmEzYmVkNWI4MmE5YjlhM2NlNDZiZGIyOGM2NjgzZThkOTAzMzRhMmYxNjBlZmFlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23f09300" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
 
 ## Studio A Calendar   
     
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&title&src=Y185NWI1ZjE5YmViNmQ4MGZiNDdjNjBjMWEyNzJlYTI3NjYwNzcxOWIyOWIzZGU4ODFhOGUxMjdmZDgyOTM4ZTliQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23f4511e" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&title&src=Y185NWI1ZjE5YmViNmQ4MGZiNDdjNjBjMWEyNzJlYTI3NjYwNzcxOWIyOWIzZGU4ODFhOGUxMjdmZDgyOTM4ZTliQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23f4511e" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>
 
 ## Studio B Calendar      
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&src=Y182MTUwNDMyNzg4MTE4NDg1NGUwY2UzNzEwOWFhZmVmMzE4MzAzMmViMmYyMTZlYzQxNDMwNDM4Y2U5YjU0ZTZkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&src=Y182MTUwNDMyNzg4MTE4NDg1NGUwY2UzNzEwOWFhZmVmMzE4MzAzMmViMmYyMTZlYzQxNDMwNDM4Y2U5YjU0ZTZkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688" style="border-width:0" width="600" height="500" frameborder="0" scrolling="no"></iframe>

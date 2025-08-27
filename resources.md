@@ -214,10 +214,37 @@ _Check your operating system for compatibility and install one of these:_
 
 ## VCV Rack      
 
-_for virtual modular synthesis_  
-<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://vcvrack.com/Rack#get" target="_blank" class="btn btn--primary">VCV Rack</a></span>  
+_VCV Rack is a **free, open-source virtual modular synthesizer** that emulates Eurorack hardware on your computer. It provides a vast library of free and premium modules for sound generation, processing, and control, which you can patch together with virtual cables._  
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://vcvrack.com/Rack#get" target="_blank" class="btn btn--primary">Download VCV Rack</a></span>  
 
 <img src="/MUS218A-Soundscapes-FA2025/assets/images/VCVrack.png" alt="VCVrack.png">
+
+## Other Synth Plugins  
+
+### Dexed    
+
+_Dexed is a multi platform, multi format plugin synth that is closely modeled on the [Yamaha DX7](https://en.wikipedia.org/wiki/Yamaha_DX7){:target="_blank"}. Dexed is also a midi cartridge librarian/manager for the DX7._  
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://asb2m10.github.io/dexed/" target="_blank" class="btn btn--primary">Download Dexed</a></span>    
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/dexed.png" alt="dexed.png">
+
+### Surge XT       
+
+_Surge XT is a virtual instrument plugin that, among its many talents, supports microtonal tuning (i.e., "microtuning") using a somewhat recent extension of MIDI known as MTS-ESP (see below...)._   
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://surge-synthesizer.github.io/" target="_blank" class="btn btn--primary">Download Surge XT</a></span>    
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/surge.png" alt="surge.png">
+
+### MTS-ESP Mini       
+
+_**MIDI MTS-ESP** (MIDI Tuning Standard – Expanded Scale Protocol) is an extension of the MIDI protocol that lets software share realtime tuning data, making it possible to use microtonal scales across multiple synths and DAWs. The mini version (MTS-ESP Mini) is a lightweight plugin you can load in a DAW project to apply custom tunings to your instruments._   
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://oddsound.com/mtsespmini.php" target="_blank" class="btn btn--primary">Download MTS-ESP Mini</a></span>    
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/mts-eps-v01.png" alt="mts-eps-v01.png">
 
 * * *   
 
