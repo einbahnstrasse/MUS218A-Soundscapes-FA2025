@@ -33,7 +33,7 @@ For this assignment, imagine a wildly ambitious piece or installation with lots 
 **Template from (draw.io / diagrams.net):**  
 [Technical Rider Template — Stage Plot + Audio Connections](https://drive.google.com/file/d/1p35znqW90VuIRySYYmTufySZc-CWsJ_2/view?usp=sharing){:target="_blank"}  
 
-_Click on the link above to open this file, make a **copy** to your own Bates Google Drive, and edit your copy according to the instructions below. You may have to authorize each time you use it. Click on open with `draw.io` at the top/center if you see the button._   
+_Click on the link above to open this file, make a **copy** to your own Bates Google Drive, and edit your copy according to the instructions below. You may have to authorize each time you use it. Click on `open with draw.io` at the top/center if you see the button._   
 
 ## Why This Matters 
 By adopting this workflow, you will have a clear document that you can show to a venue that will clearly communicate your artistic and technical intentions to a new production staff, ensuring your piece or installation is reproducible each time.  
