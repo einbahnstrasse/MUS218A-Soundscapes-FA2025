@@ -220,9 +220,9 @@ _VCV Rack is a **free, open-source virtual modular synthesizer** that emulates E
 
 <img src="/MUS218A-Soundscapes-FA2025/assets/images/VCVrack.png" alt="VCVrack.png">
 
-## Other Synth Plugins  
+# Other Synth Plugins  
 
-### Dexed    
+## Dexed    
 
 _Dexed is a multi platform, multi format plugin synth that is closely modeled on the [Yamaha DX7](https://en.wikipedia.org/wiki/Yamaha_DX7){:target="_blank"}. Dexed is also a midi cartridge librarian/manager for the DX7._  
 
@@ -230,7 +230,7 @@ _Dexed is a multi platform, multi format plugin synth that is closely modeled on
 
 <img src="/MUS218A-Soundscapes-FA2025/assets/images/dexed.png" alt="dexed.png">
 
-### Surge XT       
+## Surge XT       
 
 _Surge XT is a virtual instrument plugin that, among its many talents, supports microtonal tuning (i.e., "microtuning") using a somewhat recent extension of MIDI known as MTS-ESP (see below...)._   
 
@@ -238,7 +238,7 @@ _Surge XT is a virtual instrument plugin that, among its many talents, supports 
 
 <img src="/MUS218A-Soundscapes-FA2025/assets/images/surge.png" alt="surge.png">
 
-### MTS-ESP Mini       
+## MTS-ESP Mini       
 
 _**MIDI MTS-ESP** (MIDI Tuning Standard – Expanded Scale Protocol) is an extension of the MIDI protocol that lets software share realtime tuning data, making it possible to use microtonal scales across multiple synths and DAWs. The mini version (MTS-ESP Mini) is a lightweight plugin you can load in a DAW project to apply custom tunings to your instruments._   
 
@@ -248,32 +248,32 @@ _**MIDI MTS-ESP** (MIDI Tuning Standard – Expanded Scale Protocol) is an exten
 
 * * *   
 
-## Additional + Optional Resources   
+# Additional + Optional Resources   
 
-### File Transfer Services      
+## File Transfer Services      
 _For sending large files (project folders, sound, video, etc.)_    
     
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
 	<a href="https://wetransfer.com/" target="_blank" class="btn btn--primary">WeTransfer.com</a> <a href="https://www.swisstransfer.com/" target="_blank" class="btn btn--primary">SwissTransfer.com</a>   
 </span>
     
-### YouTube: Electroacoustic + Acousmatic Music   
+## YouTube: Electroacoustic + Acousmatic Music   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=dGmT6dvsMcJbrF1u&amp;list=PLJiSOq8uc1_-jrDCDCAqAhAECYbwWrqr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Audio Analysis Tools   
+## Audio Analysis Tools   
 
 <a href="https://logiciels.pierrecouprie.fr/" target="_blank" class="btn btn--primary">iAnalyse</a>  
 
 <img src="/MUS218A-Soundscapes-FA2025/assets/images/ianalyse_interface.v01.png" alt="iAnalyse interface">  
 
-### Free Sample Libraries    
+## Free Sample Libraries    
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
 	<a href="https://freesound.org/" target="_blank" class="btn btn--primary">FreeSound.org</a> <a href="https://archive.org/details/nasaaudiocollection" target="_blank" class="btn btn--primary">NASA Audio Collection</a> <a href="https://www.nps.gov/subjects/sound/gallery.htm" target="_blank" class="btn btn--primary">Natural Sounds Gallery</a> <a href="https://theremin.music.uiowa.edu/MIS.html" target="_blank" class="btn btn--primary">Instrumental Samples</a>
 </span>
 
-### Field Recording On Your Phone   
+## Field Recording On Your Phone   
 
 _You can request a Zoom device or field recorder from the studio, but it is sometimes even more convenient to record high-quality audio on your phone using a free app! 2 apps are listed below._    
 
@@ -285,17 +285,17 @@ _The challenge with mobile recording apps that don't require a microphone is thi
 
 _Other phone apps are also available. Whichever app you choose, be sure to set the app's preferences to record at our studio's standard **sampling rate (48kHz) and bit rate (24 bit)**. Unfortunately, Dolby On may only allow you to record in 16-bit, but you might find another app that can do better. Dolby On also has a lots of great audio editing features._  
 
-#### Apogee MetaRecorder Quickstart Video Guide   
+### Apogee MetaRecorder Quickstart Video Guide   
 
 {% include video id="QoD4OQey4m4" provider="youtube" %}  
 
-#### Dolby On – Full Walkthrough Tutorial   
+### Dolby On – Full Walkthrough Tutorial   
 
 {% include video id="n6UVVpXc8Og" provider="youtube" %}  
 
 ### Tutorials   
 
-#### MaxMSP   
+### MaxMSP   
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
 	<a href="https://music.arts.uci.edu/dobrian/maxcookbook/node/56" target="_blank" class="btn btn--primary">Max Cookbook</a> <a href="https://cycling74.com/forums" target="_blank" class="btn btn--primary">MaxMSP User Forum</a> <a href="https://docs.cycling74.com/max8" target="_blank" class="btn btn--primary">Max 8 Documentation</a> <a href="http://peterelsea.com/maxtutorials.html" target="_blank" class="btn btn--primary">Peter Elsea Tutorials</a> <a href="http://www.maxobjects.com/" target="_blank" class="btn btn--primary">Max Objects Database</a>
