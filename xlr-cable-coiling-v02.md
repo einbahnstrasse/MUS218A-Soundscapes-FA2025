@@ -10,7 +10,7 @@ date: 2025-08-25
 last_modified_at: 2025-08-26  
 ---
 
-# XLR Cable Coiling Assignment  
+<!-- # XLR Cable Coiling Assignment   -->
 
 ## Deadline  
 **Week 7: {{ site.week-07 }}**
@@ -27,42 +27,43 @@ This assignment will give you hands-on practice with proper cable coiling techni
 
 ## Learning Objectives  
 By completing this assignment, students will be able to:  
-1. **Identify** the structure and function of a standard 3-pin XLR cable.  
-2. **Demonstrate** proper coiling techniques for audio cables.  
-3. **Differentiate** between proper and improper cable wrapping methods.  
-4. **Apply** best practices to real-world performance and recording setups.  
-5. **Evaluate** their own technique by reviewing their demonstration video.  
+1. **Demonstrate** proper coiling techniques for audio cables.  
+2. **Differentiate** between proper and improper cable wrapping methods.  
+3. **Apply** best practices to real-world live sound and recording studio setups.  
+4. **Evaluate** their own technique by reviewing their own demonstration video.  
 
 ---
 
 ## Instructions  
-1. **Watch the video tutorial** below on proper cable coiling:  
+1. **Watch this short video tutorial** below on proper cable coiling:  
    {% include video id="0yPcJD7RVuY" provider="youtube" %}  
 
-2. **Practice** coiling an XLR microphone cable using the method shown.  
+2. **Practice** coiling an XLR microphone cable using the method shown. Use the hanging XLR cables inside the Bates Sound Studio.  
 
-3. **Record a short video** (using your phone is fine) of yourself demonstrating proper cable coiling.  
+3. **Record a short video** of yourself, using your phone, demonstrating proper cable coiling technique. If you don't have access to a phone or if it does not record video, ask a friend or ask the studio assistant during their working hours.   
 
-4. **Submit** the video via email to the instructor by the deadline.  
+4. **Submit** your video on Lyceum by the deadline, or by emailing it to the instructor. Alternatively, contact the instructor to demonstrate your coiling technique in-person during office hours (by the deadline). 
 
 ---
 
 ## Why This Matters  
-After concerts and rehearsals, all students are expected to help with teardown and equipment care. Proper cable coiling ensures that cables last longer, avoid knots, and are easy to deploy at the next event. This is a fundamental professional skill in audio practice.  
+After concerts and rehearsals, all studio personnel are expected to assist with teardown and equipment care. Proper cable coiling ensures that our cables last longer, avoid knots, and are easy to deploy at the next event. _This is a fundamental professional skill in audio practice_.  
 
 ---
 
 ## Submission Requirements  
-- A short video file (30–60 seconds).  
+- A short video file (30–60 seconds).   
+- Must be you and nobody else (duh).  
 - Clearly show yourself executing the over-under cable coiling technique.  
-- Email to the instructor before the Week 7 deadline.  
+- Use only an XLR cable (or TRS works). Others do not coil the same way.    
+- Email to the instructor before the deadline.  
 
 ---
 
 ## Evaluation Criteria  
 - Correct use of the over-under coiling technique.  
 - Neatness and consistency of loops.  
-- Proper handling of cable ends and connectors.  
-- Video clarity (can the process be clearly observed?).  
+- Proper handling of the specified type of cable.  
+- Video clarity — can the process be clearly observed?  
 
 ---
