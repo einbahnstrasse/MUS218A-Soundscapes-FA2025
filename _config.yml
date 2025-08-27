@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Soundscapes | Recording and Designing Sound      
+title: Soundscapes | MUS218A      
 email: lgoldford@bates.edu    
 description: >- # this means to ignore newlines until "baseurl:"
   Fall 2025 | Mondays, Wednesdays, and Fridays from 14:40—16:00 | Bates Sound Studio (Olin 302)    
