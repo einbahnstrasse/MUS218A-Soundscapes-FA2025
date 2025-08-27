@@ -55,6 +55,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 #### Assignments  
 * <span style="color: red;">Install Reaper before Friday! <em>(See Resources page for instructions).</em></span>  
+* [Auditory Vantage Point (due by start of Week 2)](/MUS218A-Soundscapes-FA2025/assignments/auditory-vantage-point/){:target="_blank"}   
 
 ### Friday 9/5  
 
@@ -62,18 +63,42 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 * Review [Software + Resources](/MUS218A-Soundscapes-FA2025/resources/){:target="_blank"}  
 * Review [Detailed Breakdown of Grading](/MUS218A-Soundscapes-FA2025/grading/){:target="_blank"}  
 
-#### Tutorials  
-* [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}   
-* [Introduction to Digital Audio: What is Sound? (Slides 1-14) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+#### Video Tutorials  
+* [A Quick Guide to Microphones](https://youtu.be/PE6Qn4ZiEyo?si=r3j0GYwarIWruiht){:target="_blank"}  
+{% include video id="PE6Qn4ZiEyo" provider="youtube" %}  
+
+* [What is a Microphone Polar Pattern?](https://youtu.be/dOr9uQifsO4?si=XDG6-qGe51yMgVdU){:target="_blank"}  
+{% include video id="dOr9uQifsO4" provider="youtube" %}  
 
 #### Listening   
 * [Hugh Le Caine, _Dripsody_ (1955)](https://youtu.be/zvHSvSBwFYM?si=5ZvFFPUpYwWrJ08L){:target="_blank"}  
 * [Joshua Banks Mailman‘s analysis of _Dripsody_](/MUS218A-Soundscapes-FA2025/assets/images/Mailman.Dripsody.Analysis.png){:target="_blank"}  
    
 #### Assignments  
-* [Auditory Vantage Point (due by Week 3)](/MUS218A-Soundscapes-FA2025/assignments/auditory-vantage-point/){:target="_blank"}   
 * <span style="color: red;">Install Reaper before Monday! <em>(See Resources page for instructions).</em></span>  
+* [Mic Technique + Voice Recording Assignment (due by start of Week 3)](/MUS218A-Soundscapes-FA2025/assignments/mic-technique/){:target="_blank"}   
    
+#### Terms, Concepts, Objects, Shortcuts    
+- `coil`   
+- `diaphgragm`    
+- `polar pattern`   
+- `XLR cable`     
+- `condensor mic`    
+- `dynamic mic`    
+- `audio interface`   
+- `clipping distortion`    
+  
+* * *  
+
+## Week 2: {{ site.week-02 }}  
+### <span style="color: #fc3a52;">{{ site.week-02-topic }}</span>    
+
+### Monday 9/8    
+
+#### Tutorials  
+* [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}   
+* [Introduction to Digital Audio: What is Sound? (Slides 1-14) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+
 #### Terms, Concepts, Objects, Shortcuts    
 - oscillation  
 - mass-spring system   
@@ -84,13 +109,8 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 - sine wave    
 - triangle wave    
 - sawtooth wave   
-- square wave   
-  
-* * *  
+- square wave  
 
-## Week 2: {{ site.week-02 }}  
-### <span style="color: #fc3a52;">{{ site.week-02-topic }}</span>    
-### Monday   
 ### Wednesday   
 ### Friday   
 
@@ -226,12 +246,6 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 * [12+ Different Types of Microphones](https://decibelpeak.com/types-of-microphones/#summary-12-different-types-of-microphones){:target="_blank"}  
 
-#### Video Tutorials  
-* [A Quick Guide to Microphones](https://youtu.be/PE6Qn4ZiEyo?si=r3j0GYwarIWruiht){:target="_blank"}  
-{% include video id="PE6Qn4ZiEyo" provider="youtube" %}  
-
-* [What is a microphone polar pattern?](https://youtu.be/dOr9uQifsO4?si=XDG6-qGe51yMgVdU){:target="_blank"}  
-{% include video id="dOr9uQifsO4" provider="youtube" %}  
 
 * * *
 
