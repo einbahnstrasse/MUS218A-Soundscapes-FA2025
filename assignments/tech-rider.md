@@ -33,11 +33,18 @@ For this assignment, imagine a wildly ambitious piece or installation with lots 
 **Template from (draw.io / diagrams.net):**  
 [Technical Rider Template — Stage Plot + Audio Connections](https://drive.google.com/file/d/1p35znqW90VuIRySYYmTufySZc-CWsJ_2/view?usp=sharing){:target="_blank"}  
 
-_Click on the link above to open this file, make a **copy** to your own Bates Google Drive, and edit your copy according to the instructions below. You may have to authorize each time you use it. Click on `open with draw.io` at the top/center if you see the button._   
+When you first open this link, click on `open with draw.io` at the top/center if you see the button. You may need to **authorize** before you see this button, and it may require you to authorize each time you use the `draw.io` app.   
 
-## Why This Matters 
-By adopting this workflow, you will have a clear document that you can show to a venue that will clearly communicate your artistic and technical intentions to a new production staff, ensuring your piece or installation is reproducible each time.  
+### Make a Copy        
 
+To make a **copy** of this template and beginn editing it inside of your own Bates Google Drive, notice the File menu. Go to `File > Make a Copy...` and rename your copy:   
+
+  - `Lastname_Firstname_TechRider_v01.drawio` 
+
+Make sure it's an `XML` file (in the dropdown just to the right of your file name), and simply click on the Google Drive icon below. Your new file should be visible in your home folder on Google Drive, ready for editing. 
+
+Edit your copy according to the instructions below. 
+     
 ---
 
 ## Learning Objectives
@@ -47,6 +54,11 @@ By completing this assignment, students will be able to:
 3. **Organize** complex setups into a readable stage plot and signal-flow diagram.
 4. **Design** a rider that aligns technical choices with artistic intent (why this mic, this routing, or this spatial layout).
 5. **Justify** requirements and constraints (power, crew, rehearsal time, safety) in a concise, professional document.
+
+---
+
+## Why This Matters 
+By adopting this workflow, you will have a clear document that you can show to a venue that will clearly communicate your artistic and technical intentions to a new production staff, ensuring your piece or installation is reproducible each time.  
 
 ---
 
@@ -108,7 +120,6 @@ Your submission must include:
 - **Signal Flow Matrix (draw.io)**   
 - **Format & naming**:  
   - `Lastname_Firstname_TechRider_v01.pdf`   
-  - `Lastname_Firstname_TechRider_v01.drawio` 
 
 ---
 
