@@ -275,7 +275,7 @@ _For sending large files (project folders, sound, video, etc.)_
 
 ## Field Recording On Your Phone   
 
-_You can request a Zoom device or field recorder from the studio, but it is sometimes even more convenient to record high-quality audio on your phone using a free app! 2 apps are listed below._    
+_You can request a Zoom device or field recorder from the DMS, but it is sometimes even more convenient to record high-quality audio on your phone using a free app! 2 apps are listed below._    
 
 _The challenge with mobile recording apps that don't require a microphone is this: they use your phone's built-in microphone, which is usually a very ambient **omni-directional microphone**. It is therefore crucial that you **carefully point your phone towards the sound source you want to record** in order to minimize indirect and ambient sound when field recording._    
 
