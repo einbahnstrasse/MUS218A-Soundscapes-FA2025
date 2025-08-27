@@ -20,13 +20,7 @@ last_modified_at: 2025-08-25
 
 ---
 
-## Studio Calendar   
-
-If you are enrolled in MUS218A, you will receive access to the following calendar. Students can use this calendar to reserve time in the **Bates Sound Studio**, located in room 302 of the [Olin Arts Center.](https://www.bates.edu/music/about/olin-arts-center/){:target="_blank"}   
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&src=Y19jMDZlMmFjNzlkOGM1NmY1MmEzYmVkNWI4MmE5YjlhM2NlNDZiZGIyOGM2NjgzZThkOTAzMzRhMmYxNjBlZmFlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=YmF0ZXMuZWR1X2hxNTgwbGZ0aHA1N3U0Ym9sazA1b3NrZ2JzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19obGFjNzB1bDEwcjB1dnNtZzljZWQydnY2OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23f09300&color=%23a79b8e&color=%23ad1457&color=%230b8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-## Work Stations
+# Work Stations
 
 ## Full-Audio Support              
 
@@ -38,7 +32,7 @@ Work stations in the Bates Sound Studio equipped with full audio support are loc
 
 They look like this:    
 
-<img src="assets/images/studio.work.station.v01.png" alt="Our site." width="300">
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/studio.work.station.v01.png" alt="workstations">
 
 These stations with full audio support are best used for recording and mixing. If you do not need full support, please try to leave these stations open to those who may need them. Of course, if no one else is using them, reserve time at these stations and make ample use of access to a high quality audio system!    
 
@@ -51,7 +45,7 @@ As the photo shows, [download MOTU Audio Drivers](https://motu.com/en-us/downloa
 If you're unsure how to use these work stations, consult the following resources:    
 
 1. [Studio Help Docs](https://docs.google.com/document/d/1nyS0aFNc3QvlNtMQjBddnNZ-yPoDga3vsXR-17NYYYg/edit?usp=sharing){:target="_blank"}, and    
-2. [the MOTU 1248 Audio Interface Manual](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://s3.amazonaws.com/motu-www-data/manuals/avb/1248_8M_16A_Switch_User_Guide.pdf){:target="_blank"}. 
+2. [the MOTU 1248 Audio Interface Manual](/MUS218A-Soundscapes-FA2025/assets/docs/1248_8M_16A_Switch_User_Guide.pdf){:target="_blank"}. 
 
 If you're unable to resolve a problem that comes up, contact the instructor and studio assistant for additional questions.    
 
@@ -67,5 +61,24 @@ These are great stations for synthesis, spectral editing, Max patching, video, o
 
 If we are running short on space or if there are a lot of sign-outs at a time when you need a computer, you can also work on similar stations in the [Digital Media Studio iMac lab](https://www.bates.edu/digital-media/){:target="_blank"}. 
 
+--- 
 
+# Studio Calendars   
 
+If you are enrolled in MUS218A or other studio courses, you will receive access to the following calendars. Students can use these calendars to reserve time in the **Bates Sound Studio**, located in room 302 of the [Olin Arts Center.](https://www.bates.edu/music/about/olin-arts-center/){:target="_blank"}. 
+
+There are 3 possible spaces to work in: Studio A, Studio B, and the computers located in the mainspace (where classes are taught). Students may use any of the 3 following calendars to access the Bates Sound Studio for project work or to complete daily assignments.  
+
+Ensure that you are properly logged in to your Bates Google account. If you are in a personal Google account then you'll see an error. Permission to these calendars will not be extended to personal Google accounts. 
+
+## Mainspace Calendar 
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&title&src=Y19jMDZlMmFjNzlkOGM1NmY1MmEzYmVkNWI4MmE5YjlhM2NlNDZiZGIyOGM2NjgzZThkOTAzMzRhMmYxNjBlZmFlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23f09300" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+## Studio A Calendar   
+    
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&title&src=Y185NWI1ZjE5YmViNmQ4MGZiNDdjNjBjMWEyNzJlYTI3NjYwNzcxOWIyOWIzZGU4ODFhOGUxMjdmZDgyOTM4ZTliQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23f4511e" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+## Studio B Calendar      
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showCalendars=0&src=Y182MTUwNDMyNzg4MTE4NDg1NGUwY2UzNzEwOWFhZmVmMzE4MzAzMmViMmYyMTZlYzQxNDMwNDM4Y2U5YjU0ZTZkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
