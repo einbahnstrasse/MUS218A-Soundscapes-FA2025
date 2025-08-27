@@ -211,9 +211,17 @@ If you must be absent for any reason, regardless of whether that absence is excu
 
 ## 4. General Schedule of Topics   
 
+### 4.1 Disclaimer About Possible Changes   
+
 _Please note: Our schedule of topics and their precise order may change._  
-_See the [SCHEDULE TAB](/MUS218A-Soundscapes-FA2025/schedule/){:target="_blank"} for a precise weekly breakdown._  
-_For a detailed list of assignments, points, and deadlines, see the [GRADING TAB.](/MUS218A-Soundscapes-FA2025/grading/){:target="_blank"}_  
+
+This syllabus is intended to give the student guidance in what may be covered during the semester and will be followed as closely as possible. However, the instructor reserves the right to modify, supplement, and make changes as the course needs arise, especially in response to class pacing, technical needs, and other issues. 
+
+_See the [SCHEDULE page](/MUS218A-Soundscapes-FA2025/schedule/){:target="_blank"} for a precise weekly breakdown of topics and tasks. Changes will be updated there._  
+
+_For a detailed list of assignments, points, and deadlines, see the [GRADING page.](/MUS218A-Soundscapes-FA2025/grading/){:target="_blank"}_  
+
+### 4.2 Weekly Topics     
 
 <div class="schedulingtable">
 <table>
@@ -342,15 +350,22 @@ In educating students in the values, dispositions, and responsibilities of indep
 This policy statement outlines these principles and practices, roles and responsibilities.
 
 _Read more on Bates College Academic Integrity policies and procedures at the [Student Conduct & Community Standards website](https://www.bates.edu/student-conduct-community-standards/student-conduct/academic-integrity-policy/){:target="_blank"}._ 
-
-
+   
 #### 5.1.2 Use of Borrowed Code       
     
 Code borrowed from another source must be attributed as a comment within your own code. If you are unsure of whether or not your work may constitute plagiarism, please check with the instructor before submitting. Where applicable and where marked within our course materials, follow the provisions of the [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}    
 
-### 5.2 Generative AI Policy      
+### 5.2 Intellectual Property   
 
-Generative AI tools (i.e., such as large language models (LLMs) like ChatGPT and others) may be used **only when (and how) specified for specified course work, and otherwise are not permitted**. We will rarely, if at all, being using these tools in the study, creation, ideation, and audiation of sound and music within the context of this course. In other words, **unless otherwise noted, use of generative AI tools is explicitly prohibited**.   
+Materials in this course are the intellectual property of their creators. They are presented to you for the purpose of learning, engaging with your peers, completing assignments, etc. Each of us must respect the rights of others by only using course materials for their intended purposes associated with this course. For instance, you are not permitted to share, upload, stream, sell, republish, share the login information for, or otherwise disseminate any of the course materials, such as: video and audio files, assignment prompts, slides, notes, syllabus, simulations, datasets, discussion threads, code, audio files, mixing sessions, etc. Conversely, any materials created solely by you (for example, your videos, essays, images, audio files, annotations, notes) are your intellectual property and you may use them as you wish.   
+
+#### 5.2.1 Lectures and Recordings    
+
+In line with our Student Code of Conduct, the Dean of Faculty Office reminds all students that screen capturing or making audio/video recordings of synchronous or asynchronous meetings, lectures, discussions, course materials, or other classroom activities without the prior knowledge and consent of all parties is strictly prohibited. This applies to the use of tape or digital recorders, cell phones, smartphones, computers, and other devices capable of creating a screen capture or making audio/video recordings. Likewise, the editing, sharing, or use of recorded or digitally shared course content outside of their assigned or intended purpose is likewise prohibited. Students with disabilities who wish to record classroom activity must contact the Office of Accessible Education for information about appropriate protocols.  
+
+### 5.3 Generative AI Policy      
+
+Generative AI tools (i.e., such as large language models, or LLMs, like ChatGPT and others) may be used **only when (and how) specified for specified course work, and otherwise are not permitted**. We will rarely, if at all, being using these tools in the study, creation, ideation, and audiation of sound and music within the context of this course. In other words, **unless otherwise noted, use of generative AI tools is explicitly prohibited**.   
 
 Use of generative AI tools, only where explicitly permitted by the instructor, may be included for a particular assignment or exercise, for a particular course module, or for inquiry into a particular type of AI tool. As with any other academic resource used to create student work, any contribution of generative AI tools to student work must be clearly disclosed by the student and cited like any other resource. 
 
@@ -439,14 +454,40 @@ I understand the value of personal integrity and ethical behavior in all aspects
 </div>  
 _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB.](/MUS218A-Soundscapes-FA2025/grading/){:target="_blank"}_  
 
-## 7. Course Accommodations      
+## 7. Student Services    
 
-In order to receive academic accommodations students must contact [Accessible Education and Student Support](https://www.bates.edu/accessible-education-student-support/){:target="_blank"}.     
+### 7.1 IT Service Desk     
 
-### 7.1 Counseling & Psychological Services (CAPS)   
+The [IT Service Desk](https://bates.teamdynamix.com/TDClient/75/Portal/Home/?from=/helpdesk/){:target="_blank"} is the central location for all technology-related questions. If you are looking for an answer to a problem, check out their knowledge base. Here you will find answers to common questions or you can request assistance.
 
-Counseling & Psychological Services (CAPS) supports the educational, emotional and career development of Bates students by providing opportunities for skill development, counseling and referrals that address obstacles to success. For questions and appointments, more information can be found at [Counseling & Psychological Services (CAPS)](https://www.bates.edu/counseling-psychological-services/){:target="_blank"}.   
+### 7.2 Course Accommodations and Accessibility           
 
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to our course format, materials, or the requirements of this course, please meet with me during my office hours so we can explore potential options. Students with disabilities may also wish to work with the Office of Accessible Education to discuss a range of options to remove any barriers to learning, including official accommodations. Visit their website for contact and additional information: [https://www.bates.edu/accessible-education/](https://www.bates.edu/accessible-education/){:target="_blank"}. If you have already been approved for accommodations through the Office of Accessible Education, please meet with me so we can develop an implementation plan together. 
+
+### 7.3 Student Academic Support Center (SASC)   
+   
+[The Student Academic Support Center (SASC)](https://www.bates.edu/student-academic-support-center/){:target="_blank"} provides peer-led support for introductory and intermediate level courses in a variety of fields. SASC also provides a variety of workshops in quantitative skills, time management, note-taking, and study skills. SASC partners with the Student Writing & Language Center to provide public speaking and presentation support (PSPS). SASC is located in the Peer Learning Commons (PLC) on the Ground Floor of Ladd Library. Students are invited to stop by, without an appointment, to the drop-in hours in Ladd to meet with a tutor, study independently, meet up with classmates, or to discuss learning strategies. Students who wish to set up an individual appointment can discuss options with a Resource Representative at the PLC check-in desk. For more information go to [www.bates.edu/sasc](www.bates.edu/sasc){:target="_blank"}. Or, email <a href="mailto:sasc@bates.edu">sasc@bates.edu</a> to ask additional questions.   
+
+### 7.4 Counseling & Psychological Services (CAPS)   
+
+Available to all Bates students, CAPS provides comprehensive, confidential mental health care. Services provided include assessment and evaluation, counseling, and referrals to off-campus providers for specialized or intensive treatment. Students can schedule an appointment by calling or visiting the office. More information can be found at [Counseling & Psychological Services (CAPS)](https://www.bates.edu/counseling-psychological-services/){:target="_blank"}.   
+
+### 7.5 Health Services    
+
+Operating in conjunction with Central Maine Medical Center (CMMC), Health Services is a place where students requiring care but not hospitalization may be seen for medical concerns. Services provided include general medical care, onsite pharmacy services, and diagnostic testing. Students can schedule an appointment by calling or visiting the office (31 Campus Ave), which is open Monday through Friday from 9am to 5pm. More information can be found at [Health Services](https://www.bates.edu/health-services/){:target="_blank"}.   
+
+### 7.6 Office of Student Well-Being  
+
+[The Office of Student Well-Being](https://www.bates.edu/well-being/){:target="_blank"} hosts a list of resources for students to support themselves across nine dimensions of well-being. In addition, there are regular programs open to all students, with a goal of helping students define what well-being means for them, and take action and ownership of their well-being journey.
+
+### 7.7 Multifaith Chaplaincy
+
+The [Multifaith Chaplaincy](https://www.bates.edu/multifaith/){:target="_blank"} warmly and creatively serves the religious, spiritual, searching, and seeking community at Bates. In addition to weekly and annual offerings, students can access confidential pastoral care and conversation by scheduling an appointment with a Multifaith Chaplain.
+
+### 7.8 Student Center for Belonging and Community (SCBC)  
+
+The [SCBC](https://www.bates.edu/student-center-belonging-community/){:target="_blank"} is a multipurpose space that welcomes those who value or embody diversity and aspire to participate in an inclusive community. Students come to the SCBC to seek support from professional staff and build community among those with similar identities and experiences. Cultural affinity groups often gather and provide peer to peer programming and community. In addition, Bobcat First! serves as a resource for students who identify as first generation to college.
+    
 ## 8. Inclusivity    
 
 ### 8.1 Name and Pronoun Usage   
