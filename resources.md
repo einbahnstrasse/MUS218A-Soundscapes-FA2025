@@ -299,11 +299,11 @@ _Other phone apps are also available. Whichever app you choose, be sure to set t
 
 {% include video id="n6UVVpXc8Og" provider="youtube" %}  
 
-## YouTube Acousmatic Music Playlist   
+### YouTube Acousmatic Music Playlist   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=dGmT6dvsMcJbrF1u&amp;list=PLJiSOq8uc1_-jrDCDCAqAhAECYbwWrqr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Tutorials   
+## Tutorials   
 
 ### MaxMSP   
 
