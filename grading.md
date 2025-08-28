@@ -269,3 +269,102 @@ _For an overview of grading policies for this course, see [XI. General Grading R
 ### III. Altogether, thats...
 
 **`340 Total Points`** for the course as a whole. -->
+
+<div class="schedulingtable">
+<table>
+<colgroup>
+  <col width="5%" />
+  <col width="15%" />
+  <col width="5%" />
+  <col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+  <th>Week</th>
+  <th>Date</th>
+  <th>Points</th>
+  <th>Assignment</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td markdown="span">1</td>
+  <td markdown="span">{{ site.week-01 }}</td>
+  <td markdown="span">10</td>
+  <td markdown="span"><a href="/assignments/mic-technique/" target="_blank">Lab 1: Microphone Technique &amp; Voice Recording</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">3</td>
+  <td markdown="span">{{ site.week-03 }}</td>
+  <td markdown="span">10</td>
+  <td markdown="span"><a href="/assignments/auditory-vantage-point/" target="_blank">Auditory Vantage Point (Listening)</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">4</td>
+  <td markdown="span">{{ site.week-04 }}</td>
+  <td markdown="span">20</td>
+  <td markdown="span"><a href="/assignments/field-recording-micromontage/" target="_blank">Field Recording + Micro-Montage Etude</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">5</td>
+  <td markdown="span">{{ site.week-05 }}</td>
+  <td markdown="span">20</td>
+  <td markdown="span"><a href="/assignments/sampling-gamelan/" target="_blank">Sampling the Gamelan (Team Library)</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">6</td>
+  <td markdown="span">{{ site.week-06 }}</td>
+  <td markdown="span">20</td>
+  <td markdown="span"><a href="/assignments/mixing-automation-sends/" target="_blank">Mixing + Automation + Sends/FX (Stems)</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">7</td>
+  <td markdown="span">{{ site.week-07 }}</td>
+  <td markdown="span">5</td>
+  <td markdown="span"><a href="/xlr-cable-coiling/" target="_blank">XLR Cable Coiling</a></td>
+</tr>
+
+<tr>
+  <td markdown="span"></td>
+  <td markdown="span"></td>
+  <td markdown="span">30</td>
+  <td markdown="span"><a href="/assignments/midterm/" target="_blank">Midterm: 3-Minute Stereo Sketch</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">9</td>
+  <td markdown="span">{{ site.week-09 }}</td>
+  <td markdown="span">15</td>
+  <td markdown="span"><a href="/assignments/composite-timbre/" target="_blank">Composite Timbre Etude</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">10</td>
+  <td markdown="span">{{ site.week-10 }}</td>
+  <td markdown="span">15</td>
+  <td markdown="span"><a href="/assignments/technical-rider/" target="_blank">Technical Rider of Your Wildest Dreams</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">11</td>
+  <td markdown="span">{{ site.week-11 }}</td>
+  <td markdown="span">10</td>
+  <td markdown="span"><a href="/assignments/microtonality/" target="_blank">Microtonality Study (Optional)</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">13</td>
+  <td markdown="span">{{ site.week-13 }}</td>
+  <td markdown="span">60</td>
+  <td markdown="span"><a href="/assignments/final-multichannel-fixed-piece/" target="_blank">Final Multichannel Fixed Piece</a></td>
+</tr>
+
+</tbody>
+</table>
+</div>
