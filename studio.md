@@ -12,7 +12,7 @@ permalink: /studio/
 #   nav: "schedule-toc"   
 toc: true  
 toc_label: "Studio" # default: Content
-toc_icon: "bell"  # corr esponding Font Awesome icon name without the "fa" prefix
+toc_icon: "microphone"  # corr esponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc 
 read_time: true  
 date: 2025-08-25  
