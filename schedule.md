@@ -70,6 +70,10 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 * [What is a Microphone Polar Pattern?](https://youtu.be/dOr9uQifsO4?si=XDG6-qGe51yMgVdU){:target="_blank"}  
 {% include video id="dOr9uQifsO4" provider="youtube" %}  
 
+* [Split and Glue Audio Clips in Reaper](https://youtu.be/3u470I76KJo?si=gRgcN6XOP0z5rlX9){:target="_blank"}  
+
+{% include video id="3u470I76KJo" provider="youtube" %}  
+
 #### Listening   
 * [Hugh Le Caine, _Dripsody_ (1955)](https://youtu.be/zvHSvSBwFYM?si=5ZvFFPUpYwWrJ08L){:target="_blank"}  
 * [Joshua Banks Mailman‘s analysis of _Dripsody_](/MUS218A-Soundscapes-FA2025/assets/images/Mailman.Dripsody.Analysis.png){:target="_blank"}  
@@ -127,10 +131,6 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 * [Fades and Crossfades in Reaper](https://youtu.be/IEXu39uqsFs?si=KLmIuFQ8PBiGqHWn){:target="_blank"}  
 
 {% include video id="IEXu39uqsFs" provider="youtube" %}  
-
-* [Split and Glue Audio Clips in Reaper](https://youtu.be/3u470I76KJo?si=gRgcN6XOP0z5rlX9){:target="_blank"}  
-
-{% include video id="3u470I76KJo" provider="youtube" %}  
 
 * [Split and Glue Audio Clips in Ableton Live](https://youtu.be/CtopsAYunqs?si=peoKaauShtEOtrit){:target="_blank"}  
 

@@ -14,12 +14,12 @@ last_modified_at: 2025-08-27
 ---
 
 ## Deadline  
-**end of Week 2: {{ site.week-02 }}**  
+**start of Week 3: {{ site.week-03 }}**  
 
 ---
 
 ## Introduction  
-In this lab, you will create **2 simple recordings of your voice** in Reaper:  
+In this exercise, you will create **2 simple recordings of your voice** in Reaper:  
 1. One using your **built-in laptop or computer microphone** (can be recorded anywhere, but best if you record both in the studio for comparative purposes).  
 2. One using a **studio microphone** (i.e., **dynamic** or **condenser**) through our MOTU 1248 interfaces.  
 
@@ -40,7 +40,8 @@ By completing this assignment, students will be able to:
 ---
 
 ## Watch Before You Begin  
-Study these 2 short introductions to mic technique:  
+Study these 3 super short introductions to mic technique and clip splitting in Reaper:  
+
 - [A Quick Guide to Microphones (YouTube)](https://www.youtube.com/watch?v=PE6Qn4ZiEyo){:target="_blank"}  
 
 {% include video id="PE6Qn4ZiEyo" provider="youtube" %}  
@@ -49,6 +50,9 @@ Study these 2 short introductions to mic technique:
 
 {% include video id="dOr9uQifsO4" provider="youtube" %}  
 
+- [Split and Glue Audio Clips in Reaper](https://youtu.be/3u470I76KJo?si=gRgcN6XOP0z5rlX9){:target="_blank"}  
+
+{% include video id="3u470I76KJo" provider="youtube" %}  
 
 ---
 
@@ -92,9 +96,9 @@ _Protip: It makes for much better comparison to record both of these steps in th
 - In the studio, choose one microphone:  
   - **Condenser (AKG P420)** — phantom power ON (+48V).  
   - **Dynamic (Shure SM57 or Ultravoice XM8500)** — phantom power OFF.  
-- Start by ensuring that phantom power is OFF. _Microphones can be damaged by "hot-plugging" whiel phantom is on, so get in the habit of checking before making or breaking connections._   
+- Start by ensuring that phantom power is OFF. _Microphones can be damaged by "hot-plugging" while phantom is on, so get in the habit of checking before making or breaking connections._   
 - Now connect your mic with an XLR cable to the MOTU 1248. It doesn't matter which end you connect first. 
-- Power on your audio inteface if it isn't on yet. 
+- Power on your audio interface if it isn't on yet. 
 - If using a condensor mic, now is the time to enable phantom power.  
 - Return to your audio devices menu once again in Reaper preferences. With your audio interface turned on, you should be able to find it in the dropdown list. Select "MOTU 1248" or an equivalent interface for input/output. 
 - Create Track 2 in the same Reaper project. Name this track according to which mic you choose.   
