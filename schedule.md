@@ -110,17 +110,20 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 * [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}   
 * [Introduction to Digital Audio: What is Sound? (Slides 1-14) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 
+#### Downloads   
+* [Audio Files for Testing](https://github.com/einbahnstrasse/synth-tech-media){:target="_blank"}  
+
 #### Demonstrations   
 * Navigating Reaper: editing, gain staging, fades, crossfades, FX basics   
 
 #### Listening   
+* [Pierre Schaeffer, *Étude aux chemins de fer (Train Study)* (1948)](https://youtu.be/N9pOq8u6-bA?si=2aQ58bjY4Bz8GzDu){:target="_blank"}  
+
+{% include video id="N9pOq8u6-bA?si=2aQ58bjY4Bz8GzDu" provider="youtube" %}  
+
 * [Ligeti, *Articulation* (1958)](https://youtu.be/71hNl_skTZQ?si=czok95rD1imWezX9){:target="_blank"}  
 
 {% include video id="71hNl_skTZQ?si=czok95rD1imWezX9" provider="youtube" %}  
-
-* [Xenakis, *Concret PH* (1958)](https://youtu.be/S9zMaIhuMgo?si=T0V5lgxdrIZAdSAh){:target="_blank"}  
-
-{% include video id="S9zMaIhuMgo?si=T0V5lgxdrIZAdSAh" provider="youtube" %}  
 
 #### Deadlines    
 * [Auditory Vantage Point](/MUS218A-Soundscapes-FA2025/assignments/auditory-vantage-point/){:target="_blank"}   
@@ -142,19 +145,25 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
     
 ### Wednesday 9/10  
 
-#### Demonstrations   
-* Navigating Reaper: fades, crossfades, FX basics   
-
-### Friday 9/12  
-
-
-#### Downloads   
-* [Audio Files for Testing](https://github.com/einbahnstrasse/synth-tech-media){:target="_blank"}  
-  
 #### Tutorials and Slides  
-* [What Are Treatments?](/MUS218A-Soundscapes-FA2025/treatments/){:target="_blank"}  
 * [Introduction to Digital Audio: Analogue vs. Digital (Slides 15-27)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
-* [Introduction to MIDI: What is MIDI? (Slides 1-24)](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
+
+#### Listening     
+* [Xenakis, *Concret PH* (1958)](https://youtu.be/S9zMaIhuMgo?si=T0V5lgxdrIZAdSAh){:target="_blank"}  
+
+{% include video id="S9zMaIhuMgo?si=T0V5lgxdrIZAdSAh" provider="youtube" %}  
+
+* [Varèse, *Poème électronique* (1957-58)](https://youtu.be/JLDbBqHCslw?si=auxRIxj5ee4FNaCH){:target="_blank"}  
+
+{% include video id="JLDbBqHCslw?si=auxRIxj5ee4FNaCH" provider="youtube" %}  
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/philips.pavilion.speakers.jpg" alt="Philips Pavillion" width="400">  
+
+[Philips Pavilion, 1958](https://www.tu.berlin/en/ak/research/projects/virtual-electronic-poem-the-audio-reconstruction){:target="_blank"}. 
+
+#### Demonstrations   
+* [What Are Treatments?](/MUS218A-Soundscapes-FA2025/in-class/treatments/){:target="_blank"}  
+* Treatments in action      
 
 ##### Reaper Tutorial Videos  
 * [Fades and Crossfades in Reaper](https://youtu.be/IEXu39uqsFs?si=KLmIuFQ8PBiGqHWn){:target="_blank"}  
@@ -165,29 +174,58 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 {% include video id="CtopsAYunqs?si=peoKaauShtEOtrit" provider="youtube" %}  
    
+#### Terms, Concepts, Objects, Shortcuts    
+- `diffusion`   
+- `fade`     
+- `crossfade`     
+- `FX bus`   
+- `treatment`    
+- `digital audio workstation (DAW)`   
+- `split`, `cut`     
+- `glue`, `consolidate`  
+
+### Friday 9/12  
+
+#### Class Visit   
+* [Christopher Schiff, Music & Arts Librarian](https://libguides.bates.edu/Chris_Schiff){:target="_blank"} _(and composer, tape op, researcher, and more)_     
+
 * [John Cage, _Rozart Mix_ (1965, this realization from 1988)](https://youtu.be/AdpjnGrouKI?t=2859){:target="_blank"} _(This video should queue from 47:39 in the video.)_   
     
 {% include video id="AdpjnGrouKI?t=2859" provider="youtube" %}  
-   <!-- https://youtu.be/AdpjnGrouKI?t=2859 -->
+
+* [Alice Shields, _Study for Voice and Tape_ (1968)](https://youtu.be/0OO0X9cqug8?feature=shared){:target="_blank"}   
     
-* [_Sisters With Transisters_ (2021, dir. Lisa Rovner)](https://video-alexanderstreet-com.lprx.bates.edu/watch/sisters-with-transistors){:target="_blank"} _(Login with your Bates password to access this documentary film.)_   
+{% include video id="0OO0X9cqug8?feature=shared" provider="youtube" %}  
+
+#### Reading   
+* Shields, Alice. “Timbre, Envelope and Variation in Electroacoustic Music.” NewMusicBox, June 23, 2016. Accessed August 8, 2025. http://www.newmusicbox.org/articles/timbre-envelope-and-variation-in-electroacoustic-music  
+* Shields, Alice. “Structural and Playback Issues in Current Electroacoustic Music.” NewMusicBox, June 9, 2016. Accessed August 8, 2025. http://www.newmusicbox.org/articles/structural-and-playback-issues-in-current-electroacoustic-music/    
+   
+#### Terms, Concepts, Objects, Shortcuts    
+* `microstructure`   
+* `macrostructure`   
+* `structural clarity`    
+* `monotony` or `sameness`    
+* `envelope` or `ADSR envelope` (i.e., _attack, decay, sustain, release_)    
+* `timbral blurring`   
+
+<!-- * [_Sisters With Transisters_ (2021, dir. Lisa Rovner)](https://video-alexanderstreet-com.lprx.bates.edu/watch/sisters-with-transistors){:target="_blank"} _(Login with your Bates password to access this documentary film.)_    -->
    
 #### Assignments  
-* <span style="color: red;"><em>Install VCV Rack before Week 3! (See Software + Resource page.)</em></span>  
+* _Reminder: Finish Microphone assignments by Monday!_   
 
-#### Terms, Concepts, Objects, Shortcuts    
-- digital audio workstation (DAW)   
-- fade  
-- crossfade  
-- split, cut     
-- glue, consolidate  
-- treatments        
+<!-- * <span style="color: red;"><em>Install VCV Rack before Week 3! (See Software + Resource page.)</em></span>   -->      
    
 * * *  
 
 ## Week 3: {{ site.week-03 }}  
 ### <span style="color: #fc3a52;">{{ site.week-03-topic }}</span>    
+
 ### Monday   
+
+#### Tutorials  
+* [Introduction to MIDI: What is MIDI? (Slides 1-24)](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
+
 ### Wednesday   
 ### Friday   
 
