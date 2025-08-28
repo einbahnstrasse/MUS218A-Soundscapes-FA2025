@@ -8,10 +8,10 @@ title: Grading
 lang: en   
 ref: grade  
 permalink: /grading/   
-toc: true  
-toc_label: "Grading Contents" # default: Content
-toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
-toc_sticky: true   # enables sticky toc  
+# toc: true  
+# toc_label: "Grading Contents" # default: Content
+# toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
+# toc_sticky: true   # enables sticky toc  
 read_time: true  
 date: 2025-08-25   
 last_modified_at: 2025-08-25  
@@ -280,8 +280,8 @@ _For an overview of grading policies for this course, see [XI. General Grading R
 </colgroup>
 <thead>
 <tr class="header">
-  <th>Week</th>
-  <th>Date</th>
+  <th>Set</th>
+  <th>Due</th>
   <th>Points</th>
   <th>Assignment</th>
 </tr>
@@ -289,17 +289,17 @@ _For an overview of grading policies for this course, see [XI. General Grading R
 <tbody>
 
 <tr>
-  <td markdown="span">1</td>
-  <td markdown="span">{{ site.week-01 }}</td>
+  <td markdown="span">9/3</td>
+  <td markdown="span">9/8</td>
   <td markdown="span">10</td>
-  <td markdown="span"><a href="/assignments/mic-technique/" target="_blank">Lab 1: Microphone Technique &amp; Voice Recording</a></td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/auditory-vantage-point/" target="_blank">Auditory Vantage Point</a></td>
 </tr>
 
 <tr>
-  <td markdown="span">3</td>
-  <td markdown="span">{{ site.week-03 }}</td>
+  <td markdown="span">9/5</td>
+  <td markdown="span">9/15</td>
   <td markdown="span">10</td>
-  <td markdown="span"><a href="/assignments/auditory-vantage-point/" target="_blank">Auditory Vantage Point (Listening)</a></td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/mic-technique/" target="_blank">Microphone Technique &amp; Voice Recording</a></td>
 </tr>
 
 <tr>
