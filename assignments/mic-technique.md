@@ -119,7 +119,7 @@ _Protip: It makes for much better comparison to record both of these steps in th
 
 ## Evaluation Criteria  
 - **Completeness (20%)** — Both built-in mic and studio mic recordings included; minimum 3–4 prompts performed. There is no requirement on length here, but I would aim for a 1-3 minute recording. You shouldn't need more time and it doesn't need to be long.  
-- **Signal Flow & Gain (20%)** — Proper connection and gain staging; no clipping or misrouted signals.  
+- **Signal Flow & Gain (20%)** — Proper connection and gain staging; no clipping (except where yo might have been experimenting with clipping in the prompts) or misrouted signals.  
 - **Technique (20%)** — Demonstrates awareness of mic distance, axis, and handling of plosives.  
 - **Editing (20%)** — Basic edits (trims, fades, splits) applied cleanly in Reaper.  
 - **Listening & Creativity (20%)** — Prompts show variation; recordings reflect attention to sonic differences and creative expression.  
