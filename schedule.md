@@ -90,7 +90,10 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 - `condensor mic`    
 - `dynamic mic`    
 - `audio interface`   
-- `clipping distortion`    
+- `clipping distortion`  
+- `proximity effect`  
+- `plosives`  
+- `sibilance`  
   
 * * *  
 
