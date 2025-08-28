@@ -198,8 +198,8 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 {% include video id="0OO0X9cqug8?feature=shared" provider="youtube" %}  
 
 #### Reading   
-* Shields, Alice. “Timbre, Envelope and Variation in Electroacoustic Music.” NewMusicBox, June 23, 2016. Accessed August 8, 2025. http://www.newmusicbox.org/articles/timbre-envelope-and-variation-in-electroacoustic-music  
-* Shields, Alice. “Structural and Playback Issues in Current Electroacoustic Music.” NewMusicBox, June 9, 2016. Accessed August 8, 2025. http://www.newmusicbox.org/articles/structural-and-playback-issues-in-current-electroacoustic-music/    
+* Shields, Alice. “Timbre, Envelope and Variation in Electroacoustic Music.” _NewMusicBox_, June 23, 2016. Accessed August 8, 2025. [http://www.newmusicbox.org/articles/timbre-envelope-and-variation-in-electroacoustic-music](http://www.newmusicbox.org/articles/timbre-envelope-and-variation-in-electroacoustic-music){:target="_blank"}   
+* Shields, Alice. “Structural and Playback Issues in Current Electroacoustic Music.” _NewMusicBox_, June 9, 2016. Accessed August 8, 2025. [http://www.newmusicbox.org/articles/structural-and-playback-issues-in-current-electroacoustic-music/](http://www.newmusicbox.org/articles/structural-and-playback-issues-in-current-electroacoustic-music/){:target="_blank"}     
    
 #### Terms, Concepts, Objects, Shortcuts    
 * `microstructure`   
