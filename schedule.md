@@ -159,7 +159,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 <img src="/MUS218A-Soundscapes-FA2025/assets/images/philips.pavilion.speakers.jpg" alt="Philips Pavillion" width="600">  
 
-[Philips Pavilion, 1958](https://www.tu.berlin/en/ak/research/projects/virtual-electronic-poem-the-audio-reconstruction){:target="_blank"}. 
+[Philips Pavilion (1958)](https://www.tu.berlin/en/ak/research/projects/virtual-electronic-poem-the-audio-reconstruction){:target="_blank"}, _showing the approximate locations of 350 loudspeakers hidden in the walls for diffusion_.   
 
 #### Demonstrations   
 * [What Are Treatments?](/MUS218A-Soundscapes-FA2025/in-class/treatments/){:target="_blank"}  
