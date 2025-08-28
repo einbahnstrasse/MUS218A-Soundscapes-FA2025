@@ -75,7 +75,7 @@ Study these 3 super short introductions to mic technique and clip splitting in R
 - Or if you don't see any metering, set input to your computer’s built-in mic: go to `Reaper > Preferences... > Audio > Device` and ensure the it reads `<default system device>` in the dropdown menu. Also, check your computer's audio settings to be sure that, by default, your mic is connected as an input source.  
 - Once you've got a signal metering in the session, record a short passage of your voice (see prompts below)...  
 
-#### Voice Prompts (Pick 3–4 of these minimum)  
+#### Voice Prompts (Pick 3–4 of these)  
 Choose from the following list to record in both takes (built-in and studio mic):  
 - **Radio DJ ID** — e.g., “You are listening to WRBC, 91.5 FM, Bates College Radio, Lewiston, Maine...”  
 - **Name + Mic ID** — say your name and the mic you’re using (“This is Taylor Swift on the AKG P420”).  
