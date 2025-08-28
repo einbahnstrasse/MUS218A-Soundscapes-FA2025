@@ -48,7 +48,8 @@ _This page will be updated frequently with examples, video tutorials, links to n
 Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9){:target="_blank"}   
 
 #### Start-of-Semester Business  
-* Review [Syllabus + Course Policies](/MUS218A-Soundscapes-FA2025/){:target="_blank"}  
+* Review [Syllabus + Course Policies](/MUS218A-Soundscapes-FA2025/){:target="_blank"} 
+* Review [Software + Resources](/MUS218A-Soundscapes-FA2025/resources/){:target="_blank"}  
     
 #### Cage Discussion   
 [_You Mean It's Just Sounds?!_](/MUS218A-Soundscapes-FA2025/in-class/cage-just-sounds/){:target="_blank"}   
@@ -60,8 +61,11 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 ### Friday 9/5  
 
 #### Start-of-Semester Business  
-* Review [Software + Resources](/MUS218A-Soundscapes-FA2025/resources/){:target="_blank"}  
-* Review [Detailed Breakdown of Grading](/MUS218A-Soundscapes-FA2025/grading/){:target="_blank"}  
+* Revew [Studio Policies](/MUS218A-Soundscapes-FA2025/studio/){:target="_blank"}   
+* Review [Detailed Breakdown of Grading](/MUS218A-Soundscapes-FA2025/grading/){:target="_blank"}   
+
+#### Demonstrations     
+* Introduction to Reaper    
 
 #### Video Tutorials  
 * [A Quick Guide to Microphones](https://youtu.be/PE6Qn4ZiEyo?si=r3j0GYwarIWruiht){:target="_blank"}  
@@ -106,20 +110,42 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 * [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}   
 * [Introduction to Digital Audio: What is Sound? (Slides 1-14) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 
-#### Terms, Concepts, Objects, Shortcuts    
-- oscillation  
-- mass-spring system   
-- simple harmonic motion   
-- frequency   
-- amplitude   
-- harmonics   
-- sine wave    
-- triangle wave    
-- sawtooth wave   
-- square wave  
+#### Demonstrations   
+* Navigating Reaper: editing, gain staging, fades, crossfades, FX basics   
 
-### Wednesday   
-### Friday   
+#### Listening   
+* [Ligeti, *Articulation* (1958)](https://youtu.be/71hNl_skTZQ?si=czok95rD1imWezX9){:target="_blank"}  
+
+{% include video id="71hNl_skTZQ?si=czok95rD1imWezX9" provider="youtube" %}  
+
+* [Xenakis, *Concret PH* (1958)](https://youtu.be/S9zMaIhuMgo?si=T0V5lgxdrIZAdSAh){:target="_blank"}  
+
+{% include video id="S9zMaIhuMgo?si=T0V5lgxdrIZAdSAh" provider="youtube" %}  
+
+#### Deadlines    
+* [Auditory Vantage Point](/MUS218A-Soundscapes-FA2025/assignments/auditory-vantage-point/){:target="_blank"}   
+
+#### Terms, Concepts, Objects, Shortcuts    
+- `frequency`  
+- `pitch` 
+- `amplitude`   
+- `period`  
+- `harmonics`  
+- `fundamental`     
+- `sine wave`    
+- `triangle wave`    
+- `sawtooth wave`   
+- `square wave`   
+- `oscillation`  
+- `mass-spring system`   
+- `simple harmonic motion`  
+    
+### Wednesday 9/10  
+
+#### Demonstrations   
+* Navigating Reaper: fades, crossfades, FX basics   
+
+### Friday 9/12  
 
 
 #### Downloads   
