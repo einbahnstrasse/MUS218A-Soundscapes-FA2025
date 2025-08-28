@@ -298,8 +298,15 @@ _For an overview of grading policies for this course, see [XI. General Grading R
 <tr>
   <td markdown="span">9/5</td>
   <td markdown="span">9/15</td>
-  <td markdown="span">10</td>
-  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/mic-technique/" target="_blank">Microphone Technique &amp; Voice Recording</a></td>
+  <td markdown="span">20</td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/mic-technique/" target="_blank">Microphone Technique + Voice Recording</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">7</td>
+  <td markdown="span">{{ site.week-07 }}</td>
+  <td markdown="span">5</td>
+  <td markdown="span"><a href="/xlr-cable-coiling/" target="_blank">XLR Cable Coiling</a></td>
 </tr>
 
 <tr>
@@ -313,7 +320,7 @@ _For an overview of grading policies for this course, see [XI. General Grading R
   <td markdown="span">5</td>
   <td markdown="span">{{ site.week-05 }}</td>
   <td markdown="span">20</td>
-  <td markdown="span"><a href="/assignments/sampling-gamelan/" target="_blank">Sampling the Gamelan (Team Library)</a></td>
+  <td markdown="span"><a href="/assignments/sampling-gamelan/" target="_blank">Sampling the Gamelan</a></td>
 </tr>
 
 <tr>
@@ -323,12 +330,7 @@ _For an overview of grading policies for this course, see [XI. General Grading R
   <td markdown="span"><a href="/assignments/mixing-automation-sends/" target="_blank">Mixing + Automation + Sends/FX (Stems)</a></td>
 </tr>
 
-<tr>
-  <td markdown="span">7</td>
-  <td markdown="span">{{ site.week-07 }}</td>
-  <td markdown="span">5</td>
-  <td markdown="span"><a href="/xlr-cable-coiling/" target="_blank">XLR Cable Coiling</a></td>
-</tr>
+
 
 <tr>
   <td markdown="span"></td>
