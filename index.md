@@ -547,6 +547,6 @@ Access to Bates Sound Studio faciities and its equpiment may be revoked at any t
 Studio equipment returned in worse condition that when issued, or in which is it returned in non-functional condition, or equipment that has been lost, will be subject to close scrutiny and will result in revocation of borrowing privileges and studio access, with the possibity of additional reporting to the Music Department and [Office of 
 Student Conduct and Community Standards](https://www.bates.edu/student-conduct-community-standards/){:target="_blank"}.  
 
-# Library Course Reserves   
+## Library Course Reserves   
 
 A list of titles has been placed on hold in Ladd Library for you. These supplementary texts on topics reelvant to our course can be found on reserve. [_Find the list of course reserves here._](/MUS218A-Soundscapes-FA2025/in-class/course-reserves/){:target="_blank"}.
