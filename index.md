@@ -536,7 +536,7 @@ For non-enrolled students interested in working with digital media, and when our
 
 The [DMS Loaner Pool](https://batesdms.getconnect2.com/){:target="_blank"} has **Home Recording Kits** that students can check out to do their own recording, including portable field recorders and recording devices, as well as several USB microphones. Ladd Library also has a Composition Room. 
 
-## 9.3 Studio Protocol    
+### 9.3 Studio Protocol    
 
 In professional studio environments, a studio protocol is a set of community guidelines respected by all members to ensure an equitable, safe, clean, productive, and efficient working space for all users. [In the Bates Sound Studio we must all respect our **community protocol guidelines**, which you can find here, on our Studio page](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/studio/#studio-protocol){:target="_blank"}.    
 
@@ -547,6 +547,6 @@ Access to Bates Sound Studio faciities and its equpiment may be revoked at any t
 Studio equipment returned in worse condition that when issued, or in which is it returned in non-functional condition, or equipment that has been lost, will be subject to close scrutiny and will result in revocation of borrowing privileges and studio access, with the possibity of additional reporting to the Music Department and [Office of 
 Student Conduct and Community Standards](https://www.bates.edu/student-conduct-community-standards/){:target="_blank"}.  
 
-## Library Course Reserves   
+## 10. Library Course Reserves   
 
 A list of titles has been placed on hold in Ladd Library for you. These supplementary texts on topics reelvant to our course can be found on reserve. [_Find the list of course reserves here._](/MUS218A-Soundscapes-FA2025/in-class/course-reserves/){:target="_blank"}.
