@@ -168,7 +168,8 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 #### Demonstrations   
 * [What Are Treatments?](/MUS218A-Soundscapes-FA2025/in-class/treatments/){:target="_blank"}  
-* Treatments in action      
+* Treatments in action     
+* Acousmatic Listening principles    
 
 ##### Reaper Tutorial Videos  
 * [Fades and Crossfades in Reaper](https://youtu.be/IEXu39uqsFs?si=KLmIuFQ8PBiGqHWn){:target="_blank"}  
@@ -180,6 +181,9 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 {% include video id="CtopsAYunqs?si=peoKaauShtEOtrit" provider="youtube" %}  
    
 #### Terms, Concepts, Objects, Shortcuts    
+- `musique concrète` and `acousmatic`     
+- `sound object`   
+- `reduced listening`    
 - `diffusion`   
 - `fade`     
 - `crossfade`     
@@ -350,7 +354,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 
 #### Assignments   
-* [XLR Cable Coiling (due at the start of Week 5)](/MUS218A-Soundscapes-FA2025/xlr-cable-coiling/){:target="_blank"} 
+* [XLR Cable Coiling (due at the start of Week 5)](/MUS218A-Soundscapes-FA2025/assignments/xlr-cable-coiling/){:target="_blank"} 
 
 ### Wednesday 9/24  
 
@@ -382,10 +386,10 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 ### Monday 9/29  
 
 #### Deadlines    
-* [XLR Cable Coiling](/MUS218A-Soundscapes-FA2025/xlr-cable-coiling/){:target="_blank"} 
+* [XLR Cable Coiling](/MUS218A-Soundscapes-FA2025/assignments/xlr-cable-coiling/){:target="_blank"} 
 
 #### Assignments   
-* [Field Recording + Micro-Montage Etude (due at the start of Week 6)](#){:target="_blank"} 
+* [Field Recording + Micromontage Etude (due at the start of Week 7)](/MUS218A-Soundscapes-FA2025/assignments/micromontage-field-recording-etude/){:target="_blank"} 
 
 ### Wednesday 10/1   
 
@@ -401,9 +405,6 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 ### Monday 10/6    
 
-#### Deadlines   
-* [Field Recording + Micro-Montage Etude](#){:target="_blank"} 
-
 ### Wednesday 10/8    
 
 ### Friday 10/10    
@@ -417,14 +418,23 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 ## Week 7: {{ site.week-07 }}  
 ### <span style="color: #fc3a52;">{{ site.week-07-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
 
-#### Warmup Quiz    
-* [Quiz on Slide Content Covered Through Week 7 _(in English and German; distributed at the beginning of class)_](https://forms.gle/DyD2ySciRGJiCqZ77){:target="_blank"}  
+### Monday 10/13    
+
+#### Deadlines   
+* [Field Recording + Micromontage Etude](/MUS218A-Soundscapes-FA2025/assignments/micromontage-field-recording-etude/){:target="_blank"} 
+
+#### Assignments    
+* [Midterm 3-Minute Sketch (due at the start of Week 9)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
+
+### Wednesday 10/15   
+
+### Friday 10/17   
+
+<!-- #### Warmup Quiz    
+* [Quiz on Slide Content Covered Through Week 7 _(in English and German; distributed at the beginning of class)_](https://forms.gle/DyD2ySciRGJiCqZ77){:target="_blank"}   -->
   
-#### Tutorials  
+<!-- #### Tutorials  
 * Introduction to SPEAR   
 {% include video id="123cSokYIDo" provider="youtube" %}  
 
@@ -432,7 +442,8 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 {% include video id="ds0cmAV-Yek?si=WDfRKnsOxzmv4k_P" provider="youtube" %}  
 
 * [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-91) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
-* [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
+* [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}   -->
+
 <!-- * [Microphone, Speakfer, and Cable Types](#){:target="_blank"}   -->  
 
 * Sampling Theorem and the Nyquist Frequency   
@@ -451,9 +462,15 @@ _Choose auto-generated German translations of subtitles if it would help:_
 
 ## Week 8: {{ site.week-08 }}  
 ### <span style="color: #fc3a52;">{{ site.week-08-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
+
+### Monday 10/20     
+
+### Wednesday 10/22    
+
+### Friday 10/24   
+
+#### Assignments    
+* [Composite Timbre Etude (due at the start of Week 10)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}  
    
 #### Tutorials  
 * Fundamentals of musique concrete   
@@ -467,10 +484,16 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 * * *
 
 ## Week 9: {{ site.week-09 }}  
-### <span style="color: #fc3a52;">{{ site.week-09-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
+### <span style="color: #fc3a52;">{{ site.week-09-topic }}</span>   
+
+### Monday 10/27  
+
+#### Deadlines    
+* [Midterm 3-Minute Sketch](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
+
+### Wednesday 10/29    
+
+### Friday 10/31   
 
 _Class will be held in the **Spatial Audio Lab** of the Digital Learning Campus, in the old Karstadt building, located at Königstraße 54 in the_ [**Übergangshaus**](http://xn--bergangshaus-clb.de/){:target="_blank"}. _Click on the map below for directions. Take the escalator to the 2nd floor and find the Spatial Audio Lab._   
   

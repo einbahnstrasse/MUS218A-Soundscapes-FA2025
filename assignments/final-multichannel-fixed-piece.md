@@ -21,7 +21,7 @@ last_modified_at: 2025-08-25
 ## Deadline  
 **November 22, 2025**  
 
-_Note: You are given the maximum amount of time to finish your piece before our December 2, 2025 concert, with the careful consideration of university policies preventing major deadlines during the week after Thanksgiving. Late submissions will result in a fail._  
+_Note: There are no late extensions offered here. You are given the maximum amount of available time to finish your piece before our December 2, 2025 concert, respecting university policies that prevent major deadlines during the week after Thanksgiving. Late submissions will result in a fail._  
 
 ---
 
@@ -32,7 +32,7 @@ You may choose to:
 - Expand upon your **midterm sketch**, which then serves as a miniature version of your final piece, or any original musical material from your previous assignments in this class, or  
 - Create an **entirely new piece** drawing on the skills and materials you’ve accumulated this semester.  
     
-This project can represent the culmination of your work in field recording, mixing, micro-montage, timbral design, synthesis, automation, spatialization, and compositional development.  
+This project can represent the culmination of your work in field recording, mixing, micromontage, timbral design, synthesis, automation, spatialization, and compositional development.  
 
 ---
 

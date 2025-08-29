@@ -313,21 +313,28 @@ _For an overview of grading policies for this course, see [XI. General Grading R
   <td markdown="span">9/22</td>
   <td markdown="span">9/29</td>
   <td markdown="span">10</td>
-  <td markdown="span"><a href="/assignments/xlr-cable-coiling/" target="_blank">XLR Cable Coiling</a></td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/xlr-cable-coiling/" target="_blank">XLR Cable Coiling</a></td>
 </tr>
 
 <tr>
   <td markdown="span">9/29</td>
-  <td markdown="span">10/6</td>
+  <td markdown="span">10/13</td>
   <td markdown="span">20</td>
-  <td markdown="span"><a href="/assignments/#/" target="_blank">Field Recording + Micro-Montage Etude</a></td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/micromontage-field-recording-etude/" target="_blank">Field Recording + Micromontage Etude</a></td>
 </tr>
 
 <tr>
-  <td markdown="span">5</td>
-  <td markdown="span">{{ site.week-05 }}</td>
+  <td markdown="span">10/13</td>
+  <td markdown="span">10/27</td>
+  <td markdown="span">30</td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/midterm/" target="_blank">Midterm: 3-Minute Stereo Sketch</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">10/24</td>
+  <td markdown="span">11/3</td>
   <td markdown="span">20</td>
-  <td markdown="span"><a href="/assignments/sampling-gamelan/" target="_blank">Sampling the Gamelan</a></td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/composite-timbre-etude/" target="_blank">Composite Timbre Etude</a></td>
 </tr>
 
 
@@ -344,19 +351,9 @@ _For an overview of grading policies for this course, see [XI. General Grading R
 
 
 
-<tr>
-  <td markdown="span"></td>
-  <td markdown="span"></td>
-  <td markdown="span">30</td>
-  <td markdown="span"><a href="/assignments/midterm/" target="_blank">Midterm: 3-Minute Stereo Sketch</a></td>
-</tr>
 
-<tr>
-  <td markdown="span">9</td>
-  <td markdown="span">{{ site.week-09 }}</td>
-  <td markdown="span">15</td>
-  <td markdown="span"><a href="/assignments/composite-timbre/" target="_blank">Composite Timbre Etude</a></td>
-</tr>
+
+
 
 <tr>
   <td markdown="span">10</td>

@@ -46,7 +46,7 @@ _Note that we will not be having class during the day of the deadline._   -->
 # Midterm: 3-Minute Stereo Sketch  
 
 ## Deadline  
-**Week 7: {{ site.week-07 }}**  
+**Due at the start of Week 9: {{ site.week-09 }}**  
 
 ---
 
@@ -58,7 +58,7 @@ You may treat this as:
 - An **independent study** in sound that diverges from your final project, or  
 - A **testing ground** for ideas you may or may not carry forward.  
 
-This is a chance to explore particular sound material that really interest you, experiment with your field recordings, software synthesizers and samplers, and demonstrate your developing skills in mixing and automation.  
+This is a chance to explore particular sound material that really interest you, experiment with your **field recordings**, **software plugins and/or synthesizers** and **samplers**, borrow any approaches or concepts you may have found useful from our work in **micromontage**, **modular synthesis**, or **frequency domain resynthesis**, and demonstrate your developing skills in **mixing** and **automation**.  
 
 ---
 
