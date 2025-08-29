@@ -36,7 +36,13 @@ last_modified_at: 2025-08-25
 <!-- <img src="/Goldford-MTEC1003/assets/organized.gif" alt="organized" width="400" align="right"> -->
 
 <!-- # Schedule -->
-_This page will be updated frequently with examples, video tutorials, links to new resources, and occasional updates to LAB ASSIGNMENTS. Our schedule follows the [Current MHL Academic Calendar]({{ site.Bates-calendar }}){:target="_blank"}. The following topics and their precise order may change. Check here for updates!_  
+_This page will be updated frequently with examples, video tutorials, links to new resources, and occasional updates to LAB ASSIGNMENTS. Our schedule follows the [Current Bates Academic Calendar]({{ site.Bates-calendar }}){:target="_blank"}. **The following topics and their precise order may change**. Check frequently for updates!_  
+
+## Calendar of Deadlines    
+
+_Subscribe to our class Google calendar to see our upcoming deadlines. Daily schedule of events, tutorials, topics, terms, listening, guests, and other relevant information follows._ 
+
+<iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=1&ctz=America%2FNew_York&showPrint=0&src=Y18wODY5Yzg3NmU1Y2I5MDBlZWUyNjA5NzIxYjJhZTI3ODA2NWYxMTBkN2E4ZjgwMzdjZGZmMjUzYjkxZjFjZDg4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%238e24aa" style="border:solid 1px #777" width="650" height="500" frameborder="0" scrolling="no"></iframe>
 
 * * *   
 
@@ -249,7 +255,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 * Check-out recording kits to each team 
 
 #### Assignments    
-* [Sampling the Gamelan (due at the start of Week 4)](/MUS218A-Soundscapes-FA2025/assigments/sampling-gamlean/){:target="_blank"}   
+* [Sampling the Gamelan (due at the start of Week 4)](/MUS218A-Soundscapes-FA2025/assignments/sampling-gamelan/){:target="_blank"}   
 
 #### Terms, Concepts, Objects, Shortcuts    
 * `audio sample`   
@@ -289,6 +295,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 ### Friday 9/19  
 
+#### Tutorials  
 * [Introduction to MIDI: The MIDI Technical Standard (Slides 33-48) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
 #### Tutorial Videos    
@@ -353,7 +360,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 ### Monday 9/22   
 
 #### Deadlines    
-* [Sampling the Gamelan](/MUS218A-Soundscapes-FA2025/assigments/sampling-gamlean/){:target="_blank"}   
+* [Sampling the Gamelan](/MUS218A-Soundscapes-FA2025/assignments/sampling-gamelan/){:target="_blank"}   
 
 #### Tutorials  
 * [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  

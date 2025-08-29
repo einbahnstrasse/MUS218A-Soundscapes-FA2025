@@ -339,7 +339,7 @@ _For an overview of grading policies for this course, see [XI. General Grading R
 
 <tr>
   <td markdown="span">10/27</td>
-  <td markdown="span">11/22</td>
+  <td markdown="span">11/21</td>
   <td markdown="span">60</td>
   <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/assignments/final-multichannel-fixed-piece/" target="_blank">Final Multichannel Fixed Piece</a></td>
 </tr>

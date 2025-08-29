@@ -43,8 +43,6 @@ By the deadline, send me a soundfile and your Reaper project folder (by email, W
 
 _Note that we will not be having class during the day of the deadline._   -->
 
-# Midterm: 3-Minute Stereo Sketch  
-
 ## Deadline  
 **Due at the start of Week 9: {{ site.week-09 }}**  
 
