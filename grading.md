@@ -337,7 +337,12 @@ _For an overview of grading policies for this course, see [XI. General Grading R
   <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/composite-timbre-etude/" target="_blank">Composite Timbre Etude</a></td>
 </tr>
 
-
+<tr>
+  <td markdown="span">10/27</td>
+  <td markdown="span">11/22</td>
+  <td markdown="span">60</td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/assignments/final-multichannel-fixed-piece/" target="_blank">Final Multichannel Fixed Piece</a></td>
+</tr>
 
 
 
@@ -369,12 +374,7 @@ _For an overview of grading policies for this course, see [XI. General Grading R
   <td markdown="span"><a href="/assignments/microtonality/" target="_blank">Microtonality Study (Optional)</a></td>
 </tr>
 
-<tr>
-  <td markdown="span">13</td>
-  <td markdown="span">{{ site.week-13 }}</td>
-  <td markdown="span">60</td>
-  <td markdown="span"><a href="/assignments/final-multichannel-fixed-piece/" target="_blank">Final Multichannel Fixed Piece</a></td>
-</tr>
+
 
 </tbody>
 </table>

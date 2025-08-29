@@ -19,7 +19,7 @@ last_modified_at: 2025-08-25
 ---
 
 ## Deadline  
-**November 22, 2025**  
+**November 21, 2025**  
 
 _Note: There are no late extensions offered here. You are given the maximum amount of available time to finish your piece before our December 2, 2025 concert, respecting university policies that prevent major deadlines during the week after Thanksgiving. Late submissions will result in a fail._  
 

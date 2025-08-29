@@ -439,10 +439,12 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * [Midterm 3-Minute Sketch (due at the start of Week 9)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
 
 ### Wednesday 10/15  
-_Fall Recess: No class!_     
+_Fall Recess: No class!_   
+_Reminder: Your next assignment is due on Monday, October 27!_   
 
 ### Friday 10/17   
-_Fall Recess: No class!_     
+_Fall Recess: No class!_    
+_Reminder: Your next assignment is due on Monday, October 27!_   
 
 <!-- #### Warmup Quiz    
 * [Quiz on Slide Content Covered Through Week 7 _(in English and German; distributed at the beginning of class)_](https://forms.gle/DyD2ySciRGJiCqZ77){:target="_blank"}   -->
@@ -469,7 +471,6 @@ _Choose auto-generated German translations of subtitles if it would help:_
 
 #### Assignments  
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span> 
-* Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MUS218A-Soundscapes-FA2025/final-multichannel-fixed-piece/){:target="_blank"}.  
   
 ###    
 
@@ -508,6 +509,9 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 #### Deadlines    
 * [Midterm 3-Minute Sketch](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
 
+#### Assignments     
+* [Final Multichannel Fixed Media Piece (due November 21)](/MUS218A-Soundscapes-FA2025/final-multichannel-fixed-piece/){:target="_blank"}  
+
 ### Wednesday 10/29    
 
 ### Friday 10/31   
@@ -537,10 +541,16 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * * *  
 
 ## Week 10: {{ site.week-10 }}  
-### <span style="color: #fc3a52;">{{ site.week-10-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
+### <span style="color: #fc3a52;">{{ site.week-10-topic }}</span>   
+
+### Monday 11/3    
+
+#### Deadlines    
+* [Composite Timbre Etude](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}  
+
+### Wednesday 11/5  
+
+### Friday 11/7   
 
 #### Tutorials   
 * ['Mixing Secrets' Multitrack Library](https://cambridge-mt.com/ms/mtk-newbies/#EntryLevel){:target="_blank"}  
@@ -560,9 +570,12 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 11: {{ site.week-11 }}  
 ### <span style="color: #fc3a52;">{{ site.week-11-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
+
+### Monday 11/10   
+
+### Wednesday 11/12   
+
+### Friday 11/14   
 
 #### Tutorials  
 * Introduction to Max (33 minutes) _(make the patches as demonstrated in the video tutorial below:)_  
@@ -576,9 +589,15 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 12: {{ site.week-12 }}  
 ### <span style="color: #fc3a52;">{{ site.week-12-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
+
+### Monday 11/17   
+
+### Wednesday 11/19   
+
+### Friday 11/21   
+
+#### Deadlines   
+* [Final Multichannel Fixed Media Piece](/MUS218A-Soundscapes-FA2025/final-multichannel-fixed-piece/){:target="_blank"}  
 
 #### Tutorials  
 
@@ -598,8 +617,8 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 #### Tutorials  
 
-#### Assignments  
-* <span style="color: red;"><em>Deadline for <a href="/MUS218A-Soundscapes-FA2025/final-multichannel-fixed-piece/">Final Exam: 8-Channel Fixed Media Piece</a></em></span>   
+<!-- #### Assignments  
+* <span style="color: red;"><em>Deadline for <a href="/MUS218A-Soundscapes-FA2025/final-multichannel-fixed-piece/">Final Exam: 8-Channel Fixed Media Piece</a></em></span>    -->
 
 ###    
 
