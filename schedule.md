@@ -99,6 +99,8 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 - `plosives`  
 - `sibilance`  
   
+###    
+
 * * *  
 
 ## Week 2: {{ site.week-02 }}  
@@ -165,7 +167,6 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 [Philips Pavilion (1958)](https://www.tu.berlin/en/ak/research/projects/virtual-electronic-poem-the-audio-reconstruction){:target="_blank"}, _showing the approximate locations of 350 loudspeakers hidden in the walls for diffusion_.   
 
-
 #### Demonstrations   
 * [What Are Treatments?](/MUS218A-Soundscapes-FA2025/in-class/treatments/){:target="_blank"}  
 * Treatments in action     
@@ -225,6 +226,8 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 <!-- * <span style="color: red;"><em>Install VCV Rack before Week 3! (See Software + Resource page.)</em></span>   -->      
    
+###    
+
 * * *  
 
 ## Week 3: {{ site.week-03 }}  
@@ -340,7 +343,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * <span style="color: red;"><em>Deadline to email proposed planned absences for the semester to the instructor.</em></span>  
    -->
 
-* * *
+###    
+
+* * *  
 
 ## Week 4: {{ site.week-04 }}  
 ### <span style="color: #fc3a52;">{{ site.week-04-topic }}</span>    
@@ -378,7 +383,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * Watch the following video and build automation into your 3-Minute Sketch: [Automation in Reaper and Ableton Live](https://youtu.be/l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M){:target="_blank"}   
 {% include video id="l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M" provider="youtube" %}   -->
   
-* * *
+###    
+
+* * *  
 
 ## Week 5: {{ site.week-05 }}  
 ### <span style="color: #fc3a52;">{{ site.week-05-topic }}</span>    
@@ -398,7 +405,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 #### Tutorials  
 * [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 
-* * *
+###    
+
+* * *  
 
 ## Week 6: {{ site.week-06 }}  
 ### <span style="color: #fc3a52;">{{ site.week-06-topic }}</span>    
@@ -414,7 +423,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * [12+ Different Types of Microphones](https://decibelpeak.com/types-of-microphones/#summary-12-different-types-of-microphones){:target="_blank"}  
 
 
-* * *
+###    
+
+* * *  
 
 ## Week 7: {{ site.week-07 }}  
 ### <span style="color: #fc3a52;">{{ site.week-07-topic }}</span>    
@@ -458,7 +469,9 @@ _Choose auto-generated German translations of subtitles if it would help:_
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span> 
 * Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MUS218A-Soundscapes-FA2025/final-multichannel-fixed-piece/){:target="_blank"}.  
   
-* * *
+###    
+
+* * *  
 
 ## Week 8: {{ site.week-08 }}  
 ### <span style="color: #fc3a52;">{{ site.week-08-topic }}</span>    
@@ -481,7 +494,9 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 * <span style="color: red;"><em>Work on material for your Final Project.</em></span> 
 <span style="color: red;"><em>Install SpatGRIS before Week 9! (See Software + Resource page.)</em></span>  
 
-* * *
+###    
+
+* * *  
 
 ## Week 9: {{ site.week-09 }}  
 ### <span style="color: #fc3a52;">{{ site.week-09-topic }}</span>   
@@ -515,7 +530,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * <span style="color: red;"><em>Deadline for <a href="/MUS218A-Soundscapes-FA2025/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 * <span style="color: red;">Install MaxMSP before Week 10 <em>(See Resources page for instructions).</em></span>  
 
-* * *
+###    
+
+* * *  
 
 ## Week 10: {{ site.week-10 }}  
 ### <span style="color: #fc3a52;">{{ site.week-10-topic }}</span>    
@@ -535,7 +552,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 #### Assignments  
 <!-- * <span style="color: red;">Install SPEAR before Week 11 <em>(See Resources page for instructions).</em></span>  -->
 
-* * *
+###    
+
+* * *  
 
 ## Week 11: {{ site.week-11 }}  
 ### <span style="color: #fc3a52;">{{ site.week-11-topic }}</span>    
@@ -549,7 +568,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 #### Assignments  
 
-* * *
+###    
+
+* * *  
 
 ## Week 12: {{ site.week-12 }}  
 ### <span style="color: #fc3a52;">{{ site.week-12-topic }}</span>    
@@ -563,7 +584,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * _Finish your Final piece!_   
 
 
-* * *
+###    
+
+* * *  
 
 ## Week 13: {{ site.week-13 }}  
 ### <span style="color: #fc3a52;">{{ site.week-13-topic }}</span>    
@@ -576,7 +599,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 #### Assignments  
 * <span style="color: red;"><em>Deadline for <a href="/MUS218A-Soundscapes-FA2025/final-multichannel-fixed-piece/">Final Exam: 8-Channel Fixed Media Piece</a></em></span>   
 
-* * *
+###    
+
+* * *  
 
 ## Week 14: {{ site.week-14 }}  
 ### <span style="color: #fc3a52;">{{ site.week-14-topic }}</span>    
@@ -588,7 +613,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 #### Assignments  
 
-* * *
+###    
+
+* * *  
 
 ## Week 15: {{ site.week-15 }}  
 ### <span style="color: #fc3a52;">{{ site.week-15-topic }}</span>    
@@ -601,7 +628,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ### Assignments  
 
 
-* * *
+###    
+
+* * *  
 
 ## Week 16: {{ site.week-16 }}  
 ### <span style="color: #fc3a52;">{{ site.week-16-topic }}</span>    
@@ -614,7 +643,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ### Assignments  
 
 
-* * *
+###    
+
+* * *  
 
 ## Week 17: {{ site.week-17 }}  
 ### <span style="color: #fc3a52;">{{ site.week-17-topic }}</span>    
@@ -627,7 +658,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ### Assignments  
 
 
-* * *
+###    
+
+* * *  
   
 ## Week 18: {{ site.week-18 }}  
 ### <span style="color: #fc3a52;">{{ site.week-18-topic }}</span>    
