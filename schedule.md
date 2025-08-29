@@ -438,9 +438,11 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 #### Assignments    
 * [Midterm 3-Minute Sketch (due at the start of Week 9)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
 
-### Wednesday 10/15   
+### Wednesday 10/15  
+_Fall Recess: No class!_     
 
 ### Friday 10/17   
+_Fall Recess: No class!_     
 
 <!-- #### Warmup Quiz    
 * [Quiz on Slide Content Covered Through Week 7 _(in English and German; distributed at the beginning of class)_](https://forms.gle/DyD2ySciRGJiCqZ77){:target="_blank"}   -->
