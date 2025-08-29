@@ -11,7 +11,7 @@ last_modified_at: 2025-08-27
 ---
 
 ## Deadline  
-**See syllabus / LMS for specific due date.**  
+**start of Week 4: {{ site.week-04 }}**   
 
 ---
 

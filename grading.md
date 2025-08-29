@@ -303,17 +303,24 @@ _For an overview of grading policies for this course, see [XI. General Grading R
 </tr>
 
 <tr>
-  <td markdown="span">7</td>
-  <td markdown="span">{{ site.week-07 }}</td>
-  <td markdown="span">5</td>
-  <td markdown="span"><a href="/xlr-cable-coiling/" target="_blank">XLR Cable Coiling</a></td>
+  <td markdown="span">9/15</td>
+  <td markdown="span">9/22</td>
+  <td markdown="span">20</td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assigments/sampling-gamlean/" target="_blank">Sampling the Gamelan</a></td>
 </tr>
 
 <tr>
-  <td markdown="span">4</td>
-  <td markdown="span">{{ site.week-04 }}</td>
+  <td markdown="span">9/22</td>
+  <td markdown="span">9/29</td>
+  <td markdown="span">10</td>
+  <td markdown="span"><a href="/assignments/xlr-cable-coiling/" target="_blank">XLR Cable Coiling</a></td>
+</tr>
+
+<tr>
+  <td markdown="span">9/29</td>
+  <td markdown="span">10/6</td>
   <td markdown="span">20</td>
-  <td markdown="span"><a href="/assignments/field-recording-micromontage/" target="_blank">Field Recording + Micro-Montage Etude</a></td>
+  <td markdown="span"><a href="/assignments/#/" target="_blank">Field Recording + Micro-Montage Etude</a></td>
 </tr>
 
 <tr>
@@ -322,6 +329,11 @@ _For an overview of grading policies for this course, see [XI. General Grading R
   <td markdown="span">20</td>
   <td markdown="span"><a href="/assignments/sampling-gamelan/" target="_blank">Sampling the Gamelan</a></td>
 </tr>
+
+
+
+
+
 
 <tr>
   <td markdown="span">6</td>

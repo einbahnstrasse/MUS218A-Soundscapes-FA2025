@@ -19,7 +19,7 @@ last_modified_at: 2025-08-25
 ---
 
 ## Deadline  
-**Week 7: {{ site.week-07 }}**
+**Due at the start of Week 5: {{ site.week-05 }}**
 
 ---
 

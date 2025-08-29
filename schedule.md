@@ -112,6 +112,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 #### Downloads   
 * [Audio Files for Testing](https://github.com/einbahnstrasse/synth-tech-media){:target="_blank"}  
+* _Keep these in your class folder. We'll use these throughout the semester as test signals for various plugin devices, spatialization, etc_.     
 
 #### Demonstrations   
 * Navigating Reaper: editing, gain staging, fades, crossfades, FX basics   
@@ -157,9 +158,13 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 {% include video id="JLDbBqHCslw?si=auxRIxj5ee4FNaCH" provider="youtube" %}  
 
+#### More on Iannis Xenakis        
+* Grella, George. 2025. The Musical Architecture of Iannis Xenakis.” Bandcamp Daily, August 14, 2025. [https://daily.bandcamp.com/lists/iannis-xenakis-album-guide](https://daily.bandcamp.com/lists/iannis-xenakis-album-guide){:target="_blank"}  
+
 <img src="/MUS218A-Soundscapes-FA2025/assets/images/philips.pavilion.speakers.jpg" alt="Philips Pavillion" width="650">  
 
 [Philips Pavilion (1958)](https://www.tu.berlin/en/ak/research/projects/virtual-electronic-poem-the-audio-reconstruction){:target="_blank"}, _showing the approximate locations of 350 loudspeakers hidden in the walls for diffusion_.   
+
 
 #### Demonstrations   
 * [What Are Treatments?](/MUS218A-Soundscapes-FA2025/in-class/treatments/){:target="_blank"}  
@@ -221,20 +226,88 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 ## Week 3: {{ site.week-03 }}  
 ### <span style="color: #fc3a52;">{{ site.week-03-topic }}</span>    
 
-### Monday   
+### Monday 9/15   
 
 #### Tutorials  
 * [Introduction to MIDI: What is MIDI? (Slides 1-24)](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
-### Wednesday   
-### Friday   
+#### Tutorial Videos    
+* [Basics of the ReaSamplomatic 5000](https://youtu.be/1pdzzLkEF_U?si=27kjr9yrr6cpqgr1){:target="_blank"}   
+    
+{% include video id="1pdzzLkEF_U?si=27kjr9yrr6cpqgr1" provider="youtube" %}  
 
-#### Warmup Quiz    
-* [Quiz on Slide Content Covered Through Week 3 _(in English and German; distributed at the beginning of class)_](https://forms.gle/Qz2qKpMdZeoyjisB9){:target="_blank"}  
-  
+#### Demonstrations   
+* Overview on sampling, authorship, and sampling culture 
+* How to _record_ samples   
+* Check-out recording kits to each team 
+
+#### Assignments    
+* [Sampling the Gamelan (due at the start of Week 4)](/MUS218A-Soundscapes-FA2025/assigments/sampling-gamlean/){:target="_blank"}   
+
+#### Terms, Concepts, Objects, Shortcuts    
+* `audio sample`   
+* `sampling culture`   
+* `key mapping`   
+* `gamelan`     
+* `MIDI tecnical standard`   
+* `MIDI events` and `messages`      
+* `MIDI pitch`   
+* `MIDI velocity`   
+   
+### Wednesday 9/17    
+
 #### Tutorials  
-* [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: Software + Hardware (Slides 25-32) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
+
+#### Tutorial Videos    
+* [Automatic Pitch Detection in the ReaSamplomatic 5000](https://youtu.be/xyk-OVIOgAw?si=mReCi9FvnYZRQsJl){:target="_blank"}   
+
+{% include video id="xyk-OVIOgAw?si=mReCi9FvnYZRQsJl" provider="youtube" %}  
+
+#### Demonstrations   
+* How to _edit_ and _index_ audio samples using _naming conventions_    
+
+#### Watch Documentary     
+* [_Rip: A Remix Manifesto_ (2008, dir. Brett Gaylor)](https://youtu.be/quO_Dzm4rnk?si=LxkK5Xiuy1yAsmlt){:target="_blank"}   
+    
+{% include video id="quO_Dzm4rnk?si=LxkK5Xiuy1yAsmlt" provider="youtube" %}  
+
+#### Terms, Concepts, Objects, Shortcuts    
+* `naming convention`  
+* `5-pin DIN cable` 
+* `IN`, `OUT`, and `THRU`   
+* `daisy chain`  
+* `star configuration`    
+* `MIDI interface` and `peripherals`    
+
+### Friday 9/19  
+
+* [Introduction to MIDI: The MIDI Technical Standard (Slides 33-48) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
+
+#### Tutorial Videos    
+* [Multi Sampling (Polyphony!) with the ReaSamplomatic 5000](https://youtu.be/VxEGphq0Gck?si=Ivm8BtNfGmwyuw13){:target="_blank"}   
+
+{% include video id="VxEGphq0Gck?si=Ivm8BtNfGmwyuw13" provider="youtube" %}  
+
+#### Terms, Concepts, Objects, Shortcuts    
+* `monophonic synthesizer`   
+* `polyphonic synthesizer`  
+* `Note-On`   
+* `Note-Off`   
+* `Pitch Bend`    
+* `Control Change`   
+* `Program Change` 
+* `SysEx` 
+* `status byte`   
+* `data byte`   
+* `.mid file`    
+* `general MIDI`    
+
+<!-- #### Warmup Quiz    
+* [Quiz on Slide Content Covered Through Week 3 _(in English and German; distributed at the beginning of class)_](https://forms.gle/Qz2qKpMdZeoyjisB9){:target="_blank"}   -->
+  
+<!-- #### Tutorials  
+* [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Understanding the Piezoelectric Effect of Crystal Oscillators](https://youtu.be/_XABS0dR15o?si=5X4u9oqXqkH3GXco){:target="_blank"}  
    
 {% include video id="_XABS0dR15o?si=5X4u9oqXqkH3GXco" provider="youtube" %}  
@@ -261,17 +334,29 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 #### Assignments  
 * <span style="color: red;"><em>Deadline for Auditory Vantage Point assignment.</em></span>  
 * <span style="color: red;"><em>Deadline to email proposed planned absences for the semester to the instructor.</em></span>  
-* Assign + discuss the [Microphone Cable Coiling](/MUS218A-Soundscapes-FA2025/xlr-cable-coiling/){:target="_blank"} Assignment.  
+   -->
 
 * * *
 
 ## Week 4: {{ site.week-04 }}  
 ### <span style="color: #fc3a52;">{{ site.week-04-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
 
-#### Video Tutorials  
+### Monday 9/22   
+
+#### Deadlines    
+* [Sampling the Gamelan](/MUS218A-Soundscapes-FA2025/assigments/sampling-gamlean/){:target="_blank"}   
+
+#### Tutorials  
+* [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+
+#### Assignments   
+* [XLR Cable Coiling (due at the start of Week 5)](/MUS218A-Soundscapes-FA2025/xlr-cable-coiling/){:target="_blank"} 
+
+### Wednesday 9/24  
+
+### Friday 9/26   
+
+<!-- #### Video Tutorials  
 * [Common types of audio cables and their uses](https://youtu.be/617z88J8060?si=LMRDTIkWgeWa6Z3o){:target="_blank"}  
 {% include video id="617z88J8060" provider="youtube" %}  
 
@@ -287,27 +372,41 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 #### Assignments  
 * Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MUS218A-Soundscapes-FA2025/midterm/){:target="_blank"}   
 * Watch the following video and build automation into your 3-Minute Sketch: [Automation in Reaper and Ableton Live](https://youtu.be/l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M){:target="_blank"}   
-{% include video id="l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M" provider="youtube" %}  
+{% include video id="l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M" provider="youtube" %}   -->
   
 * * *
 
 ## Week 5: {{ site.week-05 }}  
 ### <span style="color: #fc3a52;">{{ site.week-05-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
+
+### Monday 9/29  
+
+#### Deadlines    
+* [XLR Cable Coiling](/MUS218A-Soundscapes-FA2025/xlr-cable-coiling/){:target="_blank"} 
+
+#### Assignments   
+* [Field Recording + Micro-Montage Etude (due at the start of Week 6)](#){:target="_blank"} 
+
+### Wednesday 10/1   
+
+### Friday 10/3   
 
 #### Tutorials  
 * [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
-* [Introduction to MIDI: The MIDI Technical Standard (Slides 33-48) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
 * * *
 
 ## Week 6: {{ site.week-06 }}  
 ### <span style="color: #fc3a52;">{{ site.week-06-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
+
+### Monday 10/6    
+
+#### Deadlines   
+* [Field Recording + Micro-Montage Etude](#){:target="_blank"} 
+
+### Wednesday 10/8    
+
+### Friday 10/10    
 
 #### Tutorials  
 
