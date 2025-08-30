@@ -38,16 +38,12 @@ You're not going to be asked for empirical work that would require a calculator,
 
 * pencils, erasers, or pens (blue/black ink preferred)
 * Your Bates ID
-
-_If you require a testing accommodation, official documentation must be commuicated well in advance to the instructor in order to arrange an equitable setup._
    
 ---
 
-## Readings, Listenings, & Guests You’re Responsible For
+## Readings, Listenings, & Materials    
 
 Be able to identify, contextualize, and discuss **techniques, goals, and historical significance**.
-
-### Listenings, Readings 
 
 Go back to our Schedule page and be sure you've listened to the musical and electronic works at least once. Review readings or notes you may have taken. Expect questions that connect readings/listenings to **electronic technique** (e.g., envelopes, treatment choices, montage) and to **context** (historical, aesthetic, technical constraints).
 
@@ -61,7 +57,8 @@ Know the key takeaways (not every button!). Know what the tool does, when you’
 
 ## How to Prepare (Practical Tips)
 
-* **Flashcards** for bolded terms above; be able to define each in a sentence and give a tiny example.
+* **Flashcards:** be able to define each in a sentence.
+* Re-read the coures **slides**.  
 * **Label‑practice:** print or sketch a mic diagram (patterns) or a DAW signal flow and label parts.
 * **Study with a partner**: quiz each other on definitions. Discuss your responses to the listening examples.    
 
@@ -79,8 +76,9 @@ Know the key takeaways (not every button!). Know what the tool does, when you’
 
 ## Policies & Make‑ups
 
+* If you require a **testing accommodation**, official documentation must be commuicated well in advance to the instructor in order to arrange an equitable setup.    
 * Make‑ups are generally not possible and are considered **only** in rare circumstances with prompt communication and well-documented reasons per course policies.
-    
+
 ---   
      
 ## List of Topics, Terms     
