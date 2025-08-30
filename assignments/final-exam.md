@@ -70,7 +70,7 @@ Know the key takeaways (not every button!). Know what the tool does, when you’
 ## Sample Questions   
 
 * **Multiple Choice:** Choose the best description of *reduced listening*.   
-* **Diagram:** Draw an XY crossfade.   
+* **Diagram:** Draw a crossfade between two audio clips.   
 * **Short Answer (2–4 sentences):** What is *aliasing* and how do you avoid it?   
 * **Listening ID:** Does this sound like _sampling_ or _modular synthesis_? Why?   
 * **Technique Rationale:** Why use an X/Y microphone pair instead of a single microphone?     
