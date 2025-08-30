@@ -22,13 +22,13 @@ last_modified_at: 2025-08-25
 
 ---
 
-*This is a comprehensive in‑class written exam consisting of multiple choice and short‑answer questions. It assesses your understanding of our readings, listenings, in‑class discussions, guest visits, prior assignments, tutorial videos, slide decks, synthesis topics, and audio production concepts. Your own project work throughout the term has also prepared you for this.*    
+This is a comprehensive in‑class written exam consisting of multiple choice and short‑answer questions. It assesses your understanding of our readings, listenings, in‑class discussions, guest visits, prior assignments, tutorial videos, slide decks, synthesis topics, and audio production concepts. Your own project work throughout the term has also prepared you for this.    
     
-*You're not going to be asked for empirical work that would require a calculator, but you might be asked to compare some of the music we've listened to, reflect on some the recording or synthesis ideas you encountered, etc. You may potentially be asked to identify something you hear: this could be a type of sound, synthesizer, or you might be asked for your best guess as to what is "wrong" with a particular recording or use of a microphone. In these cases, a "precise" answer is not necessarily the goal but a guide; you might be asked for a broadly educated guess based on your listening.*    
+You're not going to be asked for empirical work that would require a calculator, but you might be asked to compare some of the music we've listened to, reflect on some the recording or synthesis ideas you encountered, etc. You may potentially be asked to identify something you hear: this could be a type of sound, synthesizer, or you might be asked for your best guess as to what is "wrong" with a particular recording or use of a microphone. In these cases, a "precise" answer is not necessarily the goal but a guide; you might be asked for a broadly educated guess based on your listening.    
 
 **Format:** Written exam _on paper_. Closed-book: No class notes, no electronic devices (...weird, I know). 
 
-**Length:** The exam period is **1-hour** and begins at the start of our class period. You're welcome to leave once you've turned in your exam. 
+**Length:** The exam period is **1-hour** and begins at our regular class time. You're welcome to leave once you've turned in your exam. 
 
 **Question types:** Multiple choice, matching, definitions, diagrams/labels, and short answers are all potential question types you may see.   
 
@@ -40,12 +40,54 @@ last_modified_at: 2025-08-25
 * Your Bates ID
 
 _If you require a testing accommodation, official documentation must be commuicated well in advance to the instructor in order to arrange an equitable setup._
+   
+---
+
+## Readings, Listenings, & Guests You’re Responsible For
+
+Be able to identify, contextualize, and discuss **techniques, goals, and historical significance**.
+
+### Listenings, Readings 
+
+Go back to our Schedule page and be sure you've listened to the musical and electronic works at least once. Review readings or notes you may have taken. Expect questions that connect readings/listenings to **electronic technique** (e.g., envelopes, treatment choices, montage) and to **context** (historical, aesthetic, technical constraints).
 
 ---
 
+## Tutorials & Videos You Should Know
+
+Know the key takeaways (not every button!). Know what the tool does, when you’d use it, and the vocabulary it introduces. 
+
+---
+
+## How to Prepare (Practical Tips)
+
+* **Flashcards** for bolded terms above; be able to define each in a sentence and give a tiny example.
+* **Label‑practice:** print or sketch a mic diagram (patterns) or a DAW signal flow and label parts.
+* **Study with a partner**: quiz each other on definitions. Discuss your responses to the listening examples.    
+
+---
+
+## Sample Questions   
+
+* **Multiple Choice:** Choose the best description of *reduced listening*.   
+* **Diagram:** Draw an XY crossfade.   
+* **Short Answer (2–4 sentences):** What is *aliasing* and how do you avoid it?   
+* **Listening ID:** Does this sound like _sampling_ or _modular synthesis_? Why?   
+* **Technique Rationale:** Why use an X/Y microphone pair instead of a single microphone?     
+
+---
+
+## Policies & Make‑ups
+
+* Make‑ups are generally not possible and are considered **only** in rare circumstances with prompt communication and well-documented reasons per course policies.
+    
+---   
+     
 ## List of Topics, Terms     
 
-_The list below serves as the start of a study-guide. Note: This list serves as a starter and may be adjusted up until the final week of class._    
+The list below serves as the start of a study guide.    
+
+_Note: This list may be adjusted up until the final week of class._    
 
 - `frequency`  
 - `pitch`  
@@ -168,44 +210,4 @@ _The list below serves as the start of a study-guide. Note: This list serves as 
 - `technical rider`   
 - `signal flow matrix`    
 
----
-
-## Readings, Listenings, & Guests You’re Responsible For
-
-Be able to identify, contextualize, and discuss **techniques, goals, and historical significance**.
-
-### Listenings, Readings 
-
-Go back to our Schedule page and be sure you've listened to the musical and electronic works at least once. Review readings or notes you may have taken. Expect questions that connect readings/listenings to **electronic technique** (e.g., envelopes, treatment choices, montage) and to **context** (historical, aesthetic, technical constraints).
-
----
-
-## Tutorials & Videos You Should Know
-
-Know the key takeaways (not every button!). Know what the tool does, when you’d use it, and the vocabulary it introduces. 
-
----
-
-## How to Prepare (Practical Tips)
-
-* **Flashcards** for bolded terms above; be able to define each in a sentence and give a tiny example.
-* **Label‑practice:** print or sketch a mic diagram (patterns) or a DAW signal flow and label parts.
-* **Study with a partner**: quiz each other on definitions. Discuss your responses to the listening examples.    
-
----
-
-## Sample Questions   
-
-* **Multiple Choice:** Choose the best description of *reduced listening*.   
-* **Diagram:** Draw an XY crossfade.   
-* **Short Answer (2–4 sentences):** What is *aliasing* and how do you avoid it?   
-* **Listening ID:** Does this sound like _sampling_ or _modular synthesis_? Why?   
-* **Technique Rationale:** Why use an X/Y microphone pair instead of a single microphone?     
-
----
-
-## Policies & Make‑ups
-
-* Make‑ups are generally not possible and are considered **only** in rare circumstances with prompt communication and well-documented reasons per course policies.
-    
 * * *     
