@@ -22,6 +22,8 @@ last_modified_at: 2025-08-25
 
 ---
 
+## Introduction     
+
 This is a comprehensive in‑class written exam consisting of multiple choice and short‑answer questions. It assesses your understanding of our readings, listenings, in‑class discussions, guest visits, prior assignments, tutorial videos, slide decks, synthesis topics, and audio production concepts. Your own project work throughout the term has also prepared you for this.    
     
 You're not going to be asked for empirical work that would require a calculator, but you might be asked to compare some of the music we've listened to, reflect on some the recording or synthesis ideas you encountered, etc. You may potentially be asked to identify something you hear: this could be a type of sound, synthesizer, or you might be asked for your best guess as to what is "wrong" with a particular recording or use of a microphone. In these cases, a "precise" answer is not necessarily the goal but a guide; you might be asked for a broadly educated guess based on your listening.    
