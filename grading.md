@@ -341,40 +341,22 @@ _For an overview of grading policies for this course, see [XI. General Grading R
   <td markdown="span">10/27</td>
   <td markdown="span">11/21</td>
   <td markdown="span">60</td>
-  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/assignments/final-multichannel-fixed-piece/" target="_blank">Final Multichannel Fixed Piece</a></td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/final-multichannel-fixed-piece/" target="_blank">Final Multichannel Fixed Piece</a></td>
 </tr>
 
-
-
-
 <tr>
-  <td markdown="span">6</td>
-  <td markdown="span">{{ site.week-06 }}</td>
-  <td markdown="span">20</td>
-  <td markdown="span"><a href="/assignments/mixing-automation-sends/" target="_blank">Mixing + Automation + Sends/FX (Stems)</a></td>
+  <td markdown="span">12/5</td>
+  <td markdown="span">12/5</td>
+  <td markdown="span">100</td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/final-exam/" target="_blank">Final In-Class Written Exam</a></td>
 </tr>
 
-
-
-
-
-
-
 <tr>
+  <td markdown="span">12/1</td>
+  <td markdown="span">12/8</td>
   <td markdown="span">10</td>
-  <td markdown="span">{{ site.week-10 }}</td>
-  <td markdown="span">15</td>
-  <td markdown="span"><a href="/assignments/technical-rider/" target="_blank">Technical Rider of Your Wildest Dreams</a></td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/tech-rider/" target="_blank">Technical Rider of Your Wildest Dreams</a></td>
 </tr>
-
-<tr>
-  <td markdown="span">11</td>
-  <td markdown="span">{{ site.week-11 }}</td>
-  <td markdown="span">10</td>
-  <td markdown="span"><a href="/assignments/microtonality/" target="_blank">Microtonality Study (Optional)</a></td>
-</tr>
-
-
 
 </tbody>
 </table>

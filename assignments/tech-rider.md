@@ -19,7 +19,7 @@ last_modified_at: 2025-08-25
 ---
 
 ## Deadline
-**See syllabus for the due date.**
+**Due on Monday, December 8, 2025.**
 
 ---
 

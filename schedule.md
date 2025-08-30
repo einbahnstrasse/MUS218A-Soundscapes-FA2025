@@ -517,7 +517,7 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 * [Midterm 3-Minute Sketch](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
 
 #### Assignments     
-* [Final Multichannel Fixed Media Piece (due November 21)](/MUS218A-Soundscapes-FA2025/final-multichannel-fixed-piece/){:target="_blank"}  
+* [Final Multichannel Fixed Media Piece (due November 21)](/MUS218A-Soundscapes-FA2025/assignments/final-multichannel-fixed-piece/){:target="_blank"}  
 
 ### Wednesday 10/29    
 
@@ -604,13 +604,10 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ### Friday 11/21   
 
 #### Deadlines   
-* [Final Multichannel Fixed Media Piece](/MUS218A-Soundscapes-FA2025/final-multichannel-fixed-piece/){:target="_blank"}  
+
+* [Final Multichannel Fixed Media Piece](/MUS218A-Soundscapes-FA2025/assignments/final-multichannel-fixed-piece/){:target="_blank"}  
 
 #### Tutorials  
-
-#### Assignments  
-* _Finish your Final piece!_   
-
 
 ###    
 
@@ -618,49 +615,51 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 13: {{ site.week-13 }}  
 ### <span style="color: #fc3a52;">{{ site.week-13-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
 
-#### Tutorials  
+### Thanksgiving Recess      
 
-<!-- #### Assignments  
-* <span style="color: red;"><em>Deadline for <a href="/MUS218A-Soundscapes-FA2025/final-multichannel-fixed-piece/">Final Exam: 8-Channel Fixed Media Piece</a></em></span>    -->
+_No classes this week!_    
 
 ###    
 
 * * *  
 
 ## Week 14: {{ site.week-14 }}  
-### <span style="color: #fc3a52;">{{ site.week-14-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
+### <span style="color: #fc3a52;">{{ site.week-14-topic }}</span>   
 
-#### Tutorials  
+### Monday 12/1  
 
-#### Assignments  
+#### Assignments    
+* [Technical Rider of Your Wildest Dreams (due on Monday 12/8)](/MUS218A-Soundscapes-FA2025/assignments/tech-rider/){:target="_blank"}  
+     
+### Wednesday 12/3  
 
+### Friday 12/5    
+
+_Last day of class._    
+
+#### Final Exam     
+
+* [Final Written Exam](/MUS218A-Soundscapes-FA2025/assignments/final-exam/){:target="_blank"}  
+   
 ###    
 
 * * *  
 
 ## Week 15: {{ site.week-15 }}  
 ### <span style="color: #fc3a52;">{{ site.week-15-topic }}</span>    
-### Monday   
-### Wednesday   
-### Friday   
 
-### Tutorials  
+### Monday 12/8  
 
-### Assignments  
+#### Deadlines   
 
+* [Technical Rider of Your Wildest Dreams](/MUS218A-Soundscapes-FA2025/assignments/tech-rider/){:target="_blank"}  
 
 ###    
 
 * * *  
 
-## Week 16: {{ site.week-16 }}  
+<!-- ## Week 16: {{ site.week-16 }}  
 ### <span style="color: #fc3a52;">{{ site.week-16-topic }}</span>    
 ### Monday   
 ### Wednesday   
@@ -701,4 +700,4 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ### Assignments  
 
 * * *
-
+ -->
