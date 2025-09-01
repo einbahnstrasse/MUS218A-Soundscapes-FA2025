@@ -55,9 +55,9 @@ _Our course website, and especially its [Schedule page](/MUS218A-Soundscapes-FA2
     
 ## 2. Course Description    
 
-This course focuses on the creative acts of recording and sound design. Technical topics covered include recording (both studio and experimental techniques), microphone placement, editing and mixing in REAPER (an open source software), effects and digital processing, and sound design for stereo and multitrack speaker arrays. Creative assignments improve listening skills, foreground aural experience, increase awareness of sonic environments, and sharpen skills related to the use of sound as a sensory and communication medium. Listening and reading assignments support creative and technical concepts covered. Students generate three to four new, original sound-based works during the course of the semester, one of which is refined for a final public listening session. Recommended background: interest in or experience with music, sound, or digital media.
+<!-- This course focuses on the creative acts of recording and sound design. Technical topics covered include recording (both studio and experimental techniques), microphone placement, editing and mixing in REAPER (an open source software), effects and digital processing, and sound design for stereo and multitrack speaker arrays. Creative assignments improve listening skills, foreground aural experience, increase awareness of sonic environments, and sharpen skills related to the use of sound as a sensory and communication medium. Listening and reading assignments support creative and technical concepts covered. Students generate three to four new, original sound-based works during the course of the semester, one of which is refined for a final public listening session. Recommended background: interest in or experience with music or music software, sound, or digital media.   -->
 
-**Soundscapes: Recording and Designing Sound** is a first-semester foundational course in electronic music and sound art, introducing students to the studio environment and to the rudiments of recording, mixing, post production, synthesis and MIDI, computer music, and spatial audio. This semester will focus on **multichannel fixed media composition**.  
+**Soundscapes: Recording and Designing Sound** is a first-semester foundational course in electronic music and sound art, introducing students to the studio environment and to the rudiments of recording, mixing, post production, synthesis and MIDI, computer music, and spatial audio. This semester will focus on **multichannel fixed media composition**. Prerequisites: Students should be comfortable with basic computer literacy (e.g., file management, navigation, saving and exporting files, connecting USB devices and external hard drives).   
 
 Class sessions are structured with an emphasis on creating, transforming, and sculpting sounds. Classes will frequently consist of software tutorials and in-class demonstrations that can quickly be integrated into personal artistic projects. Students will be required to complete a number of smaller graded assignments, culminating in a final piece. Each week focuses on a new topic that builds upon work completed in the previous week. _**Students are therefore expected to attend regularly.**_ There are itermediary assignments and a **midterm exam**: a 3-minute stereo fixed media "sketch." This sketch can be expanded upon and made into the **final multichannel work**: a 6-8-minute multichannel work for a concert held on December 2nd. **Students are required to attend and present their work on December 2, 2025 from 7:30—9:30 PM**, with possible sound checks earlier in the day. A **final written exam** on digital audio fundamentals will be given during our final class period: on **Friday, December 5, 2025 at 2:40 PM**, before finals week.        
 
@@ -96,7 +96,7 @@ Although no specific requirement exists for hardware, the following are strongly
 ### 3.1 General Expectations   
 
 1. **Arrive on time** to all course sessions.  
-2. Spend **2-4 additional hours per week** _(outside of class)_ on the timely completion of our assignments and projects.  
+<!-- 2. Spend **2-4 additional hours per week** _(outside of class)_ on the timely completion of our assignments and projects.   -->
 3. Submit assignments by the given deadlines on Lyceum.   
 4. **Back up and organize your work REGULARLY.** _Catastrophic loss of materials is not, unfortunately, an excuse for missed deadlines!_  
 
@@ -105,6 +105,10 @@ Although no specific requirement exists for hardware, the following are strongly
 1. **Study video tutorials, slides, readings, and other assigned materials ahead of class.** Come prepared with clarifying questions.  
 2. We will devote the majority of our class time to demonstrating and creating, and therefore **we will be unable to present videos, slides, and readings in class.** Familiarize yourself with this background content beforehand so that you are not lost. Most likely, we will not reference at least some of these materials directly during our class session.   
 3. Additionally, it is strongly encouraged that you **consult the recommended software documentation resources**. These provide context and will deepen your understanding as you build your own systems and creative tools.  
+
+#### 3.2.1 Workload Expectations   
+
+At Bates College, 1 course credit is equivalent to approximately 180 hours of total academic work over a semester. This includes both class time and independent work. Since this course meets for 4 hours each week, students should expect to spend an average of **8–11 additional hours** on a combination of assigned and project work, readings, listening, and other assignments or preparation each week. This guideline ensures the course meets federal and college standards while supporting your progress through consistent engagement inside and outside of class.
 
 ### 3.3 Communication   
 
