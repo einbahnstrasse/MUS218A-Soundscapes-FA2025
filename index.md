@@ -37,6 +37,7 @@ last_modified_at: 2025-08-25
 <!-- <span style="font-size: smaller;"><em><b>* hybrid and virtual available in extenuating circumstances at the discretion of the instructor</b></em></span>    -->
 
 **Instructor:** Prof. Dr. Louis Goldford  
+_You can call me Louis_.    
 **Email:** <a href="mailto:lgoldford@bates.edu">lgoldford@bates.edu</a>  
 **Office Hours:** Wednedsays from 11:00—12:30 or by appointment*.    
 **Office Location:** Olin 260   
@@ -130,10 +131,22 @@ At Bates College, 1 course credit is equivalent to approximately 180 hours of to
 
 ### 3.5 Attendance + Participation Policy   
 
-Success in this course depends on your consistent attendance and active engagement. Because this is a skills-building course where each week builds on the previous, missing more than 3 class sessions will negatively affect your grade. If you anticipate ongoing conflicts, please speak with me early so we can develop a plan.  
+#### 3.5.1 The Band Model     
 
-* However, missing a class should be avoided when possible. In a skills-building music technology course such as this one, we must ensure that you are up-to-date on our materials each week — partly because the next week will often build on the materials covered last week.  
-* Missing _more than_ 3 class sessions will result in a grade reduction or possibly a failure of the course, depending on whether a student satisfies additional makeup work assigned by the instructor. In this scenario, the student completes all Max patching, assignments, projects, and any additional material assigned by the instructor to help ensure understanding or evaluation of progress. Additional materials may, in some cases, require the student to attend periodic check-in meetings with the instructor to ensure the student understands material missed in class. Failure to meet with the instructor to evaluate progress in such a circumstance will result in a grade reduction if progress is otherwise not demonstrated in the student's submitted work.  
+In the symphony orchestra, or in any band, each individual musician contributes something unique. And I mean something _very real_ here; not some vague sense of personal uniqueness: Often, each person carries a specific melodic strain written especially for them, or their part, perhaps one of many _melodic voices_ in a _contrapuntal fabric_. As you may know, the effect of good counterpoint combined with good playing creates something _miraculous_ — something that cannot be replicated by any of those melodies on their own. In the absence of the skills contributed by each person occupying a chair on stage, _a musical structure cannot remain intact_. The group suffers. Bandmates who have been playing together for several years sound better for a reason. You can even hear it.   
+
+Unlike the orchestra, however, in class there is no “sub list” to fill your seat when you cannot be here. This semester, think of yourselves as members of the orchestra, the band, the collective, or the crew. “The show must go on” exists as an idiom because _nobody else can carry your part_ in the musical fabric. It means that you make your presence a priority, and that you _contribute to the group_ because you understand that your presence offers precisely what others cannot. Your presence has value that resists being quantified. It also means that your absence is _felt_ as a detriment to the community’s _progress_ from one rehearsal to the next. So avoid absences and lateness wherever possible for our collective benefit. In reality, musicians don’t show up for rehearsals _having prepared and practiced in advance_ simply because some teacher told them to. They elect to do this on their own, of their own volition, _because they know their value_.    
+
+#### 3.5.2 Absences     
+
+Success in this course depends on your consistent attendance and active engagement with our skills building goals. **Up to 2 excused absences are permitted. After these 2, additional absences will be treated as unexcused and will negatively impact your attendance and participation grade**. If you anticipate conflicts, it is my expectation that you will speak with me as soon as possible and early in the semester (i.e., by Week 3). **A lack of communication about planned absences will therefore be treated as unexcused**.   
+
+**Absences and/or lateness must be accompanied by documentation and/or include advance notice**. These will not impact on your grade if they are reported in advance and are infrequent. Absences will be excused in cases of: documentation of illness provided by a doctor’s note and/or SSA, religious observance, official school-related activity, and on a case-by-case basis for other critical events, at the discretion of the instructor.
+Note that **you are never required to disclose personal information to me**. Your SSA can serve as a liaison to communicate personal needs to me as well. Should there be significant campus changes regarding public health, all accommodations will be made to ensure your progress and wellbeing.   
+
+In a skills-building music technology course such as this one, we must ensure that you are up-to-date on our materials each week — partly because the next week will often build on the materials covered last week.  
+
+Missing _more than_ 2 class sessions will result in a grade reduction. Additional absences will further lower your grade and result in additionally assigned makeup work assigned by the instructor. In this scenario, the student completes all assignments, projects, and any additional material assigned by the instructor to help ensure understanding or evaluation of progress.  
 
 #### 3.5.1 Prompt Arrival   
 
@@ -358,9 +371,9 @@ In line with our Student Code of Conduct, the Dean of Faculty Office reminds all
 
 ### 5.3 Generative AI Policy      
 
-Generative AI tools (i.e., such as large language models, or LLMs, like ChatGPT and others) may be used **only when (and how) specified for specified course work, and otherwise are not permitted**. We will rarely, if at all, being using these tools in the study, creation, ideation, and audiation of sound and music within the context of this course. In other words, **unless otherwise noted, use of generative AI tools is explicitly prohibited**.   
+Generative AI tools (i.e., such as large language models, or LLMs, like ChatGPT and others) may be used **only when (and how) specified for course work, and otherwise are not permitted**. We will rarely, if at all, be using these tools in the study, creation, ideation, and audiation of sound and music within the context of this course. In other words, **unless otherwise noted, use of generative AI tools is explicitly prohibited**.   
 
-Use of generative AI tools, only where explicitly permitted by the instructor, may be included for a particular assignment or exercise, for a particular course module, or for inquiry into a particular type of AI tool. As with any other academic resource used to create student work, any contribution of generative AI tools to student work must be clearly disclosed by the student and cited like any other resource. 
+Use of generative AI tools, only where explicitly permitted by the instructor, may be included for a particular assignment or exercise, for a particular course module, or for inquiry into a particular type of AI tool. As with any other academic resource used to create student work, any contribution of generative AI tools must be clearly disclosed by the student and cited like any other resource. 
 
 For any assignment in which generative AI tools were used (always and only in accordance with the policy specified for this course or a particular assignment), students must include, in addition to a traditional bibliography, a written page entitled “explanation of AI tool use” that contains a description of which tools were used (such as ChatGPT, DALL-E, etc.), how each tool was used, (such as in ideation, research, analysis, editing, debugging, etc.), the specific prompts entered into the model(s), how model outputs were evaluated, and whether and where model outputs were used in the work that was submitted.
 
