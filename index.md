@@ -19,24 +19,13 @@ last_modified_at: 2025-08-25
 
 ---
 
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.11.0/css/flag-icons.min.css"/>
-
-<div class="lang-sidebar">
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for page in pages %}
-    <li class="zoom"><a href="/MUS218A-Soundscapes-FA2025{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
-  {% endfor %}
-</div>
-
-<div class="top-h1-icon">
-  <i class="fas fa-book-open fa-2x"></i>
-</div> -->
-
 <mark>As of August 25, 2025, this site is under construction as we approach the start of our semester. Once the Syllabus and Schedule have been fully updated, this banner will disappear.</mark>
 
 ## 1. Essential Contact Information  
 
 **Course Number:** MUS218A   
+**CRN:** 90378    
+**Credits:** 1   
 **Semester:** Fall 2025   
 **Time:** Mondays, Wednesdays, and Fridays from 14:40—16:00     
 **Location:** Bates Sound Studio (Olin 302)  
