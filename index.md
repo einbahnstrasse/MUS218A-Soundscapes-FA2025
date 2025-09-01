@@ -38,9 +38,9 @@ last_modified_at: 2025-08-25
 
 **Instructor:** Prof. Dr. Louis Goldford  
 **Email:** <a href="mailto:lgoldford@bates.edu">lgoldford@bates.edu</a>  
-**Office Hours:** Wednedsays from 11:00—12:30 or by appointment.    
+**Office Hours:** Wednedsays from 11:00—12:30 or by appointment*.    
 **Office Location:** Olin 260   
-<!-- **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}       -->
+_*To schedule office hours by appointment, email me with some possible times on upcoming days._   
 
 **Studio Assistant:** Milo Gold  
 **Email:** <a href="mailto:mgold2@bates.edu">mgold2@bates.edu</a>  
