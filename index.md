@@ -45,7 +45,7 @@ _*To schedule office hours by appointment, email me with some possible times on 
 
 **Studio Assistant:** Milo Gold  
 **Email:** <a href="mailto:mgold2@bates.edu">mgold2@bates.edu</a>  
-**Studio Hours:** Tuesdays 14:00—16:00 and Thursdays 14:00—16:00      
+**Studio Hours:** Tuesdays and Thursdays 14:30—16:30      
 
 **Course Website:** [https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/){:target="_blank"}  
 
