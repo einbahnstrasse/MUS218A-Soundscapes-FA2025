@@ -45,7 +45,7 @@ _*To schedule office hours by appointment, email me with some possible times on 
 
 **Studio Assistant:** Milo Gold  
 **Email:** <a href="mailto:mgold2@bates.edu">mgold2@bates.edu</a>  
-**Studio Hours:** Tuesdays and Thursdays 14:30—16:30      
+**Studio Hours:** Tuesdays and Thursdays from 14:30—16:30      
 
 **Course Website:** [https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/){:target="_blank"}  
 
@@ -92,6 +92,22 @@ Although no specific requirement exists for hardware, the following are strongly
 8. Google Chrome or any web browser that will allow you to access our Course Website & materials   
 9. Various other plugins and apps listed throughout the semester (open source software)  
   
+### 2.4 Output + Assessment   
+
+#### 2.4.1 Weighted Components    
+
+_Your course grade will be determined by the following weights:_   
+
+- Assignemnts: 20%  
+- Attendance + Participation: 10%    
+- 3-Minute Stereo Sketch (Midterm): 15%   
+- Multichannel Work (Final*): 40%    
+- Final Exam: 15%    
+
+_*Your Final Multichannel Work score will also include your attendance and participation at our December 2 concert._ 
+
+See [6. General Grading Rubric](#6-general-grading-rubric) below for a detailed summary of project work grading policies.    
+
 ## 3. Expectations   
 
 ### 3.1 General Expectations   
@@ -247,93 +263,93 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING pag
 <tr>
 <td markdown="span">1</td>
 <td markdown="span">{{ site.week-01 }}</td>
-<td markdown="span"><a href="schedule/#w1" target="_blank">{{ site.week-01-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w1" target="_blank">{{ site.week-01-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">2</td>
 <td markdown="span">{{ site.week-02 }}</td>
-<td markdown="span"><a href="schedule/#w2" target="_blank">{{ site.week-02-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w2" target="_blank">{{ site.week-02-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">3</td>
 <td markdown="span">{{ site.week-03 }}</td>
-<td markdown="span"><a href="schedule/#w3" target="_blank">{{ site.week-03-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w3" target="_blank">{{ site.week-03-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">4</td>
 <td markdown="span">{{ site.week-04 }}</td>
-<td markdown="span"><a href="schedule/#w4" target="_blank">{{ site.week-04-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w4" target="_blank">{{ site.week-04-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">{{ site.week-05 }}</td>
-<td markdown="span"><a href="schedule/#w5" target="_blank">{{ site.week-05-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w5" target="_blank">{{ site.week-05-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">6</td>
 <td markdown="span">{{ site.week-06 }}</td>
-<td markdown="span"><a href="schedule/#w6" target="_blank">{{ site.week-06-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w6" target="_blank">{{ site.week-06-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">7</td>
 <td markdown="span">{{ site.week-07 }}</td>
-<td markdown="span"><a href="schedule/#w7" target="_blank">{{ site.week-07-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w7" target="_blank">{{ site.week-07-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">8</td>
 <td markdown="span">{{ site.week-08 }}</td>
-<td markdown="span"><a href="schedule/#w8" target="_blank">{{ site.week-08-topic }}</a>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w8" target="_blank">{{ site.week-08-topic }}</a>
 </td>
 </tr>
 <tr>
 <td markdown="span">9</td>
 <td markdown="span">{{ site.week-09 }}</td>
-<td markdown="span"><a href="schedule/#w9" target="_blank">{{ site.week-09-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w9" target="_blank">{{ site.week-09-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">10</td>
 <td markdown="span">{{ site.week-10 }}</td>
-<td markdown="span"><a href="schedule/#w10" target="_blank">{{ site.week-10-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w10" target="_blank">{{ site.week-10-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">11</td>
 <td markdown="span">{{ site.week-11 }}</td>
-<td markdown="span"><a href="schedule/#w11" target="_blank">{{ site.week-11-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w11" target="_blank">{{ site.week-11-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">{{ site.week-12 }}</td>
-<td markdown="span"><a href="schedule/#w12" target="_blank">{{ site.week-12-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w12" target="_blank">{{ site.week-12-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">13</td>
 <td markdown="span">{{ site.week-13 }}</td>
-<td markdown="span"><a href="schedule/#w13" target="_blank">{{ site.week-13-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w13" target="_blank">{{ site.week-13-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">{{ site.week-14 }}</td>
-<td markdown="span"><a href="schedule/#w14" target="_blank">{{ site.week-14-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w14" target="_blank">{{ site.week-14-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">15</td>
 <td markdown="span">{{ site.week-15 }}</td>
-<td markdown="span"><a href="schedule/#w15" target="_blank">{{ site.week-15-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w15" target="_blank">{{ site.week-15-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">16</td>
 <td markdown="span">{{ site.week-16 }}</td>
-<td markdown="span"><a href="schedule/#w16" target="_blank">{{ site.week-16-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w16" target="_blank">{{ site.week-16-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">17</td>
 <td markdown="span">{{ site.week-17 }}</td>
-<td markdown="span"><a href="schedule/#w17" target="_blank">{{ site.week-17-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w17" target="_blank">{{ site.week-17-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">18</td>
 <td markdown="span">{{ site.week-18 }}</td>
-<td markdown="span"><a href="schedule/#w18" target="_blank">{{ site.week-18-topic }}</a></td>
+<td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/schedule/#w18" target="_blank">{{ site.week-18-topic }}</a></td>
 </tr>
 </tbody>
 </table>
@@ -458,7 +474,16 @@ I understand the value of personal integrity and ethical behavior in all aspects
 </tbody>
 </table>
 </div>  
+
 _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB.](/MUS218A-Soundscapes-FA2025/grading/){:target="_blank"}_  
+
+### 6.1 Creative Exploration and Freedom    
+
+Electronic music has always thrived outside the rigid confines of pre-determined stylistic, genre, and aesthetic classifications. Popular and Classical idioms represent just a _small fraction of possible approaches_ to the abstract and limitless potential of carefully crafted and _designed sound_. In this course, _strive to avoid letting any such idioms dominate your project work_. While you are welcome and encouraged to draw inspiration from these traditions, our focus is not on faithfully reproducing any of them — whether that means adhering strictly to pop song forms or using a synthesizer to “imitate” an orchestra or a sonata. The history of this music teaches us that it has always been a site of experimentation, invention, and reimagining, often pioneered by those who saw and heard the world differently — especially those from marginalized backgrounds.    
+
+The expectation here is twofold: first, that you **engage with the new practices and techniques we study**, and second, that you **challenge yourself to produce work you might not be allowed (or inclined) to make in other settings**. The truth is there are very few opportunities in life to be rewarded for this level of aesthetic risk-taking. Think of this class as a laboratory where you are free to step outside familiar frameworks and create something you’ve never attempted before. Your projects should demonstrate openness and an experimental and free spirit when it comes to creating and shaping sound material — whether that means creating your first granular etude, your first experiences with multichannel sound, or even just using a sampler in an unconventional way. Despite that we study works and artists in this class who are known for their reinforcement of certain aesthetic norms, it should be understood that a remix project of the type described in _A Remix Manifesto_, for example, would be inappropriate as a final statement in this class. But then so would a project that treats a synthesizer (which can do anything we want if we design it carefully) as an acoustic instrument producing the highly predictable pure tones and typical patterns of an acoustic instrument.    
+
+As you develop material for your project, feel free to check in with me about the direction you're heading in, or any ideas that you feel strongly or weary about. A discussion and reflection can usually provide clarity in this area. You can even welcome feedback from your classmates as well, if you wish.     
 
 ## 7. Student Services    
 
