@@ -190,11 +190,8 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 ### Friday 9/12  
 
 #### Class Visit   
-* [Christopher Schiff, Music & Arts Librarian](https://libguides.bates.edu/Chris_Schiff){:target="_blank"} _(and composer, tape op, researcher, and more)_     
 
-* [John Cage, _Rozart Mix_ (1965, this realization from 1988)](https://youtu.be/AdpjnGrouKI?t=2859){:target="_blank"} _(This video should queue from 47:39 in the video.)_   
-    
-{% include video id="AdpjnGrouKI?t=2859" provider="youtube" %}  
+_We will meet in the studio and later go downstairs to the Gamelan room for a brief demonstration._
 
 * [Alice Shields, _Study for Voice and Tape_ (1968)](https://youtu.be/0OO0X9cqug8?feature=shared){:target="_blank"}   
     
@@ -221,6 +218,14 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 ### <span style="color: #fc3a52;">{{ site.week-03-topic }}</span>    
 
 ### Monday 9/15   
+
+#### Class Visit   
+
+* [Christopher Schiff, Music & Arts Librarian](https://libguides.bates.edu/Chris_Schiff){:target="_blank"} _(and composer, tape op, researcher, and more)_     
+
+* [John Cage, _Rozart Mix_ (1965, this realization from 1988)](https://youtu.be/AdpjnGrouKI?t=2859){:target="_blank"} _(This video should queue from 47:39 in the video.)_   
+    
+{% include video id="AdpjnGrouKI?t=2859" provider="youtube" %}  
 
 #### Tutorials  
 * [Introduction to MIDI: What is MIDI? (Slides 1-24)](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
