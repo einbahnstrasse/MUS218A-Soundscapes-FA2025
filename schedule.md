@@ -73,11 +73,16 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 #### Demonstrations     
 * Introduction to Reaper    
 
+#### Tutorials   
+* [12+ Different Types of Microphones](https://decibelpeak.com/types-of-microphones/#summary-12-different-types-of-microphones){:target="_blank"}  
+
 #### Video Tutorials  
 * [A Quick Guide to Microphones](https://youtu.be/PE6Qn4ZiEyo?si=r3j0GYwarIWruiht){:target="_blank"}  
-{% include video id="PE6Qn4ZiEyo" provider="youtube" %}  
 
+{% include video id="PE6Qn4ZiEyo" provider="youtube" %}  
+    
 * [What is a Microphone Polar Pattern?](https://youtu.be/dOr9uQifsO4?si=XDG6-qGe51yMgVdU){:target="_blank"}  
+
 {% include video id="dOr9uQifsO4" provider="youtube" %}  
 
 * [Split and Glue Audio Clips in Reaper](https://youtu.be/3u470I76KJo?si=gRgcN6XOP0z5rlX9){:target="_blank"}  
@@ -427,9 +432,6 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 #### Tutorials  
 
-* [12+ Different Types of Microphones](https://decibelpeak.com/types-of-microphones/#summary-12-different-types-of-microphones){:target="_blank"}  
-
-
 ###    
 
 * * *  
@@ -468,16 +470,16 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 
 <!-- * [Microphone, Speakfer, and Cable Types](#){:target="_blank"}   -->  
 
-* Sampling Theorem and the Nyquist Frequency   
+<!-- * Sampling Theorem and the Nyquist Frequency   
 {% include video id="vrXGaFV1AmE" provider="youtube" %}  
 
 _Choose auto-generated German translations of subtitles if it would help:_  
 
-<img src="/MUS218A-Soundscapes-FA2025/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200"> -->
 <!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
 
-#### Assignments  
-* <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span> 
+<!-- #### Assignments  
+* <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  -->
   
 ###    
 
@@ -495,14 +497,14 @@ _Choose auto-generated German translations of subtitles if it would help:_
 #### Assignments    
 * [Composite Timbre Etude (due at the start of Week 10)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}  
    
-#### Tutorials  
+<!-- #### Tutorials  
 * Fundamentals of musique concrete   
 _A review of the essential Reaper techniques we learned earlier this semester._   
 {% include video id="snQl-HyeeHc" provider="youtube" %}  
 
 #### Assignments  
 * <span style="color: red;"><em>Work on material for your Final Project.</em></span> 
-<span style="color: red;"><em>Install SpatGRIS before Week 9! (See Software + Resource page.)</em></span>  
+<span style="color: red;"><em>Install SpatGRIS before Week 9! (See Software + Resource page.)</em></span>   -->
 
 ###    
 
@@ -523,13 +525,13 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 
 ### Friday 10/31   
 
-_Class will be held in the **Spatial Audio Lab** of the Digital Learning Campus, in the old Karstadt building, located at Königstraße 54 in the_ [**Übergangshaus**](http://xn--bergangshaus-clb.de/){:target="_blank"}. _Click on the map below for directions. Take the escalator to the 2nd floor and find the Spatial Audio Lab._   
+<!-- _Class will be held in the **Spatial Audio Lab** of the Digital Learning Campus, in the old Karstadt building, located at Königstraße 54 in the_ [**Übergangshaus**](http://xn--bergangshaus-clb.de/){:target="_blank"}. _Click on the map below for directions. Take the escalator to the 2nd floor and find the Spatial Audio Lab._    -->
   
-<div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=%C3%9Cbergangshaus,%20K%C3%B6nigstra%C3%9Fe%2054,%2023552%20L%C3%BCbeck+(Digital%20Learning%20Campus)&amp;t=h&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps trackers</a></iframe></div>    
+<!-- <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=%C3%9Cbergangshaus,%20K%C3%B6nigstra%C3%9Fe%2054,%2023552%20L%C3%BCbeck+(Digital%20Learning%20Campus)&amp;t=h&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps trackers</a></iframe></div>     -->
 
 <!-- source: https://www.maps.ie/create-google-map/ -->
   
-#### Downloads     
+<!-- #### Downloads     
 * [Boiler Audio Files for Spatialization](https://github.com/einbahnstrasse/MHL-intro-spat){:target="_blank"}  
 
 #### Tutorials  
@@ -541,7 +543,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 #### Assignments  
 * <span style="color: red;"><em>Deadline for <a href="/MUS218A-Soundscapes-FA2025/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
-* <span style="color: red;">Install MaxMSP before Week 10 <em>(See Resources page for instructions).</em></span>  
+* <span style="color: red;">Install MaxMSP before Week 10 <em>(See Resources page for instructions).</em></span>   -->
 
 ###    
 
@@ -559,16 +561,16 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ### Friday 11/7   
 
-#### Tutorials   
+<!-- #### Tutorials   
 * ['Mixing Secrets' Multitrack Library](https://cambridge-mt.com/ms/mtk-newbies/#EntryLevel){:target="_blank"}  
 * [Mixing Instruments by Frequency Range:](https://imbat.wordpress.com/2017/06/05/music-instrument-freqencies/){:target="_blank"}  
 
 <img src="/MUS218A-Soundscapes-FA2025/assets/images/eq-chart-1.png" alt="Mixing Instruments by Frequency Range">
 
 #### Downloads     
-* [Boiler Audio Files for MaxMSP](https://github.com/einbahnstrasse/MHL-SM-sounds-v01){:target="_blank"}    
+* [Boiler Audio Files for MaxMSP](https://github.com/einbahnstrasse/MHL-SM-sounds-v01){:target="_blank"}     -->
 
-#### Assignments  
+<!-- #### Assignments   -->
 <!-- * <span style="color: red;">Install SPEAR before Week 11 <em>(See Resources page for instructions).</em></span>  -->
 
 ###    
@@ -584,9 +586,9 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ### Friday 11/14   
 
-#### Tutorials  
+<!-- #### Tutorials  
 * Introduction to Max (33 minutes) _(make the patches as demonstrated in the video tutorial below:)_  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DpKIQzjOh_U?si=jk0aRsoD2WTIqm4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DpKIQzjOh_U?si=jk0aRsoD2WTIqm4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 #### Assignments  
 

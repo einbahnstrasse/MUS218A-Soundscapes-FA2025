@@ -149,10 +149,10 @@ week-11: 10 Nov.
 week-12: 17 Nov.  
 week-13: 24 Nov.  
 week-14: 1 Dec.  
-week-15: 8 Dec. (finals week)  
-week-16: N/A  
-week-17: N/A  
-week-18: N/A   
+week-15: 8 Dec.   
+# week-16: N/A  
+# week-17: N/A  
+# week-18: N/A   
 
 week-01-topic: What is Sound?   
 week-02-topic: Sound File Treatments + Early Tape Music           
@@ -162,16 +162,16 @@ week-05-topic: Micromontage + Field Recording
 week-06-topic: Synth Plugins, Emulators, Microtonality         
 week-07-topic: Modular Synthesis               
 week-08-topic: Frequency Domain Analysis/Resynthesis       
-week-09-topic:                 
-week-10-topic: Multichannel Spatial Audio             
-week-11-topic: Introduction to MaxMSP                  
-week-12-topic: MaxMSP Filtering    
-week-13-topic:        
-week-14-topic: Max-for-Live (Part 1)        
-week-15-topic: Max-for-Live (Part 2)         
-week-16-topic: Modular Synthesis (Part 2) in VCV Rack      
-week-17-topic: Modular Synthesis (Part 3) in VCV Rack     
-week-18-topic: Listening Session (Final Projects)     
+week-09-topic: Multichannel Spatial Audio                
+week-10-topic: TBD             
+week-11-topic: TBD                  
+week-12-topic: TBD    
+week-13-topic: TBD       
+week-14-topic: Final Concert + Exam            
+week-15-topic: Finals Week            
+# week-16-topic: Modular Synthesis (Part 2) in VCV Rack      
+# week-17-topic: Modular Synthesis (Part 3) in VCV Rack     
+# week-18-topic: Listening Session (Final Projects)     
 
 # language plugin settings   
 
