@@ -20,7 +20,7 @@ last_modified_at: 2025-08-25
 
 ---
 
-_This page will be updated frequently with examples, video tutorials, links to new resources, and occasional updates to LAB ASSIGNMENTS. Our schedule follows the [Current Bates Academic Calendar]({{ site.Bates-calendar }}){:target="_blank"}. **The following topics and their precise order may change**. Check frequently for updates!_  
+_Our precise order of topics and their accompanying materials will periodically change and/or be updated, at the discretion of the instructor, based on class pacing and other factors. Schedule and materials will be regularly updated on this website and announced in class. Changes to, or additions of, recordings, readings, or videos may be appended to this current schedule below. Additional materials will be distributed on this website or in class. Our schedule follows the [Current Bates Academic Calendar]({{ site.Bates-calendar }}){:target="_blank"}. Check frequently for updates!_  
 
 ## Calendar of Deadlines    
 
