@@ -59,7 +59,7 @@ That means **becoming an expert listener** is all about learning to actively tur
 * * *    -->
 
 ## Deadline  
-**Week 3: {{ site.week-03 }}**  
+**Due at the start of Week 2: {{ site.week-02 }}**  
 
 ---
 
