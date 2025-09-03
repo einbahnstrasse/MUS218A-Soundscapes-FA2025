@@ -110,7 +110,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 - `plosives`  
 - `sibilance`  
   
-###    
+### &nbsp;     
 
 * * *  
 
@@ -237,7 +237,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 <!-- * <span style="color: red;"><em>Install VCV Rack before Week 3! (See Software + Resource page.)</em></span>   -->      
    
-###    
+### &nbsp;     
 
 * * *  
 
@@ -355,7 +355,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * <span style="color: red;"><em>Deadline to email proposed planned absences for the semester to the instructor.</em></span>  
    -->
 
-###    
+### &nbsp;     
 
 * * *  
 
@@ -395,7 +395,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * Watch the following video and build automation into your 3-Minute Sketch: [Automation in Reaper and Ableton Live](https://youtu.be/l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M){:target="_blank"}   
 {% include video id="l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M" provider="youtube" %}   -->
   
-###    
+### &nbsp;     
 
 * * *  
 
@@ -417,7 +417,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 #### Tutorials  
 * [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 
-###    
+### &nbsp;     
 
 * * *  
 
@@ -432,7 +432,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 #### Tutorials  
 
-###    
+### &nbsp;     
 
 * * *  
 
@@ -481,7 +481,7 @@ _Choose auto-generated German translations of subtitles if it would help:_
 <!-- #### Assignments  
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  -->
   
-###    
+### &nbsp;     
 
 * * *  
 
@@ -506,7 +506,7 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 * <span style="color: red;"><em>Work on material for your Final Project.</em></span> 
 <span style="color: red;"><em>Install SpatGRIS before Week 9! (See Software + Resource page.)</em></span>   -->
 
-###    
+### &nbsp;     
 
 * * *  
 
@@ -545,7 +545,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * <span style="color: red;"><em>Deadline for <a href="/MUS218A-Soundscapes-FA2025/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 * <span style="color: red;">Install MaxMSP before Week 10 <em>(See Resources page for instructions).</em></span>   -->
 
-###    
+### &nbsp;     
 
 * * *  
 
@@ -573,7 +573,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 <!-- #### Assignments   -->
 <!-- * <span style="color: red;">Install SPEAR before Week 11 <em>(See Resources page for instructions).</em></span>  -->
 
-###    
+### &nbsp;     
 
 * * *  
 
@@ -592,7 +592,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 #### Assignments  
 
-###    
+### &nbsp;     
 
 * * *  
 
@@ -611,7 +611,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 #### Tutorials  
 
-###    
+### &nbsp;     
 
 * * *  
 
@@ -622,7 +622,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 _No classes this week!_    
 
-###    
+### &nbsp;     
 
 * * *  
 
@@ -644,7 +644,7 @@ _Last day of class._
 
 * [Final Written Exam](/MUS218A-Soundscapes-FA2025/assignments/final-exam/){:target="_blank"}  
    
-###    
+### &nbsp;     
 
 * * *  
 
@@ -657,7 +657,7 @@ _Last day of class._
 
 * [Technical Rider of Your Wildest Dreams](/MUS218A-Soundscapes-FA2025/assignments/tech-rider/){:target="_blank"}  
 
-###    
+### &nbsp;     
 
 * * *  
 
@@ -672,7 +672,7 @@ _Last day of class._
 ### Assignments  
 
 
-###    
+### &nbsp;     
 
 * * *  
 
@@ -687,7 +687,7 @@ _Last day of class._
 ### Assignments  
 
 
-###    
+### &nbsp;     
 
 * * *  
   
