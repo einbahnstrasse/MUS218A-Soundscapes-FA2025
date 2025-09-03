@@ -20,6 +20,22 @@ last_modified_at: 2025-08-25
 
 ---
 
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.11.0/css/flag-icons.min.css"/>
+
+<div class="lang-sidebar">
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% for page in pages %}
+    <li class="zoom"><a href="{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
+  {% endfor %}
+</div>
+
+<div class="top-h1-icon">
+  <i class="fas fa-bell fa-2x"></i>
+</div> -->
+
+<!-- <img src="/Goldford-MTEC1003/assets/organized.gif" alt="organized" width="400" align="right"> -->
+
+<!-- # Schedule -->
 _This page will be updated frequently with examples, video tutorials, links to new resources, and occasional updates to LAB ASSIGNMENTS. Our schedule follows the [Current Bates Academic Calendar]({{ site.Bates-calendar }}){:target="_blank"}. **The following topics and their precise order may change**. Check frequently for updates!_  
 
 ## Calendar of Deadlines    
@@ -212,8 +228,12 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 * `envelope` or `ADSR envelope` (i.e., _attack, decay, sustain, release_)    
 * `timbral blurring`   
 
+<!-- * [_Sisters With Transisters_ (2021, dir. Lisa Rovner)](https://video-alexanderstreet-com.lprx.bates.edu/watch/sisters-with-transistors){:target="_blank"} _(Login with your Bates password to access this documentary film.)_    -->
+   
 #### Assignments  
-* _Reminder: Finish Microphone assignments by Monday!_      
+* _Reminder: Finish Microphone assignments by Monday!_   
+
+<!-- * <span style="color: red;"><em>Install VCV Rack before Week 3! (See Software + Resource page.)</em></span>   -->      
    
 * * *  
 
@@ -298,6 +318,39 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 * `.mid file`    
 * `general MIDI`    
 
+<!-- #### Warmup Quiz    
+* [Quiz on Slide Content Covered Through Week 3 _(in English and German; distributed at the beginning of class)_](https://forms.gle/Qz2qKpMdZeoyjisB9){:target="_blank"}   -->
+  
+<!-- #### Tutorials  
+* [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+* [Understanding the Piezoelectric Effect of Crystal Oscillators](https://youtu.be/_XABS0dR15o?si=5X4u9oqXqkH3GXco){:target="_blank"}  
+   
+{% include video id="_XABS0dR15o?si=5X4u9oqXqkH3GXco" provider="youtube" %}  
+   
+* [What is Modular Synthesis? Ask Mort...](https://youtu.be/2IIOdxgQurM?si=bsHEJEoHGjL8MP5d){:target="_blank"}  
+   
+{% include video id="2IIOdxgQurM?si=bsHEJEoHGjL8MP5d" provider="youtube" %}  
+   
+##### Reaper Tutorial Videos  
+* [Create Automation Envelopes](https://youtu.be/VNWfCbmhGU4?si=SATu3kkzxV1dj7x9){:target="_blank"}  
+
+{% include video id="VNWfCbmhGU4" provider="youtube" %}  
+
+* [Read vs. Trim/Read Automation Modes](https://youtu.be/fC5xlDrjTIA?si=T6-wtu8yBAbETw3z){:target="_blank"}  
+
+{% include video id="fC5xlDrjTIA" provider="youtube" %}  
+
+_This is a 20-minute video and is only offered "for reference." **You don't have to watch the whole video (below)**, but check this out for useful plugins that you might want to explore in your piece!_   
+
+* [10 Of The BEST Free Plugins You Should Know for Sound Design 🎧](https://youtu.be/i9nqxqkk_tc?si=LULthBuyMJrToVg1){:target="_blank"}  
+
+{% include video id="i9nqxqkk_tc" provider="youtube" %}  
+
+#### Assignments  
+* <span style="color: red;"><em>Deadline for Auditory Vantage Point assignment.</em></span>  
+* <span style="color: red;"><em>Deadline to email proposed planned absences for the semester to the instructor.</em></span>  
+   -->
+
 * * *  
 
 ## Week 4: {{ site.week-04 }}  
@@ -317,6 +370,24 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 ### Wednesday 9/24  
 
 ### Friday 9/26   
+
+<!-- #### Video Tutorials  
+* [Common types of audio cables and their uses](https://youtu.be/617z88J8060?si=LMRDTIkWgeWa6Z3o){:target="_blank"}  
+{% include video id="617z88J8060" provider="youtube" %}  
+
+* [Balanced vs unbalanced audio cables](https://youtu.be/UQPJYWA5Y-o?si=5snyg7mI2trGJqWf){:target="_blank"}  
+{% include video id="UQPJYWA5Y-o" provider="youtube" %}  
+
+* [What Does a Comb Filter Sound Like?](https://youtu.be/osig1c4QcmI?si=dKy_F78qp0uB08XD){:target="_blank"}  
+{% include video id="osig1c4QcmI" provider="youtube" %}  
+
+##### Download + Install        
+* [PaulXStretch](https://sonosaurus.com/paulxstretch/){:target="_blank"}  
+   
+#### Assignments  
+* Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MUS218A-Soundscapes-FA2025/midterm/){:target="_blank"}   
+* Watch the following video and build automation into your 3-Minute Sketch: [Automation in Reaper and Ableton Live](https://youtu.be/l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M){:target="_blank"}   
+{% include video id="l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M" provider="youtube" %}   -->
   
 * * *  
 
@@ -371,6 +442,32 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 ### Friday 10/17   
 _Fall Recess: No class!_    
 _Reminder: Your next assignment is due on Monday, October 27!_   
+
+<!-- #### Warmup Quiz    
+* [Quiz on Slide Content Covered Through Week 7 _(in English and German; distributed at the beginning of class)_](https://forms.gle/DyD2ySciRGJiCqZ77){:target="_blank"}   -->
+  
+<!-- #### Tutorials  
+* Introduction to SPEAR   
+{% include video id="123cSokYIDo" provider="youtube" %}  
+
+* [What is a Fourier Series?](https://youtu.be/ds0cmAV-Yek?si=WDfRKnsOxzmv4k_P){:target="_blank"}  
+{% include video id="ds0cmAV-Yek?si=WDfRKnsOxzmv4k_P" provider="youtube" %}  
+
+* [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-91) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+* [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}   -->
+
+<!-- * [Microphone, Speakfer, and Cable Types](#){:target="_blank"}   -->  
+
+<!-- * Sampling Theorem and the Nyquist Frequency   
+{% include video id="vrXGaFV1AmE" provider="youtube" %}  
+
+_Choose auto-generated German translations of subtitles if it would help:_  
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200"> -->
+<!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
+
+<!-- #### Assignments  
+* <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  -->
   
 * * *  
 
@@ -385,6 +482,15 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 
 #### Assignments    
 * [Composite Timbre Etude (due at the start of Week 10)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}  
+   
+<!-- #### Tutorials  
+* Fundamentals of musique concrete   
+_A review of the essential Reaper techniques we learned earlier this semester._   
+{% include video id="snQl-HyeeHc" provider="youtube" %}  
+
+#### Assignments  
+* <span style="color: red;"><em>Work on material for your Final Project.</em></span> 
+<span style="color: red;"><em>Install SpatGRIS before Week 9! (See Software + Resource page.)</em></span>   -->
 
 * * *  
 
@@ -403,6 +509,26 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 
 ### Friday 10/31   
 
+<!-- _Class will be held in the **Spatial Audio Lab** of the Digital Learning Campus, in the old Karstadt building, located at Königstraße 54 in the_ [**Übergangshaus**](http://xn--bergangshaus-clb.de/){:target="_blank"}. _Click on the map below for directions. Take the escalator to the 2nd floor and find the Spatial Audio Lab._    -->
+  
+<!-- <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=%C3%9Cbergangshaus,%20K%C3%B6nigstra%C3%9Fe%2054,%2023552%20L%C3%BCbeck+(Digital%20Learning%20Campus)&amp;t=h&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps trackers</a></iframe></div>     -->
+
+<!-- source: https://www.maps.ie/create-google-map/ -->
+  
+<!-- #### Downloads     
+* [Boiler Audio Files for Spatialization](https://github.com/einbahnstrasse/MHL-intro-spat){:target="_blank"}  
+
+#### Tutorials  
+* [Ellen Fullman’s Long String Instrument](https://scottcolburn.com/blog/?p=5445){:target="_blank"}  
+* Aliasing     
+{% include video id="91PKZllbgds" provider="youtube" %}  
+
+_Choose auto-generated German translations of subtitles if it would help. (See example image above in Week 6.)_  
+
+#### Assignments  
+* <span style="color: red;"><em>Deadline for <a href="/MUS218A-Soundscapes-FA2025/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
+* <span style="color: red;">Install MaxMSP before Week 10 <em>(See Resources page for instructions).</em></span>   -->
+
 * * *  
 
 ## Week 10: {{ site.week-10 }}  
@@ -417,6 +543,18 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 
 ### Friday 11/7   
 
+<!-- #### Tutorials   
+* ['Mixing Secrets' Multitrack Library](https://cambridge-mt.com/ms/mtk-newbies/#EntryLevel){:target="_blank"}  
+* [Mixing Instruments by Frequency Range:](https://imbat.wordpress.com/2017/06/05/music-instrument-freqencies/){:target="_blank"}  
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/eq-chart-1.png" alt="Mixing Instruments by Frequency Range">
+
+#### Downloads     
+* [Boiler Audio Files for MaxMSP](https://github.com/einbahnstrasse/MHL-SM-sounds-v01){:target="_blank"}     -->
+
+<!-- #### Assignments   -->
+<!-- * <span style="color: red;">Install SPEAR before Week 11 <em>(See Resources page for instructions).</em></span>  -->
+
 * * *  
 
 ## Week 11: {{ site.week-11 }}  
@@ -427,6 +565,10 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 ### Wednesday 11/12   
 
 ### Friday 11/14   
+
+<!-- #### Tutorials  
+* Introduction to Max (33 minutes) _(make the patches as demonstrated in the video tutorial below:)_  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DpKIQzjOh_U?si=jk0aRsoD2WTIqm4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 #### Assignments  
 
@@ -489,3 +631,41 @@ _Last day of class._
 
 * * *  
 
+<!-- ## Week 16: {{ site.week-16 }}  
+### <span style="color: #fc3a52;">{{ site.week-16-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
+
+### Tutorials  
+
+### Assignments  
+
+
+* * *  
+
+## Week 17: {{ site.week-17 }}  
+### <span style="color: #fc3a52;">{{ site.week-17-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
+
+### Tutorials  
+
+### Assignments  
+
+
+* * *  
+  
+## Week 18: {{ site.week-18 }}  
+### <span style="color: #fc3a52;">{{ site.week-18-topic }}</span>    
+### Monday   
+### Wednesday   
+### Friday   
+
+### Tutorials  
+
+### Assignments  
+
+* * *
+ -->
