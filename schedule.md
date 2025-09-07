@@ -373,7 +373,8 @@ _We will meet in the studio and later go downstairs to the Gamelan room for a br
 
 #### Assignments    
 * [Midterm 3-Minute Sketch (due at the start of Week 9)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
-
+* [Composite Timbre Etude (due at the start of Week 10)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
+   
 ### Wednesday 10/15  
 _Fall Recess: No class!_   
 _Reminder: Your next assignment is due on Monday, October 27!_   
@@ -394,9 +395,6 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 ### Wednesday 10/22    
 
 ### Friday 10/24   
-
-#### Assignments    
-* [Composite Timbre Etude (due at the start of Week 10)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}  
 
 * * *  
 
