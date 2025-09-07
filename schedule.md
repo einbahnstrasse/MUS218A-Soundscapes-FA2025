@@ -142,7 +142,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 ### Wednesday 9/10  
 
 #### Tutorials and Slides  
-* [Introduction to Digital Audio: Analogue vs. Digital (Slides 15-27)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+* [Introduction to Digital Audio: Analogue vs. Digital (Slides 15-27)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/15){:target="_blank"}  
 
 #### Listening     
 * [Xenakis, *Concret PH* (1958)](https://youtu.be/S9zMaIhuMgo?si=T0V5lgxdrIZAdSAh){:target="_blank"}  
@@ -314,7 +314,7 @@ _We will meet in the studio and later go downstairs to the Gamelan room for a br
 * [Sampling the Gamelan](/MUS218A-Soundscapes-FA2025/assignments/sampling-gamelan/){:target="_blank"}   
 
 #### Tutorials  
-* [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+* [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 28-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/28){:target="_blank"}  
 
 #### Assignments   
 * [XLR Cable Coiling (due at the start of Week 5)](/MUS218A-Soundscapes-FA2025/assignments/xlr-cable-coiling/){:target="_blank"} 
@@ -333,15 +333,20 @@ _We will meet in the studio and later go downstairs to the Gamelan room for a br
 #### Deadlines    
 * [XLR Cable Coiling](/MUS218A-Soundscapes-FA2025/assignments/xlr-cable-coiling/){:target="_blank"} 
 
+#### Tutorials  
+
+* [Introduction to Digital Audio: Synthesis & Found Sounds (Slides 80-89) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/80){:target="_blank"}  
+
 #### Assignments   
 * [Field Recording + Micromontage Etude (due at the start of Week 7)](/MUS218A-Soundscapes-FA2025/assignments/micromontage-field-recording-etude/){:target="_blank"} 
 
 ### Wednesday 10/1   
 
+* [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/53){:target="_blank"}  
+
+
 ### Friday 10/3   
 
-#### Tutorials  
-* [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 
 * * *  
 
@@ -383,6 +388,8 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 ### <span style="color: #fc3a52;">{{ site.week-08-topic }}</span>    
 
 ### Monday 10/20     
+
+* [A Very Rough, Arguably Stupid Intro. to Sound + Spectrograms](/https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/90){:target="_blank"}   
 
 ### Wednesday 10/22    
 
