@@ -201,7 +201,7 @@ _We will meet in the studio and later go downstairs to the Gamelan room for a br
 * Shields, Alice. “Timbre, Envelope and Variation in Electroacoustic Music.” _NewMusicBox_, June 23, 2016. Accessed August 8, 2025. [http://www.newmusicbox.org/articles/timbre-envelope-and-variation-in-electroacoustic-music](http://www.newmusicbox.org/articles/timbre-envelope-and-variation-in-electroacoustic-music){:target="_blank"}   
 * Shields, Alice. “Structural and Playback Issues in Current Electroacoustic Music.” _NewMusicBox_, June 9, 2016. Accessed August 8, 2025. [http://www.newmusicbox.org/articles/structural-and-playback-issues-in-current-electroacoustic-music/](http://www.newmusicbox.org/articles/structural-and-playback-issues-in-current-electroacoustic-music/){:target="_blank"}     
    
-#### Terms, Concepts, Objects, Shortcuts    
+#### Terms, Concepts, Objects, Shortcuts     
 * `microstructure`   
 * `macrostructure`   
 * `structural clarity`    
@@ -221,6 +221,12 @@ _We will meet in the studio and later go downstairs to the Gamelan room for a br
 
 #### Class Visit   
 
+#### Reading   
+* [The 4 Listening Modes](/MUS218A-Soundscapes-FA2025/assets/docs/Emergent.Musical.Forms.v01a.listening.modes.pdf){:target="_blank"}   
+
+
+#### Class Visit        
+
 * [Christopher Schiff, Music & Arts Librarian](https://libguides.bates.edu/Chris_Schiff){:target="_blank"} _(and composer, tape op, researcher, and more)_     
 
 * [John Cage, _Rozart Mix_ (1965, this realization from 1988)](https://youtu.be/AdpjnGrouKI?t=2859){:target="_blank"} _(This video should queue from 47:39 in the video.)_   
@@ -237,21 +243,15 @@ _We will meet in the studio and later go downstairs to the Gamelan room for a br
 
 #### Demonstrations   
 * Overview on sampling, authorship, and sampling culture 
-* How to _record_ samples   
-* Check-out recording kits to each team 
+* Check-out recording kits to each team  
 
 #### Assignments    
 * [Sampling the Gamelan (due at the start of Week 4)](/MUS218A-Soundscapes-FA2025/assignments/sampling-gamelan/){:target="_blank"}   
 
 #### Terms, Concepts, Objects, Shortcuts    
-* `audio sample`   
-* `sampling culture`   
-* `key mapping`   
-* `gamelan`     
-* `MIDI tecnical standard`   
-* `MIDI events` and `messages`      
-* `MIDI pitch`   
-* `MIDI velocity`   
+* `direct listening` and the `audio-visual complex`     
+* `acousmatic sound`   
+* `reduced listening`      
    
 ### Wednesday 9/17    
 
@@ -263,7 +263,8 @@ _We will meet in the studio and later go downstairs to the Gamelan room for a br
 
 {% include video id="xyk-OVIOgAw?si=mReCi9FvnYZRQsJl" provider="youtube" %}  
 
-#### Demonstrations   
+#### Demonstrations  
+* How to _record_ samples   
 * How to _edit_ and _index_ audio samples using _naming conventions_    
 
 #### Watch Documentary     
@@ -272,6 +273,14 @@ _We will meet in the studio and later go downstairs to the Gamelan room for a br
 {% include video id="quO_Dzm4rnk?si=LxkK5Xiuy1yAsmlt" provider="youtube" %}  
 
 #### Terms, Concepts, Objects, Shortcuts    
+* `audio sample`   
+* `sampling culture`   
+* `key mapping`   
+* `gamelan`     
+* `MIDI tecnical standard`   
+* `MIDI events` and `messages`      
+* `MIDI pitch`   
+* `MIDI velocity`   
 * `naming convention`  
 * `5-pin DIN cable` 
 * `IN`, `OUT`, and `THRU`   
