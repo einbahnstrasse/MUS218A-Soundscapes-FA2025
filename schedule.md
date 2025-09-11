@@ -316,13 +316,67 @@ _We will meet in the studio and later go downstairs to the Gamelan room for a br
 #### Tutorials  
 * [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 28-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/28){:target="_blank"}  
 
+#### Tutorial Videos   
+* [Create Automation Envelopes](https://youtu.be/VNWfCbmhGU4?si=SATu3kkzxV1dj7x9){:target="_blank"}  
+
+{% include video id="VNWfCbmhGU4" provider="youtube" %}  
+
+#### Demonstrations    
+* setting up an FX send and an aux track   
+* reverb profiles and automation       
+
 #### Assignments   
 * [XLR Cable Coiling (due at the start of Week 5)](/MUS218A-Soundscapes-FA2025/assignments/xlr-cable-coiling/){:target="_blank"} 
 
+#### Terms, Concepts, Objects, Shortcuts    
+- `FX send`   
+- `auxiliary track`    
+- `pre-fader send`   
+- `automation modes`    
+
 ### Wednesday 9/24  
 
+* ['Mixing Secrets' Multitrack Library](https://cambridge-mt.com/ms/mtk-newbies/#EntryLevel){:target="_blank"}  
+* [Mixing Instruments by Frequency Range:](https://imbat.wordpress.com/2017/06/05/music-instrument-freqencies/){:target="_blank"}  
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/eq-chart-1.png" alt="Mixing Instruments by Frequency Range">
+
+#### Tutorial Videos   
+
+* [Read vs. Trim/Read Automation Modes](https://youtu.be/fC5xlDrjTIA?si=T6-wtu8yBAbETw3z){:target="_blank"}  
+
+{% include video id="fC5xlDrjTIA" provider="youtube" %}  
+    
+#### Demonstrations    
+* working with mono stems from a mix session (mix library)
+* how to achieve balance and clarity in a mix     
+* use of basic FX with automation in your mix session   
+* basic differences between mixing and mastering in context   
+
+#### Terms, Concepts, Objects, Shortcuts    
+- `stems`   
+- `tonal balance`    
+- `EQ`   
+- `pan`    
+
 ### Friday 9/26   
-  
+
+#### Tutorial Videos   
+
+* [10 Of The BEST Free Plugins You Should Know for Sound Design 🎧](https://youtu.be/i9nqxqkk_tc?si=LULthBuyMJrToVg1){:target="_blank"}  
+
+{% include video id="i9nqxqkk_tc" provider="youtube" %}  
+
+#### Demonstrations    
+* using compressors to further achieve clarity  
+* differences between compressors and limiters           
+* uses of compressors and limiters in context     
+
+#### Terms, Concepts, Objects, Shortcuts    
+- `compressor`   
+- `limiter`    
+- `brick wall`   
+    
 * * *  
 
 ## Week 5: {{ site.week-05 }}  
@@ -388,9 +442,20 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 ## Week 8: {{ site.week-08 }}  
 ### <span style="color: #fc3a52;">{{ site.week-08-topic }}</span>    
 
-### Monday 10/20     
+### Monday 10/20   
+
+#### Tutorials  
 
 * [A Very Rough, Arguably Stupid Intro. to Sound + Spectrograms](/https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/90){:target="_blank"}   
+
+* Introduction to SPEAR   
+{% include video id="123cSokYIDo" provider="youtube" %}  
+
+* [What is a Fourier Series?](https://youtu.be/ds0cmAV-Yek?si=WDfRKnsOxzmv4k_P){:target="_blank"}  
+{% include video id="ds0cmAV-Yek?si=WDfRKnsOxzmv4k_P" provider="youtube" %}  
+ 
+#### Download + Install        
+* [PaulXStretch](https://sonosaurus.com/paulxstretch/){:target="_blank"}  
 
 ### Wednesday 10/22    
 
