@@ -217,9 +217,7 @@ _We will meet in the studio and later go downstairs to the Gamelan room for a br
 ## Week 3: {{ site.week-03 }}  
 ### <span style="color: #fc3a52;">{{ site.week-03-topic }}</span>    
 
-### Monday 9/15   
-
-#### Class Visit   
+### Monday 9/15    
 
 #### Reading   
 * [The 4 Listening Modes](/MUS218A-Soundscapes-FA2025/assets/docs/Emergent.Musical.Forms.v01a.listening.modes.pdf){:target="_blank"}   
