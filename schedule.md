@@ -191,7 +191,19 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 
 #### Class Visit   
 
-_We will meet in the studio and later go downstairs to the Gamelan room for a brief demonstration._
+_We will meet in the studio and later go downstairs to the Gamelan room for a brief demonstration._  
+
+* [Gamelan Instruments](/MUS218A-Soundscapes-FA2025/assets/images/gamelan.instruments.cj.illustration.pdf){:target="_blank"}  
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/gamelan.instruments.cj.illustration.pdf" alt="Gamelan Instruments">
+
+
+#### Listening   
+
+* [Javanese gamelan: music and dance](https://youtu.be/HfrOSJRCsfM?si=qtcWy8OB4TCnUcUa){:target="_blank"}   
+    
+{% include video id="HfrOSJRCsfM?si=qtcWy8OB4TCnUcUa" provider="youtube" %}  
+
 
 * [Alice Shields, _Study for Voice and Tape_ (1968)](https://youtu.be/0OO0X9cqug8?feature=shared){:target="_blank"}   
     
