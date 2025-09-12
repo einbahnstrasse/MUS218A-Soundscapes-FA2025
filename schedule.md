@@ -194,8 +194,7 @@ Be sure you've completed the [Intro Survey](https://forms.gle/8S4dKUHVMZnUEicS9)
 _We will meet in the studio and later go downstairs to the Gamelan room for a brief demonstration._  
 
 * [Gamelan Instruments](/MUS218A-Soundscapes-FA2025/assets/images/gamelan.instruments.cj.illustration.pdf){:target="_blank"}  
-
-<!-- <img src="/MUS218A-Soundscapes-FA2025/assets/images/gamelan.instruments.cj.illustration.pdf" alt="Gamelan Instruments"> -->
+* [Introduction to Javanese Gamelan (Skim)](/MUS218A-Soundscapes-FA2025/assets/docs/Intro.gamelanSUMARSAM.pdf){:target="_blank"}  
    
 #### Listening   
 
