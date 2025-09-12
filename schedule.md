@@ -202,7 +202,7 @@ _We will meet in the studio and later go downstairs to the Gamelan room for a br
     
 {% include video id="HfrOSJRCsfM?si=qtcWy8OB4TCnUcUa" provider="youtube" %}  
 
-_Sari Raras_, the Javanese form of gamelan, accompanied by dancers. University of California, Berkeley, under the direction of Midiyanto, gamelan master.      
+_Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompanied by dancers. University of California, Berkeley, under the direction of Midiyanto, gamelan master.      
 
 * [Alice Shields, _Study for Voice and Tape_ (1968)](https://youtu.be/0OO0X9cqug8?feature=shared){:target="_blank"}   
     
