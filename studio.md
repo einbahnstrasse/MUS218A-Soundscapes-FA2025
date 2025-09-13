@@ -51,6 +51,19 @@ If you're unable to resolve a problem that comes up during your reserved session
 
 **If you run into trouble, document the steps you've taken and send us an email to report any unresolved issues before you leave the studio.**    
 
+### 1.1.3 Reaper Export Format    
+
+Whether you're working on your own laptop or one of our studio iMacs, to get the desired `sample rate` and `bit depth`, follow these guidelines. In Reaper, when you're ready to export your project and make a sound file, Go to **File > Render...** and make the following change to the values in the _Render to File_ options window that pops up next:     
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/reaper.export.v02.png" alt="Reaper export options">
+
+-**​A**: By default this should say "Entire project," so you shouldn't have to change it.   
+-​**B**: Your output sound file should be written to a dedicated folder that contains all files included in your project. The file path in this example is what it should look like if you're working on one of our studio iMacs (find the /CLASSES folder on the Desktop). But if you write to another location, not to worry: simply drag-and-drop your output file, wherever it is, into your project folder, after you "render" (i.e., write the file). Click on the "Browse" button (see red arrow) to navigate to a folder of your choosing.    
+-**C**: Change the sample rate to 48,000. By default, this might show 44,100 or something else.    
+-**D**: Change the bit depth to 24. By default, this might show 16 or something else.    
+-**E (optional)**: If you check this box, Reaper outputs a handy dandy webpage (.html file) that includes output statistics for how it writes your file.    
+-**F**: Last but not least, click this "Render" button to begin the file output. You'll see a kind of progress bar pop up that writes the waveform from left to write. This should only take a few seconds for a short file.    
+
 ## 1.2 Other Work Stations   
 
 ### 1.2.1 Sound Studio Macs    
