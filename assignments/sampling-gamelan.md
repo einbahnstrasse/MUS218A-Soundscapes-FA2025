@@ -83,7 +83,7 @@ _Tauson, Scarlett, Elias_
 - Gong #1   
 
 **TEAM 4: TCSM-1**    
-_Darius, Kieren, Ronan_         
+_Darius, Kieran, Ronan_         
 
 - Saron #7 , #8 , and #9    
 - Bonang #4    
