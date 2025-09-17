@@ -127,7 +127,7 @@ For **each pitch** of each instrument:
 - Record multiple **dynamic levels** (pp, mf, ff).  
 - Record multiple **note lengths** (short damped, sustained until resonance fades).  
 - Record different **excitation methods** (mallet types, muted vs. open, scrapes or rolls).  
-- Photograph and index the instruments and mallets or excitors that you use, which will be included with the sample library.   
+- **Photograph** and **index** the instruments and mallets or excitors that you use, which will be included with the sample library.   
     
 ### Step 4: Editing  
 - Import recordings into Reaper.  
@@ -156,8 +156,8 @@ By adhering strictly to this convention, we can write software that automaticall
 
 ### Step 6: Submission  
 - Create a folder for each instrument your team sampled, and put all samples and photos relating to that instrument inside this folder.  
-- Place your team’s files in a folder labeled: `TeamName_Instrument`.  
-- Submit to the shared class drive by the deadline.  
+- Place your team’s folders (containing all edited sounds and photos) into a single "master folder" labeled: `TeamName_Instrument`.  
+- Submit your team's _"master folder"_ to the shared class drive by the deadline.  
 - All teams’ files will be consolidated into a **master class sample library**.  
 
 ### Step 7: (Optional) Try Sampler   
