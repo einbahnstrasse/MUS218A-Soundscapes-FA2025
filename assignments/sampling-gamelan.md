@@ -4,7 +4,9 @@ title: "Sampling the Gamelan"
 lang: en
 ref: sampling-gamelan
 permalink: /assignments/sampling-gamelan/
-toc_icon: "graduation-cap"
+toc_icon: "graduation-cap"  
+toc: true  
+toc_sticky: true   # enables sticky toc  
 read_time: true
 date: 2025-08-27
 last_modified_at: 2025-08-27
