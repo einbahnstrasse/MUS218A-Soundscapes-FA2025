@@ -11,7 +11,7 @@ last_modified_at: 2025-08-27
 ---
 
 ## Deadline  
-**start of Week 4: {{ site.week-04 }}**   
+**start of Week 5: {{ site.week-05 }}**   
 
 ---
 
@@ -38,6 +38,80 @@ By completing this assignment, students will be able to:
 ### Step 1: Team Assignments  
 - The class will be divided into **teams**, each responsible for a group of gamelan instruments (e.g., saron, bonang, kenong, gongs).  
 - Each team ensures **all pitches** in their assigned group are recorded and indexed.  
+
+#### Teams and Instruments      
+
+See the photos with labeled instruments below. The teams are as follows, and the instruments are assigned to the following teams. Find the instrument(s) you will be recording in the photos that follow:     
+
+
+##### Teams    
+
+_Don't worry; everybody gets to record one of the gongs!_ Your Teams and instrument recording assignments are as follows:    
+
+**TEAM 1: TCSM-5**   
+_Mason, Hannah, Xucheng_   
+
+- Saron #1 and #2    
+- Bonang #1    
+- Kempul #4 and #5    
+- Gender #3 and #4      
+- Gambang #1    
+- Gong #1   
+
+**TEAM 2: TCSM-4**   
+_Noah, Drew, Nate_    
+
+- Saron #3 and #4    
+- Slenthem #1    
+- Bonang #2    
+- Kempul #6 and #7    
+- Gender #5 and #6      
+- Gambang #2    
+- Gong #2   
+
+**TEAM 3: TCSM-3**    
+_Tauson, Scarlett, Elias_        
+
+- Saron #5 , #6 , and #10      
+- Bonang #3    
+- Kenong #1   
+- Kempul #1 and #2   
+- Gambang #3  
+- Gong #1   
+
+**TEAM 4: TCSM-1**    
+_Darius, Kieren, Ronan_         
+
+- Saron #7 , #8 , and #9    
+- Bonang #4    
+- Kenong #2   
+- Kempul #8 and #9    
+- Gender #1 and #2   
+- Gong #2   
+
+##### Instruments        
+
+Find your instrument(s) assignments in these photos:  
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.gambang.v01.jpg" alt="gamelan.gambang.v01.jpg">
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.gender.jpg" alt="gamelan.gender.jpg">
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.kempul.gong.v01.jpg" alt="gamelan.kempul.gong.v01.jpg">
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.kempul.v01.jpg" alt="gamelan.kempul.v01.jpg">
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.kenong.v01.jpg" alt="gamelan.kenong.v01.jpg">
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.kenong.v02.jpg" alt="gamelan.kenong.v02.jpg">
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.slenthem.and.kenong.v01.jpg" alt="gamelan.slenthem.and.kenong.v01.jpg">
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamelan.slenthem.v01.jpg" alt="gamelan.slenthem.v01.jpg">
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/bates.gamelan.instruments/gamlean.bonang.jpg" alt="gamlean.bonang.jpg">
+
+
 
 ### Step 2: Recording Setup  
 - Use a recording kit checked out from the Bates Sound Studio.     
