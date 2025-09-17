@@ -255,7 +255,7 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 * Check-out recording kits to each team  
 
 #### Assignments    
-* [Sampling the Gamelan (due at the start of Week 4)](/MUS218A-Soundscapes-FA2025/assignments/sampling-gamelan/){:target="_blank"}   
+* [Sampling the Gamelan (due at the start of Week 5)](/MUS218A-Soundscapes-FA2025/assignments/sampling-gamelan/){:target="_blank"}   
 
 #### Terms, Concepts, Objects, Shortcuts    
 * `direct listening` and the `audio-visual complex`     
@@ -327,9 +327,6 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 ### <span style="color: #fc3a52;">{{ site.week-04-topic }}</span>    
 
 ### Monday 9/22   
-
-#### Deadlines    
-* [Sampling the Gamelan](/MUS218A-Soundscapes-FA2025/assignments/sampling-gamelan/){:target="_blank"}   
 
 #### Tutorials  
 * [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 28-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/28){:target="_blank"}  
@@ -403,7 +400,8 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 ### Monday 9/29  
 
 #### Deadlines    
-* [XLR Cable Coiling](/MUS218A-Soundscapes-FA2025/assignments/xlr-cable-coiling/){:target="_blank"} 
+* [XLR Cable Coiling](/MUS218A-Soundscapes-FA2025/assignments/xlr-cable-coiling/){:target="_blank"}    
+* [Sampling the Gamelan](/MUS218A-Soundscapes-FA2025/assignments/sampling-gamelan/){:target="_blank"}   
 
 #### Tutorials  
 
