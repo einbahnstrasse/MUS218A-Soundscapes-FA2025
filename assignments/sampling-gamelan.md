@@ -52,6 +52,7 @@ _Don't worry; everybody gets to record one of the gongs!_ Your Teams and instrum
 _Mason, Hannah, Xucheng_   
 
 - Saron #1 and #2    
+- Slenthem #1    
 - Bonang #1    
 - Kempul #4 and #5    
 - Gender #3 and #4      
@@ -62,7 +63,7 @@ _Mason, Hannah, Xucheng_
 _Noah, Drew, Nate_    
 
 - Saron #3 and #4    
-- Slenthem #1    
+- Slenthem #2    
 - Bonang #2    
 - Kempul #6 and #7    
 - Gender #5 and #6      
