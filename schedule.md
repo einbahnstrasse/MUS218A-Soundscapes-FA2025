@@ -341,6 +341,7 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 * reverb profiles and automation       
 
 #### Assignments   
+* Begin collecting a folder of audio samples to use next week. See the upcoming [Micromontage Etude Assignment](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/assignments/micromontage-field-recording-etude/#step-1-source-material){:target="_blank"} for more information.   
 * [XLR Cable Coiling (due at the start of Week 5)](/MUS218A-Soundscapes-FA2025/assignments/xlr-cable-coiling/){:target="_blank"} 
 
 #### Terms, Concepts, Objects, Shortcuts    
@@ -386,6 +387,9 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 * using compressors to further achieve clarity  
 * differences between compressors and limiters           
 * uses of compressors and limiters in context     
+
+#### Assignments     
+* _Download & install IRIN before Monday!_   
 
 #### Terms, Concepts, Objects, Shortcuts    
 - `compressor`   
@@ -457,7 +461,8 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 
 ### Friday 10/10    
 
-#### Tutorials  
+#### Assignments     
+* _Download & install SPEAR and PaulXStretch before Monday!_   
 
 * * *  
 

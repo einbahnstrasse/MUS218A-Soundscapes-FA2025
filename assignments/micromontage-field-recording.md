@@ -13,8 +13,8 @@ toc_label: "Assignment Contents" # default: Content
 toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the "fa" prefix
 toc_sticky: true   # enables sticky toc  
 read_time: true  
-date: 2025-08-25  
-last_modified_at: 2025-08-25  
+date: 2025-09-20  
+last_modified_at: 2025-09-20  
 
 ---
 
@@ -79,10 +79,6 @@ Study this playlist of IRIN video tutorials to familiarize yourself with the int
 * [IRIN Software Tutorials (YouTube Playlist)](https://www.youtube.com/playlist?list=PLvHcvpaNyRdOslCKi-NL-uO_dCZdIOwyW){:target="_blank"}  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=cvbUcrD7145Ax3PN&amp;list=PLvHcvpaNyRdOslCKi-NL-uO_dCZdIOwyW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<!-- - [IRIN Tutorial Playlist (YouTube)](https://www.youtube.com/playlist?list=IRIN_PLAYLIST_ID){:target="_blank"}   -->
-
-<!-- {% include video id="IRIN_PLAYLIST_ID" provider="youtube" %}   -->
 
 ---
 
