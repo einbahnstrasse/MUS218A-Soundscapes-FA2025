@@ -96,6 +96,16 @@ SPEAR is an application for audio analysis/resynthesis. We use SPEAR to “disse
 
 * * *   
 
+## IRIN    
+
+IRIN is a granular synthesis sequencer. It's kind of like Reaper (and you can actually connect it to Reaper), but it helps you organize extremely small samples (i.e., microsounds) into gestures and larger sequences. Use this to work on your micromontage assignments.  
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://irin.carloscaires.com/index.php/download" target="_blank" class="btn btn--primary">Download IRIN here.</a></span>   
+
+<img src="/MUS218A-Soundscapes-FA2025/assets/images/irin.timeline.gif" alt="IRIN interface">  
+
+* * *   
+
 ## MaxMSP      
 
 **CRITICAL: Do not download and install MaxMSP until the last month of classes!**
