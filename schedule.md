@@ -407,16 +407,44 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 
 * [Introduction to Digital Audio: Synthesis & Found Sounds (Slides 80-89) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/80){:target="_blank"}  
 
+* [IRIN Software Tutorials (YouTube Playlist)](https://www.youtube.com/playlist?list=PLvHcvpaNyRdOslCKi-NL-uO_dCZdIOwyW){:target="_blank"}  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=cvbUcrD7145Ax3PN&amp;list=PLvHcvpaNyRdOslCKi-NL-uO_dCZdIOwyW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Assignments   
 * [Field Recording + Micromontage Etude (due at the start of Week 7)](/MUS218A-Soundscapes-FA2025/assignments/micromontage-field-recording-etude/){:target="_blank"} 
 
+#### Listening     
+
+* [Horacio Vaggione, _SCHALL_ (1994)](https://youtu.be/K-FjnKiDWQc?si=vv1E7vNDpxwiHJAU){:target="_blank"}   
+    
+{% include video id="K-FjnKiDWQc?si=vv1E7vNDpxwiHJAU" provider="youtube" %}  
+    
+* [Bernard Parmegiani, _De Natura Sonorum, Première série_ (1975) _(Listen from 4:03-8:48.)_](https://youtu.be/lXs4RwvyIWw?si=G98F6LWsRqjcoQ8U&t=243){:target="_blank"}   
+    
+{% include video id="lXs4RwvyIWw?si=G98F6LWsRqjcoQ8U&t=243" provider="youtube" %}  
+   
 ### Wednesday 10/1   
 
 * [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/53){:target="_blank"}  
+   
+#### Listening     
 
+* [Peter Evans, Jim Altieri, and Sam Pluta, _Fusion_ (2011)](https://youtu.be/-omvdioioVU?si=vchhjqBD7kXOQT2f){:target="_blank"}   
+    
+{% include video id="-omvdioioVU?si=vchhjqBD7kXOQT2f" provider="youtube" %}  
+
+* [Ryoji Ikeda, _data.index_ (2005)](https://youtu.be/Q__jJzYQLFE?si=xoBobqmc2rwaPRWU){:target="_blank"}   
+    
+{% include video id="Q__jJzYQLFE?si=xoBobqmc2rwaPRWU" provider="youtube" %}  
 
 ### Friday 10/3   
 
+#### Listening     
+
+* [Carlos Caires, _Os sons em volta_ (2025) ](https://youtu.be/cjxn6EO2syE?si=_6os7EZ2V2_nXEHV){:target="_blank"}   
+    
+{% include video id="cjxn6EO2syE?si=_6os7EZ2V2_nXEHV" provider="youtube" %}  
 
 * * *  
 
@@ -437,6 +465,29 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 ### <span style="color: #fc3a52;">{{ site.week-07-topic }}</span>    
 
 ### Monday 10/13    
+
+#### Listening   
+
+* [François Bayle, _Toupie Dans Le Ciel_ _("Spinning Top in the Sky")_ (2009)](https://youtu.be/tyCfJbJ8ZSI?si=kUK9jWXnDXPlKMun){:target="_blank"}   
+    
+{% include video id="tyCfJbJ8ZSI?si=kUK9jWXnDXPlKMun" provider="youtube" %}  
+
+* [Francis Dhomont, _Chambre d'enfants_ _("Children's Room")_ (1996)](https://youtu.be/0D2_r0352sw?si=fFgThblwefRSdIqJ){:target="_blank"}   
+    
+{% include video id="0D2_r0352sw?si=fFgThblwefRSdIqJ" provider="youtube" %}  
+
+#### Tutorials  
+
+* [A Very Rough, Arguably Stupid Intro. to Sound + Spectrograms](/https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/90){:target="_blank"}   
+
+* Introduction to SPEAR   
+{% include video id="123cSokYIDo" provider="youtube" %}  
+
+* [What is a Fourier Series?](https://youtu.be/ds0cmAV-Yek?si=WDfRKnsOxzmv4k_P){:target="_blank"}  
+{% include video id="ds0cmAV-Yek?si=WDfRKnsOxzmv4k_P" provider="youtube" %}  
+ 
+#### Download + Install        
+* [PaulXStretch](https://sonosaurus.com/paulxstretch/){:target="_blank"}  
 
 #### Deadlines   
 * [Field Recording + Micromontage Etude](/MUS218A-Soundscapes-FA2025/assignments/micromontage-field-recording-etude/){:target="_blank"} 
@@ -459,19 +510,6 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 ### <span style="color: #fc3a52;">{{ site.week-08-topic }}</span>    
 
 ### Monday 10/20   
-
-#### Tutorials  
-
-* [A Very Rough, Arguably Stupid Intro. to Sound + Spectrograms](/https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/90){:target="_blank"}   
-
-* Introduction to SPEAR   
-{% include video id="123cSokYIDo" provider="youtube" %}  
-
-* [What is a Fourier Series?](https://youtu.be/ds0cmAV-Yek?si=WDfRKnsOxzmv4k_P){:target="_blank"}  
-{% include video id="ds0cmAV-Yek?si=WDfRKnsOxzmv4k_P" provider="youtube" %}  
- 
-#### Download + Install        
-* [PaulXStretch](https://sonosaurus.com/paulxstretch/){:target="_blank"}  
 
 ### Wednesday 10/22    
 
