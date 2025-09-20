@@ -31,13 +31,15 @@ Before beginning this assignment, make sure you've:
 2. **listened to the micromontage audio excerpts** on our Schedule page; and    
 3. **collected a library of audio samples** for exploration (during in Week 4). These can be sounds you downloaded that interest you, but even better is to combine them with sounds you record (using our high quality condensor mics and field recorders).    
 
+You'll have 2 weeks to complete this assignment. It's expected that you use this time to edit your DAW session, since you'll be using many small edits and transformations of your material. Therefore, please be sure to spend the week prior collecting sounds to get yourself started. 
+
 ---
 
 ## Introduction    
 
 **Micromontage** is a technique associated with composers such as Horacio Vaggione and Bernard Parmegiani, where music is constructed from **very small sound fragments** (tens to hundreds of milliseconds). The pieces of sound are arranged traditionally using analog reel tape and splicing techniques, but later evolving through digital audio workstations (DAWs) such as ProTools and Reaper. Through precise editing and layering, these extremely short fragments create dense textures, discontinuities, and emergent sonic forms.  
 
-For this assignment, **compose a short 2–3 minute micromontage piece in IRIN**, optionally in combination with **Reaper** for additional editing or mixing (see description below). Work with IRIN to explore how **microsounds** (i.e., very short audio samples) can be selected, transformed, and assembled into coherent musical gestures and larger structures. This project emphasizes **critical listening, experimentation, and detailed construction at the micro-time scale**. Unlike Reaper, IRIN allows you to more easily visaualize and manipulate sound segments at a microscopic level.      
+For this assignment, **compose a short 2–3 minute micromontage piece in IRIN**, optionally in combination with **Reaper** for additional editing or mixing (see description below). Work with IRIN to explore how **microsounds** (i.e., very short audio samples) can be selected, transformed, and assembled into coherent musical gestures and larger structures. This project emphasizes **critical listening, experimentation, and detailed construction at the micro-time scale**. Unlike Reaper, IRIN allows you to more easily visaualize and manipulate sound segments at a microscopic level.   
 
 ---
 
