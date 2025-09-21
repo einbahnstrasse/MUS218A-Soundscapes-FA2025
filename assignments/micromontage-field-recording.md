@@ -57,11 +57,11 @@ By completing this assignment, students will be able to:
 
 ### Duration of Sound Segments
 
-In micromontage, individual sound segments range from tens of milliseconds to several hundreds of milliseconds in length, but sounds typically are less than one second:    
+In micromontage, individual sound segments range from tens to several hundreds of milliseconds in length, but sounds typically are less than one second:    
 
 - **20–50 ms**: shortest fragments, near the perceptual threshold of pitch/noise
 - **100–250 ms**: very short, perceived as distinct sonic impulses   
-- **>300-800 ms**: less typical, but still short enough to function as “micro-objects” rather than full phrases   
+- **300-800 ms**: less typical, but still short enough to function as “micro-objects” rather than full phrases   
 
 ### Micromontage Technique     
 
