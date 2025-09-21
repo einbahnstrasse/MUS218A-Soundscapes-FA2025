@@ -58,7 +58,7 @@ _For an overview of grading policies for this course, see our [General Grading R
   <td markdown="span">9/15</td>
   <td markdown="span">9/29</td>
   <td markdown="span">20</td>
-  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assigments/sampling-gamelan/" target="_blank">Sampling the Gamelan</a></td>
+  <td markdown="span"><a href="/MUS218A-Soundscapes-FA2025/assignments/sampling-gamelan/" target="_blank">Sampling the Gamelan</a></td>
 </tr>
 
 <tr>

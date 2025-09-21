@@ -39,7 +39,7 @@ By completing this assignment, students will be able to:
 
 ### Step 1: Team Assignments  
 - The class will be divided into **teams**, each responsible for a group of gamelan instruments (e.g., saron, bonang, kenong, gongs).  
-- Each team ensures **all pitches** in their assigned group are recorded and indexed.  
+- Each team ensures **all pitches** in their assigned group are recorded and indexed. To be sure, your task is to record all notes available on your assigned instruments, at different dynamic levels and using different playing tecnniques (as described below).    
 
 #### Teams and Instruments      
 
@@ -133,7 +133,7 @@ For **each pitch** of each instrument:
 - Import recordings into Reaper.  
 - **Trim** so that the file begins exactly at the attack.  
 - **Short fade out** after the resonance has fully decayed.  
-- Apply only minimal processing if necessary (e.g., only noise reduction if assigned), preserving the natural sound.  
+- Do not apply processing to the sound (e.g., no noise reduction, EQ, etc.), preserving the natural sound.  
 - Export each sample as **WAV, 48 kHz / 24-bit**.  
 
 ### Step 5: Naming Convention  
