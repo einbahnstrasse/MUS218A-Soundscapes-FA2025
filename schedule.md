@@ -383,6 +383,15 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 
 {% include video id="i9nqxqkk_tc" provider="youtube" %}  
 
+* [How To Use A Compressor | Threshold, Ratio, Attack, Release & More](https://youtu.be/lgCYjek5_JY?si=Hr4Kr6YLjmBSHad0){:target="_blank"}  
+
+{% include video id="lgCYjek5_JY?si=Hr4Kr6YLjmBSHad0" provider="youtube" %}  
+
+* [Parallel Processing in REAPER](https://youtu.be/uznFOBJzOvs?si=oYOvPyCAgT9mZycB){:target="_blank"}  
+
+{% include video id="uznFOBJzOvs?si=oYOvPyCAgT9mZycB" provider="youtube" %}  
+
+
 #### Demonstrations    
 * using compressors to further achieve clarity  
 * differences between compressors and limiters           
