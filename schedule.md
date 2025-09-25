@@ -514,10 +514,6 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 
 _This video contains a lot of helpful information. You may not find it all useful, so skip around. It covers not only the Dexed VST (virtual sound technology) plugin, but also how to run it in its own applicaiton container in Windows. Perhaps more helpful for us is his demonstration of downloading and running the original Yamaha DX7 cartridges containig the different presents. He also creates a signal chain: using a reverb plugin to add space after the synth itself._     
 
-* [Dexed VST Demo & Tutorial](https://youtu.be/RLXWtzBjrPM?si=F7UkeZErzuVk-Bmu){:target="_blank"}  
-
-{% include video id="RLXWtzBjrPM?si=F7UkeZErzuVk-Bmu" provider="youtube" %}  
-
 #### Demonstrations     
 * Introduction to Dexed    
 * loading Yamaha DX7 presets   
@@ -536,6 +532,14 @@ _This video contains a lot of helpful information. You may not find it all usefu
 
 #### Tutorials    
 * [Surge XT Tuning Guide](https://surge-synthesizer.github.io/tuning-guide/){:target="_blank"}    
+
+#### Video Tutorials    
+
+* [Dexed VST Demo & Tutorial](https://youtu.be/RLXWtzBjrPM?si=F7UkeZErzuVk-Bmu){:target="_blank"}  
+
+{% include video id="RLXWtzBjrPM?si=F7UkeZErzuVk-Bmu" provider="youtube" %}  
+
+_This video briefly shows you how to obtain microtonal sound using the Dexed VST synth and the Sevish Scale Workshop. Don't feel obligated to watch this entire video; skim this one as well for anything useful. We'll also be working with microtones in the Surge XT synth plugin today._     
 
 #### Demonstrations   
 * creating, editing, and exporting your own microtonal scales in the [Sevish Scale Workshop](https://sevish.com/scaleworkshop/){:target="_blank"}     
