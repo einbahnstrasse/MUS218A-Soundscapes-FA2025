@@ -379,11 +379,7 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 
 #### Tutorial Videos   
 
-* [10 Of The BEST Free Plugins You Should Know for Sound Design 🎧](https://youtu.be/i9nqxqkk_tc?si=LULthBuyMJrToVg1){:target="_blank"}  
-
-{% include video id="i9nqxqkk_tc" provider="youtube" %}  
-
-* [How To Use A Compressor | Threshold, Ratio, Attack, Release & More](https://youtu.be/lgCYjek5_JY?si=Hr4Kr6YLjmBSHad0){:target="_blank"}  
+* [How To Use A Compressor: Threshold, Ratio, Attack, Release & More](https://youtu.be/lgCYjek5_JY?si=Hr4Kr6YLjmBSHad0){:target="_blank"}  
 
 {% include video id="lgCYjek5_JY?si=Hr4Kr6YLjmBSHad0" provider="youtube" %}  
 
@@ -424,6 +420,12 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=cvbUcrD7145Ax3PN&amp;list=PLvHcvpaNyRdOslCKi-NL-uO_dCZdIOwyW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+#### Demonstrations    
+* Introduction to IRIN      
+* the IRIN Sample Editor    
+* the IRIN Timeline     
+* saving a project and exporting audio    
+
 #### Assignments   
 * [Field Recording + Micromontage Etude (due at the start of Week 7)](/MUS218A-Soundscapes-FA2025/assignments/micromontage-field-recording-etude/){:target="_blank"} 
 
@@ -436,11 +438,22 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 * [Bernard Parmegiani, _De Natura Sonorum, Première série_ (1975) _(Listen from 4:03-8:48.)_](https://youtu.be/lXs4RwvyIWw?si=G98F6LWsRqjcoQ8U&t=243){:target="_blank"}   
     
 {% include video id="lXs4RwvyIWw?si=G98F6LWsRqjcoQ8U&t=243" provider="youtube" %}  
-   
+    
+#### Terms, Concepts, Objects, Shortcuts    
+- `micromontage`   
+- `granular synthesis`   
+- `grain`    
+
 ### Wednesday 10/1   
 
+#### Tutorials    
 * [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/#/53){:target="_blank"}  
-   
+
+#### Demonstrations    
+* the IRIN Figure Composer        
+* saving and revising figures     
+* treatments and variation within IRIN      
+
 #### Listening     
 
 * [Peter Evans, Jim Altieri, and Sam Pluta, _Fusion_ (2011)](https://youtu.be/-omvdioioVU?si=vchhjqBD7kXOQT2f){:target="_blank"}   
@@ -451,13 +464,36 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
     
 {% include video id="Q__jJzYQLFE?si=xoBobqmc2rwaPRWU" provider="youtube" %}  
 
+#### Terms, Concepts, Objects, Shortcuts    
+- `figure`   
+- `filter`   
+- `delay`   
+- `transposition`    
+- `rotate`    
+- `onset`     
+- `expand/compress`    
+
 ### Friday 10/3   
+
+#### Demonstrations    
+* the IRIN Slicer instrument          
+* outputs tool and routing matrix     
+* randomization of output channels         
+* BPFs for speeding up / slowing down onsets      
 
 #### Listening     
 
 * [Carlos Caires, _Os sons em volta_ (2025) ](https://youtu.be/cjxn6EO2syE?si=_6os7EZ2V2_nXEHV){:target="_blank"}   
     
 {% include video id="cjxn6EO2syE?si=_6os7EZ2V2_nXEHV" provider="youtube" %}  
+
+#### Assignments     
+* _Download & install: Dexed, Surge XT, and MTS-ESP Mini before Monday!_   
+
+#### Terms, Concepts, Objects, Shortcuts    
+- `BPF`   
+- `slicer tool`   
+- `amplitude envelope`   
 
 * * *  
 
@@ -466,9 +502,60 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 
 ### Monday 10/6    
 
+#### Tutorial Videos   
+
+* [Yamaha DX7 Famous Sounds Demo](https://youtu.be/BCwn26FePAo?si=uFc3gtPxmFI2NJYt){:target="_blank"}  
+
+{% include video id="BCwn26FePAo?si=uFc3gtPxmFI2NJYt" provider="youtube" %}  
+
+* [Dexed VST Demo & Tutorial](https://youtu.be/okB0g5EdJSo?si=rqMA1t9OoEfPxOl7){:target="_blank"}  
+
+{% include video id="okB0g5EdJSo?si=rqMA1t9OoEfPxOl7" provider="youtube" %}  
+
+_This video contains a lot of helpful information. You may not find it all useful, so skip around. It covers not only the Dexed VST (virtual sound technology) plugin, but also how to run it in its own applicaiton container in Windows. Perhaps more helpful for us is his demonstration of downloading and running the original Yamaha DX7 cartridges containig the different presents. He also creates a signal chain: using a reverb plugin to add space after the synth itself._     
+
+* [Dexed VST Demo & Tutorial](https://youtu.be/RLXWtzBjrPM?si=F7UkeZErzuVk-Bmu){:target="_blank"}  
+
+{% include video id="RLXWtzBjrPM?si=F7UkeZErzuVk-Bmu" provider="youtube" %}  
+
+#### Demonstrations     
+* Introduction to Dexed    
+* loading Yamaha DX7 presets   
+
+#### Terms, Concepts, Objects, Shortcuts    
+- `VST`   
+- `plugin`   
+- `Yamaha DX7`   
+- `FM synthesis`   
+- `carrier`    
+- `operator`   
+- `presets`   
+- `EG`    
+
 ### Wednesday 10/8    
 
+#### Tutorials    
+* [Surge XT Tuning Guide](https://surge-synthesizer.github.io/tuning-guide/){:target="_blank"}    
+
+#### Demonstrations   
+* creating, editing, and exporting your own microtonal scales in the [Sevish Scale Workshop](https://sevish.com/scaleworkshop/){:target="_blank"}     
+* importing your microtonal scales into Dexed    
+* introduction to the Surge XT plugin synthesizer   
+* microtonality in Surge XT    
+
 ### Friday 10/10    
+
+#### Downloads     
+* [Melda Production Free FX Plugins Bundle](https://www.meldaproduction.com/MFreeFXBundle){:target="_blank"}  
+
+#### Demonstrations     
+* Survey of various plugins discussed in the following video, and elsewhere:     
+
+#### Tutorial Videos   
+
+* [10 Of The BEST Free Plugins You Should Know for Sound Design 🎧](https://youtu.be/i9nqxqkk_tc?si=LULthBuyMJrToVg1){:target="_blank"}  
+
+{% include video id="i9nqxqkk_tc" provider="youtube" %}  
 
 #### Assignments     
 * _Download & install SPEAR and PaulXStretch before Monday!_   
