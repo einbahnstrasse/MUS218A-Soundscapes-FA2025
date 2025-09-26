@@ -387,6 +387,11 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 
 {% include video id="uznFOBJzOvs?si=oYOvPyCAgT9mZycB" provider="youtube" %}  
 
+#### Tutorials    
+
+* [Audio dynamics 101: compressors, limiters, expanders, and gates](https://www.izotope.com/en/learn/audio-dynamics-101-compressors-limiters-expanders-and-gates?srsltid=AfmBOoqopdkbxCwteOb1_EdhESOd6IVu0D6YLGpViAXIT0ZOC1ksRLbx){:target="_blank"}  
+
+* [Expansion and Gating](https://www.themusictelegraph.com/742){:target="_blank"}  
 
 #### Demonstrations    
 * using compressors to further achieve clarity  
@@ -399,8 +404,14 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 #### Terms, Concepts, Objects, Shortcuts    
 - `compressor`   
 - `limiter`    
+- `knee`    
+- `threshold`    
 - `brick wall`   
-    
+- `upward compression` 
+- `downward compression` 
+- `upward expansion` 
+- `downward expansion` 
+   
 * * *  
 
 ## Week 5: {{ site.week-05 }}  
