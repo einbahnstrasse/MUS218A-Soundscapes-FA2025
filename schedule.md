@@ -398,6 +398,15 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 * differences between compressors and limiters           
 * uses of compressors and limiters in context     
 
+#### Dynamics Processing Definitions   
+
+| Type                   | What It Does                                      | Effect on Dynamics              | Typical Use Case                          |
+|------------------------|---------------------------------------------------|---------------------------------|-------------------------------------------|
+| **Downward Compression** | Reduces loud sounds above threshold               | Narrows range (quieter peaks)   | Mastering, mix balance, vocal control      |
+| **Upward Compression**   | Boosts quiet sounds below threshold               | Narrows range (louder quiets)   | Parallel compression, detail enhancement   |
+| **Downward Expansion**   | Reduces quiet sounds below threshold              | Widens range (quieter quiets)   | Noise gating, background noise reduction   |
+| **Upward Expansion**     | Boosts loud sounds above threshold                | Widens range (louder louds)     | Punch, transient accentuation, sound design|
+
 #### Assignments     
 * _Download & install IRIN before Monday!_   
 
