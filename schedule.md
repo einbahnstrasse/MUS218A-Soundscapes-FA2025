@@ -402,10 +402,11 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 
 | Type                   | What It Does                                      | Effect on Dynamics              | Typical Use Case                          | Example Ratio |
 |------------------------|---------------------------------------------------|---------------------------------|-------------------------------------------|---------------|
-| **Downward Compression** | &#8595; loud sounds above threshold               | Narrows range (quieter peaks)   | mix balance, transient control      | 4:1           |
-| **Upward Compression**   | &#8593; quiet sounds below threshold               | Narrows range (louder quiets)   | quiet detail boost   | 1:2           |
-| **Downward Expansion**   | &#8595; quiet sounds below threshold              | Widens range (quieter quiets)   | Noise reduction   | 1:2           |
-| **Upward Expansion**     | &#8593; loud sounds above threshold                | Widens range (louder louds)     | Punch, transient accentuation | 2:1           |
+| **Downward Compression** | &#8595; louds above threshold               | Narrows range (quieter peaks)   | mix balance, transient control      | 4:1           |
+| **Upward Compression**   | &#8593; quiets below threshold               | Narrows range (louder quiets)   | quiet detail boost   | 1:2           |
+| **Downward Expansion**   | &#8595; quiets below threshold              | Widens range (quieter quiets)   | Noise reduction   | 1:2           |
+| **Upward Expansion**     | &#8593; louds above threshold                | Widens range (louder louds)     | Punch, transient accentuation | 2:1           |
+| **Limiting**             | Hard cap, no signal exceedes threshold | "extreme downward compression" | Protects headroom, maximizes loudness, broadcast standards | ∞:1 (brickwall) |
 
 #### Assignments     
 * _Download & install IRIN before Monday!_   
