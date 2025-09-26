@@ -402,10 +402,10 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 
 | Type                   | What It Does                                      | Effect on Dynamics              | Typical Use Case                          | Example Ratio |
 |------------------------|---------------------------------------------------|---------------------------------|-------------------------------------------|---------------|
-| **Downward Compression** | Reduces loud sounds above threshold               | Narrows range (quieter peaks)   | Mastering, mix balance, vocal control      | 4:1           |
-| **Upward Compression**   | Boosts quiet sounds below threshold               | Narrows range (louder quiets)   | Parallel compression, detail enhancement   | 1:2           |
-| **Downward Expansion**   | Reduces quiet sounds below threshold              | Widens range (quieter quiets)   | Noise gating, background noise reduction   | 1:2           |
-| **Upward Expansion**     | Boosts loud sounds above threshold                | Widens range (louder louds)     | Punch, transient accentuation, sound design| 2:1           |
+| **Downward Compression** | &#8595; loud sounds above threshold               | Narrows range (quieter peaks)   | mix balance, transient control      | 4:1           |
+| **Upward Compression**   | &#8593; quiet sounds below threshold               | Narrows range (louder quiets)   | quiet detail boost   | 1:2           |
+| **Downward Expansion**   | &#8595; quiet sounds below threshold              | Widens range (quieter quiets)   | Noise reduction   | 1:2           |
+| **Upward Expansion**     | &#8593; loud sounds above threshold                | Widens range (louder louds)     | Punch, transient accentuation | 2:1           |
 
 #### Assignments     
 * _Download & install IRIN before Monday!_   
