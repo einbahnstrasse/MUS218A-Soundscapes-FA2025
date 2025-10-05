@@ -620,7 +620,7 @@ _This video briefly shows you how to obtain microtonal sound using the Dexed VST
 
 #### Assignments    
 * [Midterm 3-Minute Sketch (due at the start of Week 9)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
-* [Composite Timbre Etude (due at the start of Week 10)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
+* [Composite Timbre Etude (due at the start of Week 10)](/MUS218A-Soundscapes-FA2025/assignments/composite-timbre-etude/){:target="_blank"}   
    
 ### Wednesday 10/15  
 _Fall Recess: No class!_   
