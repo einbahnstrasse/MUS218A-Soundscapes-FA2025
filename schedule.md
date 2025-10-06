@@ -522,7 +522,7 @@ _Sari Raras_, a gamelan ensemble based on the Javanese form of gamelan accompani
 ### <span style="color: #fc3a52;">{{ site.week-06-topic }}</span>    
 
 ### Monday 10/6    
-
+    
 #### Tutorial Videos   
 
 * [Yamaha DX7 Famous Sounds Demo](https://youtu.be/BCwn26FePAo?si=uFc3gtPxmFI2NJYt){:target="_blank"}  
@@ -539,6 +539,10 @@ _This video contains a lot of helpful information. You may not find it all usefu
 * Introduction to Dexed    
 * loading Yamaha DX7 presets   
 
+#### Downloads    
+
+* [Yamaha DX7 Cartridge Sysex Files](https://drive.google.com/drive/folders/19DJLBsynrlNXbNabuOiRQtnkzdLsrxmT?usp=sharing){:target="_blank"}  
+   
 #### Terms, Concepts, Objects, Shortcuts    
 - `VST`   
 - `plugin`   
