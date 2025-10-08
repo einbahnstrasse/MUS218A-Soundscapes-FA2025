@@ -566,6 +566,21 @@ _This video contains a lot of helpful information. You may not find it all usefu
 
 _This video briefly shows you how to obtain microtonal sound using the Dexed VST synth and the Sevish Scale Workshop. Don't feel obligated to watch this entire video; skim this one as well for anything useful. We'll also be working with microtones in the Surge XT synth plugin today._     
 
+* [Easley Blackwood, _12 Microtonal Etudes for Electronic Music Media_, Op. 28 (1980)](https://youtu.be/E40Y5mOv9bg?si=NHVgborWSB9rJzzt){:target="_blank"}  
+
+{% include video id="E40Y5mOv9bg?si=NHVgborWSB9rJzzt" provider="youtube" %}  
+
+_Listen to just a few of the short pieces in this collection; not the whole thing! Each piece in this set is written in a different division of the octave: What is normally 12 steps on a piano. Some of Blackwood's works divide the octave into 13 equal parts intead of 12, or 19, or more. How does each piece sound or feel different from one another? Does the tuning sound jarring, or surreal? Does it sound different forever, or does it change as you listen on?_      
+
+* [Horse Lords, _Law of Movement_ (2022)](https://youtu.be/T1mrD-9jP-Y?si=kaMRwwCPORUBTCIU){:target="_blank"}  
+
+{% include video id="T1mrD-9jP-Y?si=kaMRwwCPORUBTCIU" provider="youtube" %}  
+
+_Horse Lords, a band from Baltimore, includes saxophone, percussion, bass, electronics, guitar, and drums. Crucially, they do not play in conventional tuning systems like others bands, but instead play in [just intonation](https://en.wikipedia.org/wiki/Just_intonation){:target="_blank"}._    
+
+#### Downloads     
+* [New Scales Based on Spectral Emissions Lines](https://drive.google.com/drive/folders/17iWGm2sRWlvR57cWBTbINTZo9nqpygh-?usp=sharing){:target="_blank"}  
+   
 #### Demonstrations   
 * creating, editing, and exporting your own microtonal scales in the [Sevish Scale Workshop](https://sevish.com/scaleworkshop/){:target="_blank"}     
 * importing your microtonal scales into Dexed    
