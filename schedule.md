@@ -651,27 +651,121 @@ _Reminder: Your next assignment is due on Monday, October 27!_
   
 * * *  
 
+<!-- modular  -->
 ## Week 8: {{ site.week-08 }}  
 ### <span style="color: #fc3a52;">{{ site.week-08-topic }}</span>    
 
 ### Monday 10/20   
 
+#### Tutorial Videos   
+* [What is Modular Synthesis? Ask Mort...](https://youtu.be/2IIOdxgQurM?si=bsHEJEoHGjL8MP5d){:target="_blank"}  
+   
+{% include video id="2IIOdxgQurM?si=bsHEJEoHGjL8MP5d" provider="youtube" %}  
+
+#### Modular Synthesis Glossary       
+* Consult the [Learning Modular Glossary](https://learningmodular.com/glossary/){:target="_blank"} to understand the terms and concepts involved in modular synthesis!     
+
+#### Demonstrations      
+* basic oscillators   
+* adding waveforms together   
+* modulation with control voltage    
+
+#### Terms, Concepts, Objects, Shortcuts    
+- `oscillator`   
+- `control voltage`   
+- `VCO`   
+- `amplifier`   
+- `VCA`     
+- `ADSR`   
+- `additive synthesis`   
+
 ### Wednesday 10/22    
+
+#### Demonstrations      
+* frequency modulation       
+* amplitude modulation      
+* building a complex oscillator       
+
+#### Terms, Concepts, Objects, Shortcuts     
+- `oscilloscope`        
+- `LFO`   
+- `modulation`   
+- `FM`  
+- `AM`    
+- `complex oscillator`   
+- `cross modulation`   
 
 ### Friday 10/24   
 
+#### Videos   
+* [Bebe & Louis Barron, "Ancient Krell Music" (from _Forbidden Planet_, 1956)](https://youtu.be/oNKhju6Pryg?si=lD_u1nYj6_qaJgSL){:target="_blank"}  
+   
+{% include video id="oNKhju6Pryg?si=lD_u1nYj6_qaJgSL" provider="youtube" %}  
+
+#### Tutorials    
+* [Recreating the Krell Patch by Todd Barton](https://olney.ai/ct-modular-book/krell.html){:target="_blank"}  
+
+#### Demonstrations      
+* physical model of a string with feedback           
+* designing Krell patches for generative, self-playing music systems            
+
+#### ADD Free VCV Library Modules   
+_At each of the links below, click `ADD` to include them in your VCV library._     
+* [MSM Oscix](https://library.vcvrack.com/MSM/OSCiX){:target="_blank"}  
+* [Alright Devices Chronoblob2](https://library.vcvrack.com/AlrightDevices/Chronoblob2){:target="_blank"}  
+* [NYSTHI Polyphonic LPG](https://library.vcvrack.com/NYSTHI/PolyLPG){:target="_blank"}  
+* [Surge XT VCF](https://library.vcvrack.com/SurgeXTRack/SurgeXTVCF){:target="_blank"}  
+* [Bogaudio MIX4](https://library.vcvrack.com/Bogaudio/Bogaudio-Mix4){:target="_blank"}  
+* [Surge XT Spring Reverb](https://library.vcvrack.com/SurgeXTRack/SurgeXTFXSpringReverb){:target="_blank"}  
+* [RCM CV Momentary](https://library.vcvrack.com/rcm/rcm-CVMmt){:target="_blank"}  
+* [Befaco Rampage](https://library.vcvrack.com/Befaco/Rampage){:target="_blank"}  
+* [NYSTHI SoyModelSOU](https://library.vcvrack.com/NYSTHI/SoyModelSOU){:target="_blank"}  
+* [Surge XT Quad LFO](https://library.vcvrack.com/SurgeXTRack/SurgeXTQuadLFO){:target="_blank"}  
+
+#### Assignments     
+* _Download & install SpatGRIS and BlackHole (or JACK Audio for Windows) before Monday!_   
+
+#### Terms, Concepts, Objects, Shortcuts     
+- `Karplus Strong algorithm`    
+- `pulse width`  
+- `filter`   
+- `attenuator`   
+- `attenuverter`   
+- `Krell patch`   
+- `LPG`   
+
 * * *  
 
+<!-- spatial  -->
 ## Week 9: {{ site.week-09 }}  
 ### <span style="color: #fc3a52;">{{ site.week-09-topic }}</span>   
 
 ### Monday 10/27  
 
+#### Downloads     
+* [Boiler Audio Files for Spatialization](https://github.com/einbahnstrasse/MHL-intro-spat){:target="_blank"}  
+
+#### Tutorials  
+* [Ellen Fullman’s Long String Instrument](https://scottcolburn.com/blog/?p=5445){:target="_blank"}  
+
+#### Demonstrations     
+* spatGris basic setup  
+* ControlGris plugin    
+* automating spatial trajectories in Reaper    
+* binaural mode in spatGris    
+
 #### Deadlines    
-* [Midterm 3-Minute Sketch](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
+* [Midterm 3-Minute Stereo Sketch](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
 
 #### Assignments     
 * [Final Multichannel Fixed Media Piece (due November 21)](/MUS218A-Soundscapes-FA2025/assignments/final-multichannel-fixed-piece/){:target="_blank"}  
+
+#### Terms, Concepts, Objects, Shortcuts     
+- `spatialization`    
+- `trajectory`  
+- `latch mode`    
+- `binaural`   
+- `transaural`   
 
 ### Wednesday 10/29    
 
