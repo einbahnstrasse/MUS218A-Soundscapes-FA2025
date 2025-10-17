@@ -672,7 +672,18 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 ### Monday 10/20   
 
 #### Tutorial Videos   
-* [What is Modular Synthesis? Ask Mort...](https://youtu.be/2IIOdxgQurM?si=bsHEJEoHGjL8MP5d){:target="_blank"}  
+
+* [What's a modular synth?](https://youtu.be/h9tMFyKxbrI?si=UCw-zNgmP9tLzVcw){:target="_blank"}  
+   
+{% include video id="h9tMFyKxbrI?si=UCw-zNgmP9tLzVcw" provider="youtube" %}  
+
+* [CV, Gate, Trigger & MIDI](https://youtu.be/7TcHzHhjzs8?si=EiVmt1984fGxrgO5){:target="_blank"}  
+   
+{% include video id="7TcHzHhjzs8?si=EiVmt1984fGxrgO5" provider="youtube" %}  
+
+#### Listening        
+
+* [Morton Subotnick Performance](https://youtu.be/2IIOdxgQurM?si=bsHEJEoHGjL8MP5d){:target="_blank"}  
    
 {% include video id="2IIOdxgQurM?si=bsHEJEoHGjL8MP5d" provider="youtube" %}  
 
@@ -686,14 +697,32 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 
 #### Terms, Concepts, Objects, Shortcuts    
 - `oscillator`   
-- `control voltage`   
+- `control voltage` or `CV`      
 - `VCO`   
 - `amplifier`   
 - `VCA`     
 - `ADSR`   
 - `additive synthesis`   
+- `gate`   
+- `trigger`  
 
 ### Wednesday 10/22    
+
+#### Tutorial Videos   
+
+* [Attenuators, Polarizers & Offsets](https://youtu.be/GtKO84CW6kU?si=yGhcOpssWTqJhGBg){:target="_blank"}  
+   
+{% include video id="GtKO84CW6kU?si=yGhcOpssWTqJhGBg" provider="youtube" %}  
+
+* [Clocks & Sequencers](https://youtu.be/Zoeo8mK_zsE?si=IYmrUWsJGV3-YkTN){:target="_blank"}  
+   
+{% include video id="Zoeo8mK_zsE?si=IYmrUWsJGV3-YkTN" provider="youtube" %}  
+
+#### Listening      
+
+* [Richard Devine, _Recursion Constructors_](https://youtu.be/0X3X0jRaPTk?si=m6tJt31myQkZ4Z1B){:target="_blank"}  
+   
+{% include video id="0X3X0jRaPTk?si=m6tJt31myQkZ4Z1B" provider="youtube" %}  
 
 #### Demonstrations      
 * frequency modulation       
@@ -701,17 +730,24 @@ _Reminder: Your next assignment is due on Monday, October 27!_
 * building a complex oscillator       
 
 #### Terms, Concepts, Objects, Shortcuts     
-- `oscilloscope`        
+- `attenuator` vs. `amplifier`     
+- `inverter` vs. `attenuverter`        
 - `LFO`   
-- `modulation`   
+- `DC` voltage   
 - `FM`  
-- `AM`    
 - `complex oscillator`   
 - `cross modulation`   
 
 ### Friday 10/24   
 
-#### Videos   
+#### Tutorial Videos   
+
+* [Envelopes & Function Generators](https://youtu.be/SBTiaGG6T6A?si=7mlU7SWwOMfaWcTM){:target="_blank"}  
+   
+{% include video id="SBTiaGG6T6A?si=7mlU7SWwOMfaWcTM" provider="youtube" %}  
+
+#### Listening      
+
 * [Bebe & Louis Barron, "Ancient Krell Music" (from _Forbidden Planet_, 1956)](https://youtu.be/oNKhju6Pryg?si=lD_u1nYj6_qaJgSL){:target="_blank"}  
    
 {% include video id="oNKhju6Pryg?si=lD_u1nYj6_qaJgSL" provider="youtube" %}  
@@ -742,9 +778,8 @@ _At each of the links below, click `ADD` to include them in your VCV library._
 #### Terms, Concepts, Objects, Shortcuts     
 - `Karplus Strong algorithm`    
 - `pulse width`  
+- `clock divider`   
 - `filter`   
-- `attenuator`   
-- `attenuverter`   
 - `Krell patch`   
 - `LPG`   
 
