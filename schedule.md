@@ -587,6 +587,12 @@ _Horse Lords, a band from Baltimore, includes saxophone, percussion, bass, elect
 * introduction to the Surge XT plugin synthesizer   
 * microtonality in Surge XT    
 
+#### Terms, Concepts, Objects, Shortcuts    
+- `Scala file`      
+- `pitch ratio`      
+- `cents`    
+- `just intonation`   
+
 ### Friday 10/10    
 
 #### Downloads     
@@ -599,8 +605,8 @@ _Horse Lords, a band from Baltimore, includes saxophone, percussion, bass, elect
 
 * [10 Of The BEST Free Plugins You Should Know for Sound Design 🎧](https://youtu.be/i9nqxqkk_tc?si=LULthBuyMJrToVg1){:target="_blank"}  
 
-{% include video id="i9nqxqkk_tc" provider="youtube" %}  
-
+{% include video id="i9nqxqkk_tc" provider="youtube" %}   
+ 
 #### Assignments     
 * _Download & install SPEAR and PaulXStretch before Monday!_   
 
@@ -640,7 +646,15 @@ _Horse Lords, a band from Baltimore, includes saxophone, percussion, bass, elect
 #### Assignments    
 * [Midterm 3-Minute Sketch (due at the start of Week 9)](/MUS218A-Soundscapes-FA2025/assignments/midterm/){:target="_blank"}   
 * [Composite Timbre Etude (due at the start of Week 10)](/MUS218A-Soundscapes-FA2025/assignments/composite-timbre-etude/){:target="_blank"}   
-   
+     
+#### Terms, Concepts, Objects, Shortcuts    
+- `spectrogram`   
+- `frequency domain` vs. `time domain`      
+- `Fourier transform` or `FFT`    
+- `fundamental frequency`   
+- `harmonic partials`   
+- `timbre`   
+     
 ### Wednesday 10/15  
 _Fall Recess: No class!_   
 _Reminder: Your next assignment is due on Monday, October 27!_   
