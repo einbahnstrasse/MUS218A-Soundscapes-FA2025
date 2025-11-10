@@ -841,6 +841,14 @@ _At each of the links below, click `ADD` to include them in your VCV library._
 
 ### Monday 11/10   
 
+#### Watch Documentary     
+* [_Sisters With Transistors_ (2021, 1 hour 26 minutes, dir. Lisa Rovner)](https://librarysearch.bates.edu/discovery/fulldisplay?docid=alma991005892935008044&context=L&vid=01CBB_BCOLL:BATES&lang=en&search_scope=NZ_Everything&adaptor=Local%20Search%20Engine&tab=NZ_Everything&query=any,contains,sisters%20with%20transistors&offset=0){:target="_blank"}   
+
+_Watch this documentary and take notes. We'll have a short hand-written quiz (no computers) followed by group a discussion about the film next Monday. Pay attention to each composer/performer and their influence on electronic music._   
+
+_This quiz is just practice for the final exam on December 5th, which will be in a similar format. I'll grade the quiz and return it to you, but it will not go on your record. Expect multiple choice and short essay questions, and be sure to bring a pencil and eraser._    
+
+
 ### Wednesday 11/12   
 
 ### Friday 11/14   
@@ -853,6 +861,9 @@ _At each of the links below, click `ADD` to include them in your VCV library._
 ### <span style="color: #fc3a52;">{{ site.week-12-topic }}</span>    
 
 ### Monday 11/17   
+
+#### Quiz    
+**Quiz** on Sisters with Transistors, as described a week prior.     
 
 ### Wednesday 11/19   
 
