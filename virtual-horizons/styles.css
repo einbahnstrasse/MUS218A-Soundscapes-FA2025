@@ -592,7 +592,8 @@ footer {
 }
 
 .marquee-text {
-    font-family: 'Syne', sans-serif;
+    /* font-family: 'Syne', sans-serif; */
+    font-family: 'EB Garamond', Georgia, serif;
     font-size: 0.7rem;
     letter-spacing: 0.16em;
     text-transform: uppercase;
