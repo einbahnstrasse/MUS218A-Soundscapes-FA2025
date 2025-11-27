@@ -39,7 +39,7 @@ Vibrations per second; determines perceived pitch. Measured in Hertz (cycles per
 The auditory perception of frequency, experienced as high or low. Pitch is perceived along a linear scale and can be easily measured in cents (100 equidistant cents between half-steps), or in MIDI pitch values (0-127 for each half step).
 
 ## amplitude
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## period
 The time it takes for one full cycle of a periodic waveform (e.g., one cycle of a sine wave before the waveform repeats).
@@ -48,7 +48,7 @@ The time it takes for one full cycle of a periodic waveform (e.g., one cycle of 
 Whole-number multiples of a fundamental frequency, which, when added together along with non-harmonic or noisy partials, determines a complex sound’s timbre (i.e., sound color). Sounds with louder upper harmonics may sound bright or distorted; sounds rich in lower harmonics may sound warm, balanced, or less complex. 
 
 ## fundamental
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## overtones
 Frequencies above the fundamental that contribute to timbre; includes both harmonic and non-harmonic partials.
@@ -57,7 +57,7 @@ Frequencies above the fundamental that contribute to timbre; includes both harmo
 Repetitive variation around an equilibrium point.
 
 ## mass-spring system
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## simple harmonic motion
 Smooth, repeating oscillation caused by a restoring force.
@@ -66,19 +66,19 @@ Smooth, repeating oscillation caused by a restoring force.
 A wire inside a dynamic microphone that converts motion into electricity.
 
 ## diaphragm
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## polar pattern
 The directional sensitivity area of a microphone. For example, a cardioid pattern accepts sound that is on-axis from the front of the mic, but rejects most of the sound at its rear, as opposed to an omni pattern, which accepts sound from all angles around the mic. (The Cardioid polar pattern is so named because its shape resembles a heart.)
 
 ## cardioid
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## omni
 A polar pattern that captures sound equally from all directions.
 
 ## figure-8
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## XLR cable
 A balanced, 3-pin cable used for transmitting audio signals cleanly, without electrical interference.
@@ -87,13 +87,13 @@ A balanced, 3-pin cable used for transmitting audio signals cleanly, without ele
 Audio carried on a cable using differential signaling to reduce noise and interference.
 
 ## unbalanced audio
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## cable coiling
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## condenser mic
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## dynamic mic
 A microphone using a moving coil; durable and versatile. Does not require phantom power. Usually these mics are considered to be more “rugged,” easily withstanding live sound contexts where they might encounter accidental falls, etc.
@@ -102,19 +102,19 @@ A microphone using a moving coil; durable and versatile. Does not require phanto
 A device that converts analog sound to digital audio and back. Used to “interface” your computer with analog sound from mics, instrument cables, MIDI peripheral devices, etc.
 
 ## gain staging
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## clipping distortion
 Harsh distortion caused by exceeding the maximum audio level of 0dBFS.
 
 ## proximity effect
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## plosives
 Low-frequency “pops” from bursts of air hitting a microphone, often associated with spoken or sung consonant sounds, where turbulent air is rapidly released and hits a microphone. A pop filter is usually placed in front of a microphone to help soften these effects.
 
 ## sibilance
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ---
 
@@ -136,7 +136,7 @@ A pure tone containing no harmonics, with an ideally smooth waveform.
 A waveform with an instantaneous change in direction that creates odd harmonics, which diminish quickly.
 
 ## sawtooth wave
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## square wave
 A waveform that switches between low and high states, containing rich harmonics. The width of the square (period, or distance between the wave changing from low-to-high and back down from high-to-low) is called the duty cycle. In modular synthesis, square waves can be used as control voltage as a simple switching mechanism (c.f. trigger and gate signals) in addition to its sonic properties.
@@ -154,28 +154,28 @@ Pierre Schaffer’s term for a recorded sound treated as a compositional unit th
 Listening focused on the perception of an audio source’s sonic qualities alone, not its source or social context. In reduced listening, sonic qualities are considered apart from any distractions concerning the sound producing medium or its history.
 
 ## diffusion
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## fade
 A gradual increase or decrease in audio volume, usually to begin and end an audio clip without sudden spikes in amplitude that would cause clipping.
 
 ## crossfade
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## FX bus
 A routing path allowing multiple tracks to share the same audio originating from a track.
 
 ## treatment
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## digital audio workstation (DAW)
 Timeline-based software for recording, editing, mixing, and producing audio. A DAW’s interface mimics a mixing console with multiple tracks, sends, busses, master tracks, effects chains, and more.
 
 ## split
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## glue
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## regions
 Labeled or delineated sections of audio in a DAW used for organization and editing.
@@ -187,7 +187,7 @@ Points placed on the timeline to indicate important moments or structural locati
 The path audio takes through tracks, buses, and effects inside a DAW.
 
 ## tracks
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## buses
 Signal pathways that collect audio from one or more tracks and combine them for shared processing in another location. 
@@ -213,7 +213,7 @@ A system that routes a copy of a track’s signal to an effects processor (send)
 A digital recording used as musical material, or a single value that expresses instantaneous amplitude at a single moment of time (i.e., one sample in a series of samples contained in an audio file). 
 
 ## sampling
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## sampling culture
 Music-making that uses appropriation and recombination of recordings.
@@ -222,37 +222,37 @@ Music-making that uses appropriation and recombination of recordings.
 Assigning samples to specific MIDI keys, knobs, and faders on a MIDI control surface.
 
 ## naming convention
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## gamelan
 Traditional Javanese or Balinese ensemble of largely metallic instruments, used for performances of music and theatre. Bates College owns its own Gamelan instruments.
 
 ## MIDI technical standard
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## MIDI events and messages
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## audio-visual complex
 The interplay between what is heard and what is seen when perceiving sound sources.
 
 ## MIDI pitch
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## MIDI velocity
 A value representing how forcefully a note is played, analogous to the dynamic level played by a musician (from extremely soft to extremely loud).
 
 ## 5-pin DIN cable
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## IN, OUT, and THRU
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## daisy chain
 A linear series connection of MIDI devices, using their IN, OUT, and THRU ports.
 
 ## star configuration
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## ReaSamplomatic 5000
 A sampler instrument plugin device in Reaper used for loading, mapping, keymapping, and triggering audio samples.
@@ -270,16 +270,16 @@ A synthesizer that can only play one note at a time. It cannot play chords or mu
 A synthesizer capable of playing multiple notes simultaneously. Sometimes these are called “multivoice” synthesizers, meaning they support multiple voices in a polyphonic musical texture.
 
 ## Note-On
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## Note-Off
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## Pitch Bend
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## Control Change
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## Program Change
 A message that switches instrument presets, such as the General MIDI program. For example, a program change might switch between an Acoustic Grand Piano sound and an Orchestra Hit.
@@ -297,7 +297,7 @@ A byte containing values such as velocity or pitch.
 A digital file storing MIDI performance data. MIDI files do not contain sound samples. They are therefore much smaller in size than than standard audio files. Instead, MIDI files contain “instructions for performance,” such as what notes to play and precisely when to play them.
 
 ## general MIDI
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ---
 
@@ -316,7 +316,7 @@ ________ _(Find this one on your own.)_ ________
 How many audio samples are recorded from an input source, or rendered by an audio interface for output to speakers, per second. Standard CD-quality audio uses a sampling rate of 44,100 Hz, but audio production requires higher sampling rates. In our class, 48,000 Hz is our standard production sampling rate.
 
 ## Nyquist frequency
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## aliasing
 Distortion caused when frequencies above the Nyquist limit are folded back into the audible range.
@@ -328,7 +328,7 @@ The number of bits used to represent audio amplitude, analogous to pixels: the m
 The amount of space between nominal signal level and the clipping point.
 
 ## metering
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## auxiliary track
 A track used to host shared effects. One or many tracks may send copies of their audio to an aux track for parallel processing.
@@ -337,7 +337,7 @@ A track used to host shared effects. One or many tracks may send copies of their
 An effects send taken before the channel fader, used in some cases to separate wet from dry sound on separate tracks with their own faders. In pre-fader mode, changes to the source track’s fader position will not effect the amount of signal sent to an aux track. To couple the source track’s fader movement with the amount sent to an aux track, use a post-fader mode.
 
 ## automation modes
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## stems
 Individual tracks designed to function in a multichannel summation. These can be the individual tracks in a Reaper session that are designed to be mixed in some way, or they can be the individual speaker feeds in your final output mix from SpatGris.
@@ -349,10 +349,10 @@ The assignment of audio signals through tracks, buses, effects, and outputs.
 Generally, tonal balance denotes how frequencies are distributed in a mix. Since higher frequencies are perceived to be louder, balancing louder lower frequencies and softer higher frequencies creates a sense of warmth and balance in most mixing situations.
 
 ## EQ
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## pan
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## compressor
 A processor that reduces or expands overall dynamic range, making it possible to amplify the smaller details of a sound source at the cost of a higher dynamic range. Parallel compression allows the producer to mix the original, uncompressed audio on one track with an automated, compressed version on a parallel track, providing balanced compromise between the wet and dry versions of the signal.
@@ -361,13 +361,13 @@ A processor that reduces or expands overall dynamic range, making it possible to
 A compressor preventing a signal from exceeding a set level, usually used at the mastering stage of audio production.
 
 ## knee
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## threshold
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## brick wall
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## upward compression
 Amplifing quiet sounds below a certain threshold, thereby increasing dynamic range.  
@@ -395,7 +395,7 @@ Reducing the volume of quiet sounds, thereby increasing dynamic range.
 # Week 5 — Micromontage + Field Recording
 
 ## micromontage
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## granular synthesis
 Synthesis technique using many tiny sound "grains."     
@@ -407,19 +407,19 @@ A very short snippet of audio used in granular processing, usually 20–100 mill
 A modular sound structure in IRIN, made up of several grains in a sequence, which can be transformed. 
 
 ## filter
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## delay
 A time-based repetition effect, where a copy of an audio signal is typically mixed with the original, but the copy starts at some interval later. Delays with very short lengths may cause destructive and constructive interference, which will naturally filter out some frequencies while amplifying others.
 
 ## transposition
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## rotate
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## onset
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## expand/compress
 Stretching or shrinking the audio sample or grain, so that the samples are read over a longer or shorter duration.
@@ -428,7 +428,7 @@ Stretching or shrinking the audio sample or grain, so that the samples are read 
 A break-point function, used to describe a parameter changing over time. Automation curves are encoded as BPFs, for example.
 
 ## slicer tool
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## amplitude envelope
 Shape of a sound’s loudness over time. ADSR refers to the natural evolution of a sound event in electronic music: attack, sustain, decay, and release. Changing these parameters will change the sonic character of the sound source. With a shorter attack and a lower sustain level, it may sound more percussive due to sudden loudness at the start of the sound. But with a longer attack and a higher sustain, the sound may come closer to a steady-state oscillation.
@@ -457,7 +457,7 @@ The positioning of microphones in relation to environmental sound sources, affec
 A plugin format for virtual instruments and effects.
 
 ## plugin
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## synthesized sound
 Sound generated electronically using oscillators, filters, envelopes, and modulation instead of microphones and recorded sound. 
@@ -466,7 +466,7 @@ Sound generated electronically using oscillators, filters, envelopes, and modula
 A classic FM synthesizer from the 1980s.
 
 ## FM synthesis
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## carrier
 The primary tone in FM synthesis, subjected to interference by a modulating signal (modulator).
@@ -475,19 +475,19 @@ The primary tone in FM synthesis, subjected to interference by a modulating sign
 A building block of FM synthesis, acting as an oscillator-modulator unit.
 
 ## presets
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## EG
 In the DX7, an envelope generator controlling sound shapes.
 
 ## Scala file
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## pitch ratio
 Mathematical proportion defining tuning intervals found in historical and contemporary scales.
 
 ## cents
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ---
 
@@ -514,7 +514,7 @@ Two ways of representing and analyzing a sound:
 A mathematical tool for breaking sound into its frequency components. FFTs take a block of audio samples—think of this as a “chunk” of samples making up a small segment of a waveform, each representing instantaneous sound pressure or amplitude—into a multitude of frequency components at different amplitudes.
 
 ## timbre
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ---
 
@@ -539,19 +539,19 @@ A voltage-controlled oscillator in the format of a module, where voltage can mod
 Control Voltage (CV) is a form of direct current (DC) used to control parameters in a modular synthesizer, such as pitch, amplitude, filter cutoff, modulation depth, and timing. Unlike audio signals, which are typically alternating current (AC) waveforms designed to be heard, CV is meant to modulate synthesis parameters rather than produce sound directly.
 
 ## amplifier
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## VCA
 A voltage-controlled amplifier in the format of a module. Like a VCO, its parameters can be changed, or modulated, by introducing control voltage (CV) signals.
 
 ## envelopes
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## ADSR
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## modulation
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## additive synthesis
 Combining simple waves to build complex sounds and timbres.
@@ -566,7 +566,7 @@ A short pulse signal that may be used to begin a process or as the onset of anot
 An inverter flips the polarity of a signal, and an attenuverter scales and flips it.
 
 ## LFO
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## DC voltage
 Direct current: a constant control voltage whose value can be dynamically varied and used to change module behavior.
@@ -581,16 +581,16 @@ Mutual modulation between oscillators.
 A simple model of a string using a filter and feedback; a method for plucked-string synthesis.
 
 ## pulse width
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## clock divider
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## filter
 A VCF (voltage-controlled filter) used to shape frequency content, whose parameters can be modified with control voltage.
 
 ## Krell patch
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## LPG
 A Low-Pass Gate combining a low-pass filter and a VCA. When it receives CV—typically an envelope, gate, or trigger signal—it simultaneously changes amplitude and filters high frequencies, creating a natural plucked or percussive decay.
@@ -612,13 +612,13 @@ A Low-Pass Gate combining a low-pass filter and a VCA. When it receives CV—typ
 Placement of sound sources in a virtual or multi-speaker space.
 
 ## trajectory
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## multichannel monitoring
 Listening through more than two speakers to evaluate spatial audio, such as quadraphonic, 5.1, 7.1, or octophonic systems.
 
 ## SpatGRIS
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## routing for spatialization
 The configuration of DAW tracks, buses, and audio interface outputs required for multichannel spatial audio.
@@ -627,7 +627,7 @@ The configuration of DAW tracks, buses, and audio interface outputs required for
 An automation mode that holds previously recorded automation movement until the user changes it. In Reaper, automation values are only read unless the user moves the associated control, at which point new values overwrite existing automation values.
 
 ## binaural
-________ _(Find this one on your own.)_ ________      
+— _(Find this one on your own.)_ —      
 
 ## transaural
 The condition in speaker-based listening where audio from one speaker is also heard by the opposite ear, preventing perfect channel separation.
