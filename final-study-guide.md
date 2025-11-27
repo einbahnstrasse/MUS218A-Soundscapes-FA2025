@@ -16,9 +16,7 @@ read_time: true
 date: 2025-11-25  
 last_modified_at: 2025-11-25  
 
----
-
-# Study Guide    
+---  
 
 Although it's been published on our site this semester, a gentle reminder that the written portion of our final exma will be distributed on **Friday, December 5, 2025**. You can read more about this exam [here.](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/assignments/final-exam/){:target="_blank"}      
 
