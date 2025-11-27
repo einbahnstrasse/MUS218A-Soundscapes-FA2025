@@ -892,6 +892,8 @@ _No classes this week!_
 
 ### Monday 12/1  
 
+* [Final Study Guide](/MUS218A-Soundscapes-FA2025/final-study-guide/){:target="_blank"}  
+   
 #### Assignments    
 * [Technical Rider of Your Wildest Dreams (due on Monday 12/8)](/MUS218A-Soundscapes-FA2025/assignments/tech-rider/){:target="_blank"}  
      
