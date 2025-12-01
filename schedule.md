@@ -913,6 +913,8 @@ _No classes this week!_
 #### Concert in Olin Concert Hall at 7:30 PM         
 * [_Virtual Horizons: New Frontiers in Immersive Listening_](https://www.bates.edu/music/events/virtual-horizons-new-frontiers-in-immersive-listening/){:target="_blank"}  
 * [Attendance required.](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/#241-weighted-components){:target="_blank"}  
+
+<!-- comment      -->
     
 ### Wednesday 12/3  
 
