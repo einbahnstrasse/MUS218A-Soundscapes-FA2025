@@ -892,11 +892,28 @@ _No classes this week!_
 
 ### Monday 12/1  
 
+* Soundcheck schedule?    
 * [Final Study Guide](/MUS218A-Soundscapes-FA2025/final-study-guide/){:target="_blank"}  
+
+#### Videos: Analog Production Today          
+
+* [Four Tape Machines and a Cutting Lathe - The Oriignal Source Series at Emil Berliner Studios](https://youtu.be/oG9aTGSV0Gc?si=LtFxe5gjeKjP81iw){:target="_blank"}  
+
+{% include video id="oG9aTGSV0Gc" provider="youtube" %}  
+
+* [Karajan & Bruckner - The Original Source Series](https://youtu.be/G3l0Hq2ZZL8?si=DRMKtzuO3S8Ttjaz){:target="_blank"}  
+
+{% include video id="G3l0Hq2ZZL8" provider="youtube" %}  
    
 #### Assignments    
 * [Technical Rider of Your Wildest Dreams (due on Monday 12/8)](/MUS218A-Soundscapes-FA2025/assignments/tech-rider/){:target="_blank"}  
      
+### Tuesday 12/2  
+
+#### Concert in Olin Concert Hall at 7:30 PM         
+* [_Virtual Horizons: New Frontiers in Immersive Listening_](https://www.bates.edu/music/events/virtual-horizons-new-frontiers-in-immersive-listening/){:target="_blank"}  
+* [Attendance required.](https://einbahnstrasse.github.io/MUS218A-Soundscapes-FA2025/#241-weighted-components){:target="_blank"}  
+    
 ### Wednesday 12/3  
 
 ### Friday 12/5    
@@ -913,6 +930,8 @@ _Last day of class._
 ### <span style="color: #fc3a52;">{{ site.week-15-topic }}</span>    
 
 ### Monday 12/8  
+
+_No class!_    
 
 #### Deadlines   
 
