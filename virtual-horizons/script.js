@@ -68,7 +68,8 @@ const pieces = [
 
 // Program order - modify this array to reorder pieces
 // Simply change the numbers to change the order
-const programOrder = [1, 2, 3, 4, 5, 6, 7, 8];
+// const programOrder = [1, 2, 3, 4, 5, 6, 7, 8];
+const programOrder = [7, 2, 5, 3, 6, 8, 4, 1];
 
 // Function to render pieces
 function renderPieces() {
